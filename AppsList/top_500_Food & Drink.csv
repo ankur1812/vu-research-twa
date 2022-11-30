@@ -1,0 +1,501 @@
+appID, appName,rating,max_installs,category
+com.ubercab.eats,Uber Eats: Food Delivery,4.3,169142236,Food & Drink
+com.application.zomato,Zomato - Online Food Delivery & Restaurant Reviews,4.2,132241338,Food & Drink
+in.swiggy.android,Swiggy Food Order | Online Grocery | Delivery App,4.2,96584381,Food & Drink
+com.global.foodpanda.android,foodpanda - Local Food & Grocery Delivery,4.3,73637743,Food & Drink
+com.mcdonalds.mobileapp,McDonald's,2.9,72204011,Food & Drink
+br.com.brainweb.ifood,iFood Delivery de Comida e Mercado,4.8,70360304,Food & Drink
+com.yelp.android,Yelp: Find Food; Delivery & Services Nearby,3.9,54298839,Food & Drink
+com.grability.rappi,Rappi,4.2,47530692,Food & Drink
+com.mcdo.mcdonalds,McDonald's App - Latinoamérica,4.6,41635281,Food & Drink
+com.joelapenna.foursquared,Foursquare City Guide,4.2,41552450,Food & Drink
+com.Dominos,Domino's Pizza - Online Food Delivery App,4.3,40004854,Food & Drink
+com.dd.doordash,DoorDash - Food Delivery,4.6,34889570,Food & Drink
+com.mcdonalds.app,McDonald's,3.7,34662048,Food & Drink
+jp.co.mcdonalds.android,McDonald's Japan,3.5,31707184,Food & Drink
+com.sampleapp,배달의민족,2.4,31242632,Food & Drink
+com.pedidosya,PedidosYa - Delivery Online,3,27568577,Food & Drink
+com.starbucks.mobilecard,Starbucks,4.5,27492190,Food & Drink
+com.mufumbo.android.recipe.search,Cookpad - Create your own Recipes,4.7,26378655,Food & Drink
+com.fineapp.yogiyo,배달요기요 - 기다림 없는 맛집 배달앱,4.5,24429792,Food & Drink
+com.grubhub.android,Grubhub: Local Food Delivery & Restaurant Takeout,4.5,22599268,Food & Drink
+com.app.tgtg,Too Good To Go - fight food waste; save great food,4.8,21425260,Food & Drink
+com.cookpad.android.activities,クックパッド - みんなが作ってる料理のレシピで、ご飯をおいしく簡単に,4.1,20898372,Food & Drink
+com.dominospizza,Domino's Pizza USA,4.7,20557706,Food & Drink
+com.deliveryclub,Delivery Club – Доставка еды и продуктов,4.4,20350902,Food & Drink
+com.nzn.tdg,Tastely,4.4,19914603,Food & Drink
+com.deliveroo.orderapp,Deliveroo: Takeaway food,4.5,19301029,Food & Drink
+vivino.web.app,Vivino: Buy the Right Wine,4.6,18496089,Food & Drink
+com.inovel.app.yemeksepeti,Yemeksepeti - Order Food & Grocery Easily,4.6,16855964,Food & Drink
+com.cb.cakebaker.bakinggames.makergames,Ice Cream Cake Maker: Dessert Chef,4.2,16818810,Food & Drink
+com.yum.pizzahut,Pizza Hut - Food Delivery & Takeout,4.4,16762070,Food & Drink
+pyaterochka.app,Пятёрочка,2.9,15719398,Food & Drink
+com.india.foodpanda.android,foodpanda: Fastest food delivery; amazing offers,3.2,15066072,Food & Drink
+com.emn8.mobilem8.nativeapp.bk,BURGER KING® App,4.4,15029649,Food & Drink
+com.talabat,talabat: Food & Grocery Delivery,3.8,14901003,Food & Drink
+com.chickfila.cfaflagship,Chick-fil-A,4.6,13961392,Food & Drink
+com.postmates.android,Postmates - Local Restaurant Delivery & Takeout,4.2,12896964,Food & Drink
+de.burgerking.kingfinder,BURGER KING®,3.2,12591724,Food & Drink
+jp.co.recruit.mtl.android.hotpepper,Hot Pepper Gourmet,3.7,12441761,Food & Drink
+com.lafourchette.lafourchette,TheFork - Restaurants booking and special offers,4.7,12309337,Food & Drink
+com.subway.mobile.subwayapp03,Subway®,3.9,11992687,Food & Drink
+com.buzzfeed.tasty,Tasty,4.7,11984332,Food & Drink
+com.justeat.app.uk,Just Eat UK - Takeaway Delivery,4.6,11494740,Food & Drink
+com.sei.android,7-Eleven: Rewards & Shopping,4.5,11348586,Food & Drink
+com.papajohns.android,Papa John's Pizza - Order Delivery; Track & Earn,4.6,10792466,Food & Drink
+stonykids.baedaltong.season2,배달통 - 간편하게 시켜먹자!,4.3,10268610,Food & Drink
+es.burgerking.android,BURGER KING® España,3.8,9953490,Food & Drink
+com.yopeso.lieferando,Lieferando.de - Order Food,4.4,9915584,Food & Drink
+com.instacart.client,Instacart: Shop groceries & get same-day delivery,4.4,9828092,Food & Drink
+com.tacobell.ordering,Taco Bell - For Our Fans,3.5,9589170,Food & Drink
+ru.napoleonit.kb,Красное&Белое,3.5,9386974,Food & Drink
+com.md.mcdonalds.gomcdo,McDo+,4.1,9183019,Food & Drink
+com.apegroup.mcdonaldsrussia,Макдоналдс,4.5,9079289,Food & Drink
+com.littlecaesars,Little Caesars,4.7,8735585,Food & Drink
+de.pixelhouse,Chefkoch - Rezepte & Kochen,3.6,8616507,Food & Drink
+com.cerveceriamodelo.modelonow,Zé Delivery de Bebidas - Gelada a Preço de Mercado,4.9,8521380,Food & Drink
+com.xiaojukeji.didi.global.customer,DiDi Food – Food Delivery,4.6,8493717,Food & Drink
+com.hungerstation.android.web,HungerStation - Food; Groceries Delivery & More,4.1,8445396,Food & Drink
+com.dunkinbrands.otgo,Dunkin’,4.1,8427909,Food & Drink
+com.ezhld.recipe,Korean Food Recipes - 10k Recipes,4.7,8311614,Food & Drink
+com.wendys.nutritiontool,Wendy’s – Earn Rewards; Order Food & Score Offers,3.7,8308456,Food & Drink
+com.kurashiru,クラシル - 料理をレシピ動画で簡単に,4.4,8303190,Food & Drink
+ru.dodopizza.app,Dodo Pizza,4.8,8136976,Food & Drink
+com.opentable,OpenTable: Restaurants Near Me,4.7,8009561,Food & Drink
+com.sonic.sonicdrivein,SONIC Drive-In - Order Online - Delivery or Pickup,4.2,7922333,Food & Drink
+com.clickdelivery.android.domiciliosbogota,Domicilios.com - Delivery App,3.4,7677548,Food & Drink
+ru.burgerking,БУРГЕР КИНГ - Доставка; купоны, акции,4.3,7536249,Food & Drink
+ru.foodfox.client,Яндекс.Еда — доставка еды/продуктов. Food delivery,3.7,7316215,Food & Drink
+com.wolt.android,Wolt: Food delivery,4.7,7247106,Food & Drink
+com.nefisyemektarifleri.android,Nefis Yemek Tarifleri,4.8,7197232,Food & Drink
+jp.co.skylark.app.gusto,すかいらーくアプリ,3.9,7175433,Food & Drink
+de.lieferheld.android,LIEFERHELD | Order Food,4.3,7039857,Food & Drink
+jp.co.akindo_sushiro.sushiroapp,スシロー,4,6954247,Food & Drink
+com.yummly.android,Yummly Recipes & Cooking Tools,4.5,6912803,Food & Drink
+com.allrecipes.spinner.free,Allrecipes Dinner Spinner,4.5,6751141,Food & Drink
+com.coupang.mobile.eats,Coupang Eats - Rocket Delivery for Food,4.4,6634126,Food & Drink
+com.wabi.customer,Wabi: Your Online Convenience Store -Free Delivery,4.3,6480363,Food & Drink
+com.justeat.app.it,Just Eat Italy - Ordina pranzo e cena a Domicilio,4.7,6474272,Food & Drink
+jp.dreambrain.adiorama,ケンタッキーフライドチキン公式モバイルアプリ,3.4,6431335,Food & Drink
+com.hellofresh.androidapp,HelloFresh - Get Cooking,3.6,6388107,Food & Drink
+com.grab.merchant,GrabMerchant,4.4,6253271,Food & Drink
+tv.every.delishkitchen,DELISH KITCHEN（デリッシュキッチン） - レシピ動画で料理を楽しく・簡単に,4.5,6191316,Food & Drink
+com.done.faasos,EatSure - Order Food | A Digital Food Court,4.3,6085853,Food & Drink
+com.kakaku.tabelog,食べログ お店探し・予約アプリ - ランキングとグルメな人の口コミから飲食店検索,3.7,6065361,Food & Drink
+com.riatech.cookbook,Cookbook Recipes,4.4,5755218,Food & Drink
+com.justeat.app.es,Just Eat ES - Order Food Online,4.6,5655221,Food & Drink
+com.chipotle.ordering,Chipotle,3.7,5516207,Food & Drink
+ru.instamart,СберМаркет: Доставка продуктов,4.3,5418757,Food & Drink
+com.dineout.book,Dineout: Best Restaurant Offers; Deals & Events,3.9,5381008,Food & Drink
+com.jumiafood.android,Jumia Food: Local Food Delivery near You,4,5367946,Food & Drink
+digifit.virtuagym.foodtracker,Calorie; Carb & Fat Counter,4.5,5136093,Food & Drink
+comeya.android,iFood Delivery - Comida a Domicilio,4.2,5120988,Food & Drink
+com.mwos2.mcdelivery,(공식) 맥도날드 맥딜리버리 배달,2.5,4999155,Food & Drink
+com.wetherspoon.orderandpay,Wetherspoon,4.4,4950044,Food & Drink
+com.deliverynow,Now - Food Delivery,3.9,4940595,Food & Drink
+com.dbs.kurly.m2,마켓컬리-내일의 장보기,4.6,4876074,Food & Drink
+ru.perekrestok.app,Перекресток - доставка продуктов на дом,4.5,4874362,Food & Drink
+com.panera.bread,Panera Bread,4.7,4869992,Food & Drink
+ph.mobext.mcdelivery,McDelivery PH,3.4,4740632,Food & Drink
+com.cb.cookingchallenge.foodmaking,Make Pasta Food Kitchen Fever,3.7,4663613,Food & Drink
+com.talabatey,Talabatey Online Food Delivery,4.3,4629900,Food & Drink
+com.mrd.food,Mr D Food - delivery & takeaway,4.6,4460171,Food & Drink
+com.tastemade.player,Tastemade,3.2,4425878,Food & Drink
+com.pizzahut,Pizza Hut India – Pizza Delivery – Order Food,3.4,4296874,Food & Drink
+com.justeat.app.fr,Just Eat France - Food Delivery,3.8,4287305,Food & Drink
+com.techniman.food.fast,"أكل سريع تحضير “بدون إنترنت,4.4,4239381,Food & Drink
+com.untappdllc.app,Untappd - Discover Beer,4.7,4211752,Food & Drink
+tr.com.dominos,Domino's Pizza Turkey,4.3,4194320,Food & Drink
+digital.rbi.timhortons,Tim Hortons,4.2,4065286,Food & Drink
+com.mcdonalds.superapp,McDonald's Canada,3.8,4048288,Food & Drink
+com.mytaste.mytaste,myTaste Recipes,4.1,4002032,Food & Drink
+it.banzai.media.gzricette,GialloZafferano: le Ricette,4.8,3979056,Food & Drink
+ru.mediafort.povarenok,Recipes in Russian,4.8,3976811,Food & Drink
+com.takeaway.android,Thuisbezorgd.nl - Order food online,4.4,3959467,Food & Drink
+com.eatigo,eatigo – discounted restaurant reservations,3.8,3923104,Food & Drink
+com.ncconsulting.skipthedishes_android,SkipTheDishes - Food Delivery,4.2,3919262,Food & Drink
+com.orangefish.app.delicacy,食在方便 - 找美食餐廳,4.5,3887422,Food & Drink
+com.yourdelivery.pyszne,Pyszne.pl – order food online,4.1,3880559,Food & Drink
+com.pizzahut.phd,Pizza Hut Indonesia,4.4,3844071,Food & Drink
+com.vanuatu.aiqfome,aiqfome - delivery de comida,4.8,3833063,Food & Drink
+com.ksbcvirtualq,BevQ,3.8,3805929,Food & Drink
+jp.co.gnavi.activity,Gourmet Navigator,3.6,3799887,Food & Drink
+com.m3jjnat.oklatbaytyya,معجنات و طبخ (بدون نت),4.3,3680645,Food & Drink
+com.emn8.mobilem8.nativeapp.popeyes,Popeyes® App,4.4,3649825,Food & Drink
+com.openrice.android,OpenRice,4.7,3599869,Food & Drink
+com.telepizza,Telepizza Food and pizza delivery,2.3,3576618,Food & Drink
+de.pizza,pizza.de | Food Delivery,3.8,3541600,Food & Drink
+com.bigoven.android,BigOven: 1 Million+ Recipes and Meal Planner,4.5,3538023,Food & Drink
+com.vorwerk.cookidoo,Official Thermomix Cookidoo App,4.8,3527073,Food & Drink
+com.beyondmenu,BeyondMenu Food Delivery,4.7,3407283,Food & Drink
+com.irctc.fot,IRCTC eCatering - Food on Track,3.9,3401121,Food & Drink
+com.wifipasswordkey,Diabetes – Blood Sugar,3.8,3351765,Food & Drink
+in.swiggy.deliveryapp,Swiggy Delivery Partner App,4.4,3321175,Food & Drink
+com.woowahan.vn.baemin,BAEMIN - Food delivery app,4,3255769,Food & Drink
+my.com.mcdonalds.delivery,McDelivery Malaysia,3,3225224,Food & Drink
+br.com.jamesdelivery.android.james,James Delivery: Entrega de Mercado; Farmácia e +,4.5,3203679,Food & Drink
+com.pizzahutuk.orderingApp,Pizza Hut Delivery & Takeaway,4.4,3193005,Food & Drink
+com.main.gopuff,Gopuff—Alcohol & Food Delivery,4.3,3183795,Food & Drink
+com.olioex.android,OLIO - Share more. Care more. Waste less.,4.3,3125610,Food & Drink
+ru.sbcs.store,Самокат - Доставка продуктов; еды на дом,4.7,3113771,Food & Drink
+com.ajnsnewmedia.kitchenstories,Kitchen Stories - Recipes & Cooking,4.6,3089425,Food & Drink
+com.candoit.mostaza,Mostaza,3.9,3055455,Food & Drink
+com.dianping.v1,Dianping,3.7,3036202,Food & Drink
+com.olo.dairyqueen.production,Dairy Queen,4.2,3013139,Food & Drink
+com.wongnai.android,Wongnai: Restaurants & Reviews,3.5,2993972,Food & Drink
+mobi.debonairspizza.iosapp,Debonairs Pizza,4.5,2945979,Food & Drink
+com.alek.bestrecipes,Лучшие рецепты мира,4.7,2944430,Food & Drink
+com.hmg.rainbowunicornfood.slushymaker.slushcart,Unicorn Ice Slush Maker,3.8,2902410,Food & Drink
+com.delivery_shop_5ka24.delivery_shop_5ka,Пятёрочка Доставка,4.6,2892860,Food & Drink
+order.food.online.delivery.offers.deals,All in One Food Delivery App | Order Food Online,4,2879795,Food & Drink
+com.rewedigital.shop,REWE - Online Shop & Märkte,4.5,2857620,Food & Drink
+id.mcdonalds.delivery,McDelivery Indonesia,3.2,2825877,Food & Drink
+com.mangoplate,MangoPlate - Restaurant Search,4,2824294,Food & Drink
+com.buffalowildwings.blazinrewards,Buffalo Wild Wings - Delivery; Pickup, Catering,4.7,2769599,Food & Drink
+com.mas3dstudio.atv.pizza,ATV Hot Pizza Delivery Boy 2021,3.8,2758126,Food & Drink
+br.com.deliverymuch.gastro,Delivery Much - Entrega de Comida,4.7,2746982,Food & Drink
+it.burgerking.android,Burger King Italia,2.9,2728119,Food & Drink
+com.venturegeeks.efood,efood delivery,4.6,2726417,Food & Drink
+com.foody.vn.activity,Foody - Find Reserve Delivery,4.1,2706737,Food & Drink
+com.happyfresh.android,HappyFresh - Grocery & Food Delivery Online,4.3,2688250,Food & Drink
+com.kfit.fave,Fave - Deal; Pay, eCard,4.2,2636044,Food & Drink
+com.polydice.icook,愛料理 - 美食自己做,4.8,2606868,Food & Drink
+com.ru.dixy,Дикси – Клуб Друзей и доставка продуктов,4.4,2552647,Food & Drink
+com.enki.Enki750g,750g - 80 000 recettes,4.5,2544788,Food & Drink
+com.krispykreme.HotLights,Krispy Kreme,3.6,2539214,Food & Drink
+com.menulog.m,Menulog AU | Online Food Delivery,4.5,2529026,Food & Drink
+com.android.bartender,Bartender,4.1,2516763,Food & Drink
+com.kfcecuador.kfc,KFC APP - Ecuador; Colombia, Chile y Argentina,3.4,2471025,Food & Drink
+com.mobilaurus.wingstopandroid,Wingstop,4.8,2434890,Food & Drink
+com.murphy.driverewards,Murphy Drive Rewards,4.7,2408162,Food & Drink
+wb.mobile.cx.client.droid,Whataburger,3.9,2365947,Food & Drink
+com.poncho,BOX8 - Order Food Online | Food Delivery App,4.3,2336793,Food & Drink
+com.minor.pizzacompany,The Pizza Company 1112.,4.8,2335328,Food & Drink
+com.jamhub.barbeque,Barbeque Nation - Best Casual Dining Restaurant,4,2326240,Food & Drink
+com.carriage.android,Carriage - Food Delivery,3.3,2319577,Food & Drink
+com.recipess.oum.walid,وصفات أم وليد 2021 بدون أنترنيت,4.6,2290198,Food & Drink
+com.riatech.salads,Salad Recipes FREE,4.3,2282794,Food & Drink
+air.com.unit9.bkFrApp,Burger King® France – pour les amoureux du burger,4.2,2245007,Food & Drink
+id.co.yummy.mobile,Yummy App by IDN Media - Aplikasi Resep Masakan,4.7,2240860,Food & Drink
+com.honestbee.consumer,honestbee: Grocery delivery & Food delivery,2.8,2230991,Food & Drink
+com.ma.cc.salad,Salad Recipes: Healthy Foods with Nutrition & Tips,4.4,2227156,Food & Drink
+com.sparkpeople.android.cookbook,Healthy Recipes & Calculator,4.5,2195798,Food & Drink
+com.app.cheetay,Cheetay; Pakistan's Favourite Delivery App,3.6,2149213,Food & Drink
+com.phonegap.dominos,Domino's Pizza Indonesia - Home Delivery Expert,4.6,2149036,Food & Drink
+com.mybarapp.free,My Cocktail Bar,4.7,2145987,Food & Drink
+de.foodora.android,foodora - Local Food Delivery,4.1,2142083,Food & Drink
+com.zoodfood.android.play,SnappFood سفارش انلاین غذا و سوپرمارکت,3.6,2125920,Food & Drink
+com.Caseys.finder,Casey's,4.3,2122675,Food & Drink
+com.relevantmobile.texasroadhouse,Texas Roadhouse,4.6,2118064,Food & Drink
+com.kfcaus.ordering,KFC - Order On The Go,3.5,2076764,Food & Drink
+ru.vkusvill,ВкусВилл: заказать продукты на дом,4.6,2067232,Food & Drink
+com.dilstudio.easyrecipes,Easy Recipes,4.7,2061597,Food & Drink
+com.neighbfav.neighborfavor,Favor - Anything Delivered. Food; Alcohol + More,4.5,2043609,Food & Drink
+com.pandaexpress.app,Panda Express,3.1,2041973,Food & Drink
+com.cookware.ricerecipes,Rice Recipes,4.2,2039574,Food & Drink
+com.desertstorm.recipebook,Recipe book: Recipes & Shopping List,4.2,2030186,Food & Drink
+nithra.samayalkurippu,Samayal Tamil - தமிழ் சமையல்,4.5,2027695,Food & Drink
+com.greeneking.orderandpay,Greene King,3.3,2001873,Food & Drink
+com.bolt.deliveryclient,Bolt Food,3.1,1991764,Food & Drink
+com.groupeseb.moncookeo,Cook4Me,4.1,1988485,Food & Drink
+vg.farmfruit.pophaverst,Farm Fruit Harvest,4,1964520,Food & Drink
+com.mojopizza,MOJO Pizza - Order Pizza Online | Pizza Delivery,4.4,1958495,Food & Drink
+br.com.bffc.bobs.app,Bob's,0,1934762,Food & Drink
+de.oetker.android.rezeptideen,Dr. Oetker Rezeptideen,4.1,1914499,Food & Drink
+com.andromo.dev136619.app218388,Quick and Easy Recipes,3.9,1909135,Food & Drink
+ru.malinadev.alcochecker,АкцизКонтроль: Сканер Алкоголя,3.7,1902310,Food & Drink
+tw.com.mcdonalds.delivery,麥當勞歡樂送,3,1900734,Food & Drink
+com.hlwyyat.bytyya,حلويات بيتية ( بدون نت ),4.5,1900685,Food & Drink
+app.quiktrip.com.quiktrip,QuikTrip: Food; Coupons, & Fuel,4.6,1896472,Food & Drink
+com.slicelife.storefront,Slice: Pizza Delivery or Pick up near you,4.3,1894888,Food & Drink
+com.grab.food.pax,GrabFood - Food Delivery App,4.2,1873683,Food & Drink
+com.valuephone.vpedeka,EDEKA - Angebote & Gutscheine,3.8,1872255,Food & Drink
+com.emn8.mobilem8.nativeapp.bkuk,Burger King® - Mobile Vouchers & Fast Food Deals,4.1,1869329,Food & Drink
+com.pizzahut.malaysia,Pizza Hut Malaysia,4,1825162,Food & Drink
+fr.cookbook,Cookmate (formerly My CookBook) -  Recipe manager,4.7,1820333,Food & Drink
+dk.boggie.madplan.android,Food Planner,3.7,1818836,Food & Drink
+com.darden.mobile.olivegarden,Olive Garden Italian Kitchen,4.4,1817641,Food & Drink
+com.freshmenu,FreshMenu - Food Ordering App,3.8,1767017,Food & Drink
+com.mezzo.dayfood,이밥차 요리 레시피,4.1,1762124,Food & Drink
+com.seamlessweb.android.view,Seamless: Restaurant Takeout & Food Delivery App,4.5,1749890,Food & Drink
+com.olo.applebees,Applebee's,4.7,1732236,Food & Drink
+com.intervall_fasten.app,Intermittent Fasting,4.5,1729955,Food & Drink
+com.cookware.worldcusinerecipes,All Recipes : World Cuisines,4.4,1723597,Food & Drink
+hu.distinction.cflow,Cocktail Flow - Drink Recipes,4.4,1708441,Food & Drink
+com.omniluxtrade.allrecipes,All Recipes Free - Food Recipes App,4.4,1707755,Food & Drink
+dev.as.recipes,Простые рецепты,4.7,1681760,Food & Drink
+com.endless.healthyrecipes,Healthy Recipes,4.3,1672520,Food & Drink
+com.home.recipes.food.drink,Recipes Home - Free Recipes and Shopping List,4.6,1649521,Food & Drink
+com.zipscene.mobile.sns,Steak 'n Shake Rewards Club,3.3,1647918,Food & Drink
+com.elmenus.app,elmenus - Discover & Order food,3.5,1647836,Food & Drink
+com.cuisiner,Cuisine : Recettes de cuisine,4.6,1639354,Food & Drink
+com.cookware.lunchrecipes,Lunch Recipes,4.4,1605389,Food & Drink
+com.kookydroidapps.pakistanifoodrecipes.urdu,Pakistani Recipes in Urdu اردو,4.5,1603330,Food & Drink
+pk.com.mobilink.bizstore,Jazz Discount Bazaar–Deals; FREE Data, FREE Meals,4.1,1592620,Food & Drink
+com.mealime,Mealime - Meal Planner; Recipes & Grocery List,4.7,1590508,Food & Drink
+com.dilstudio.dietrecipes,Diet Recipes,4.7,1585857,Food & Drink
+com.waitrapp,Waitr—Food Delivery & Carryout,4,1574100,Food & Drink
+com.jackintheboxinc.JackMobileApp,Jack in the Box®,4.1,1561982,Food & Drink
+com.goldencode.moajanat,وصفات معجنات و طبخ وأكلات بيتية,4.6,1554228,Food & Drink
+com.phenix.cajou,Phenix; shop against food waste and save money,4.6,1545184,Food & Drink
+com.howtobake.primex,How To Bake,4.5,1537416,Food & Drink
+at.lieferservice.android,Lieferando.at - Order food,4.5,1520262,Food & Drink
+com.seven.eleven.phoenix,7NOW: Food & Alcohol Delivery,4.6,1518880,Food & Drink
+ru.papajohns.app,Papa John's Russia,3.9,1505899,Food & Drink
+com.cardfree.android.redlobster,My Red Lobster Rewards℠,4.7,1502248,Food & Drink
+air.QCHMOBILE,Hatcook recetas de cocina gratis,4.4,1493443,Food & Drink
+com.villy.recetario,Recetario; recetas de cocina,4.2,1477163,Food & Drink
+com.tweglobal.ar19crimes,Living Wine Labels,2.5,1475684,Food & Drink
+com.drizly.Drizly,Drizly: Alcohol delivery. Order Wine Beer & Liquor,4.5,1470516,Food & Drink
+com.boloid.dominos,Domino’s Pizza доставка пиццы 25% по коду PIZZAME,4.7,1469649,Food & Drink
+com.nosmk.burgerking,Burger King® Mexico,4.5,1469380,Food & Drink
+jp.co.rakuten.recipe,楽天レシピ 人気料理と簡単献立 いつでも無料レシピ検索,4.1,1462116,Food & Drink
+com.scrambledeggs.booky,Booky - Food and Lifestyle,4.4,1456917,Food & Drink
+com.dominos.international,Domino's Pizza,3,1454773,Food & Drink
+com.mcdonalds.gma.hongkong,McDonald's Hong Kong,2.4,1454512,Food & Drink
+com.application.services.partner,Zomato Restaurant Partner,4.2,1441096,Food & Drink
+com.riatech.cakerecipes,Cake Recipes FREE 🍰,4.2,1435089,Food & Drink
+be.pizza.android,Takeaway.com - Belgium,4.4,1427837,Food & Drink
+com.mobilemedia.tanuki,TanukiFamily — доставка еды,4.2,1419791,Food & Drink
+com.wishop.dev.jow,JOW: personalized recipes & groceries,4.6,1417517,Food & Drink
+com.stedor.instashop,InstaShop: Convenience delivered,3.6,1412939,Food & Drink
+com.nanoequipment.kfc,KFC Singapore,4.5,1411760,Food & Drink
+ru.lenta.lentochka,Лента Онлайн – Доставка продуктов и еды на дом,4.5,1399642,Food & Drink
+com.easydiner,EazyDiner - Restaurant Deals And Table Reservation,4.6,1395864,Food & Drink
+com.arbys.android.arbysapp,Arby's Fast Food Sandwiches,4.3,1394545,Food & Drink
+ru.x5.perekrestok.darkstore,Перекресток Впрок — доставка продуктов; еды на дом,0,1378560,Food & Drink
+com.djages.taipeifoodblogs,愛食記 - 台灣精選餐廳 x 美食優惠,4.5,1377564,Food & Drink
+com.clubvips.app,Club VIPS: Promociones y pedidos Take Away,4.1,1375885,Food & Drink
+com.befit.mealreminder,Meal Reminder - Weight Loss,4.4,1372837,Food & Drink
+com.auntieannes.pretzelperks,Auntie Anne's Pretzel Perks,3.9,1371164,Food & Drink
+com.tenbis.tbapp,תן ביס,4.3,1371070,Food & Drink
+nandos.android.app,Nando's UK,3.3,1361848,Food & Drink
+com.nibbleapps.fitmencook,FitMenCook - Healthy Recipes,4.5,1353779,Food & Drink
+com.twins.allfoodzone,All In One Food Ordering App | Order Food Online,3.7,1351803,Food & Drink
+com.appsmyth.mobile.smoothieking,Smoothie King,3.1,1333794,Food & Drink
+hu.viala.newiapp,NetPincér,4.4,1308699,Food & Drink
+com.outback.tampa,Outback,4.3,1304024,Food & Drink
+ua.raketa.app,Rocket－Food Delivery,4.7,1302001,Food & Drink
+cl.com.papajohns,Papa John's Chile,4.6,1301712,Food & Drink
+com.vitalhint.haemukja,Foodiest: K-Food Recipes,4.2,1296129,Food & Drink
+fr.haruni.frigomagic,Magic Fridge: Easy recipe idea and anti-waste,4.1,1290998,Food & Drink
+coffee.fore2.fore,Fore Coffee,4.5,1279525,Food & Drink
+cyberware.receitasliquidificador,Receitas de Liquidificador,4.6,1273544,Food & Drink
+com.exa.nanamarket,نعناع - Nana,3.9,1264005,Food & Drink
+com.dennys.mobile,Denny's,3.1,1262524,Food & Drink
+com.shareandenjoy.recetaspollo,Chicken Recipes. Easy recipes lunch & dinner ideas,4.4,1251948,Food & Drink
+com.grido.app,Grido,2.9,1251387,Food & Drink
+com.kptncook.app.kptncook,KptnCook - Meal Planner; Recipes & Grocery List,4.5,1220116,Food & Drink
+it.supermercato24.supermercato24,Everli,4.3,1216409,Food & Drink
+com.starbucks.my,Starbucks Malaysia,2.4,1211564,Food & Drink
+com.subway.subway,Subway® - Official App,3.9,1205443,Food & Drink
+com.dominos.latin.america,Domino's Pizza América Latina,3.8,1199481,Food & Drink
+dil.diet_food,Weight Loss Recipes,4.7,1196038,Food & Drink
+com.nestle.nescafe.dolcegusto,Nescafé Dolce Gusto,4.2,1194475,Food & Drink
+com.instacart.client.publix,Publix Delivery & Curbside,4.7,1189506,Food & Drink
+at.mjam,mjam – Delivery Service for food; groceries & more,4,1178146,Food & Drink
+com.itcbook.net.monanmoingay,Sách Nấu Ăn - 365 món ăn ngon mỗi ngày offline,4.5,1165642,Food & Drink
+com.voltmobi.yakitoriya,Якитория – доставка еды,3.6,1164094,Food & Drink
+com.ginortcar.postres.faciles.y.rapidos,Easy Dessert Recipes for free – Cake homemade,4.3,1162723,Food & Drink
+ru.reksoft.okey,О'КЕЙ - Сеть гипермаркетов; доставка продуктов,3.9,1129336,Food & Drink
+com.jumbo.extras,Jumbo Extra's,4.1,1126549,Food & Drink
+it.pgpsoftware.bimby1,Ricette per Bimby,4.8,1126126,Food & Drink
+ragazzo.alphacode.com.br,Ragazzo,4,1126016,Food & Drink
+com.querodelivery,Quero Delivery - entrega de comida; mercado e +,4.7,1121124,Food & Drink
+cz.ulikeit.damejidlo,Dáme jídlo: Local Food Delivery,4.4,1121113,Food & Drink
+pt.mcdonalds,McDonald's Portugal,4.6,1120799,Food & Drink
+com.diningcode,다이닝코드 - 빅데이터 맛집검색,4,1117060,Food & Drink
+com.dominos.dominossite,Domino's Pizza France - en Livraison ou à Emporter,3.2,1112256,Food & Drink
+ca.dominospizza,Domino's Canada,4.6,1104195,Food & Drink
+ru.globus.app,Globus — гипермаркеты «Глобус»,4.4,1097029,Food & Drink
+fr.recettetek,My Recipe Box : RecetteTek - Cookbook,4.8,1091427,Food & Drink
+ae.com.mcdonalds.delivery,McDelivery UAE,2.9,1079467,Food & Drink
+ru.platius.mobile,СберФуд: рестораны; кафе и бары (экс-Plazius),4.4,1078071,Food & Drink
+com.t2s.foodhub,Foodhub - Online Takeaways,4.4,1077541,Food & Drink
+de.edeka.genuss,EDEKA,2.5,1073489,Food & Drink
+sg.com.mcdelivery,McDelivery Singapore,2.9,1070741,Food & Drink
+com.cts.kfcthailand,KFC Thailand-Online Food Ordering,4.5,1067140,Food & Drink
+ru.magnit.express.android,Магнит: доставка продуктов на дом из магазина,2.7,1066215,Food & Drink
+gr.cosmote.box,BOX,4.2,1060800,Food & Drink
+com.kfc.ksa,KFC Saudi - Order food online from KFC Delivery!,4.4,1056047,Food & Drink
+appcent.mobi.waterboyandroid,BiSU - Mobile water ordering,3,1047591,Food & Drink
+in.burgerking.android,Burger King India,3.2,1044567,Food & Drink
+se.onlinepizza,foodora Sweden,4.1,1040990,Food & Drink
+com.appfarms.monsieurcuisine,Monsieur Cuisine,2.6,1040388,Food & Drink
+burgerking.id.android,Burger King Indonesia,3.5,1032545,Food & Drink
+com.ginortcar.recetas.comida.casera,Homemade food recipes for free,4.5,1011928,Food & Drink
+com.app.makano,Pop Meals - food delivery,4.5,1007845,Food & Drink
+com.kiwilimon2,Recetas Kiwilimón,4,1004336,Food & Drink
+com.hungerrush.hungryhowies,Hungry Howies Pizza,4.4,999166,Food & Drink
+com.minorfoodgroup.one1112.one,1112 Delivery,4.5,993247,Food & Drink
+com.kasacapital.bitesquad,Bite Squad - Restaurant Food Delivery,3.7,991822,Food & Drink
+com.olo.ihop,IHOP®,4.7,990473,Food & Drink
+com.goldencode.cake,وصفات كيك اكثر من 500 وصفة كيك,4.5,985737,Food & Drink
+ru.farfor,Farfor - доставка суши; роллов и пиццы,4.2,985392,Food & Drink
+cyberware.receitasfaceis,Receitas Fáceis,4.6,982095,Food & Drink
+com.tropicalsmoothie.tropicalsmoothiecafe.android.app,Tropical Smoothie Cafe,4.5,980698,Food & Drink
+net.jahez,Jahez,3.2,980258,Food & Drink
+com.olo.elpolloloco,El Pollo Loco - Loco Rewards,4.2,978277,Food & Drink
+me.lwwd.mealplan,Recipe Calendar - Meal Planner,4.3,967149,Food & Drink
+com.kfc.me,KFC UAE (United Arab Emirates),4.4,966738,Food & Drink
+com.khana.recipes,Learn Recipes in Hindi,4.1,966238,Food & Drink
+com.justeat.app.ie,Just Eat Ireland - Order Takeaway,4.7,960567,Food & Drink
+com.techniman.chhiwat.maghribiya,شهيوات مغربية "بدون إنترنت",4.4,956455,Food & Drink
+com.allfoodapp.foodmania,All In One Food Ordering App; Online Food Delivery,3.5,944081,Food & Drink
+com.wassafat.manziliya.shahiya.joudia,وصفات منزلية شهية بدون انترنت أشهى الوصفات,4.1,938833,Food & Drink
+za.mcdonalds.delivery,McDelivery South Africa,3.2,938650,Food & Drink
+com.kopikenangan,Kopi Kenangan - Asli Indonesia - Grab & Go Coffee,4.9,938643,Food & Drink
+com.adapter.oishi,OISHI CLUB,4.1,936231,Food & Drink
+com.trycaviar.customer,Caviar - Premium Local Food Delivery & Takeout,4.5,936058,Food & Drink
+whitecastle.ordering,White Castle Online Ordering,3.8,929065,Food & Drink
+com.bougrones,حلويات أم وليد 2021 بدون أنترنيت,4.5,922734,Food & Drink
+com.snapfinger.mobile.zaxbys,Zaxby's,3.1,921939,Food & Drink
+ma.safe.jartihalawiyat,حلويات اقتصادية حلويات مغربية,4.3,921537,Food & Drink
+com.baskinrobbins.app,Baskin-Robbins,3.6,907953,Food & Drink
+com.abinbev.android.tapwiser.brazil,Parceiro BEES Brasil,4.2,906944,Food & Drink
+ru.dostaevsky.android,DOSTAЕВСКИЙ — Доставка еды: пицца; роллы, суши,3.4,903780,Food & Drink
+com.dominos.sa,دومينوز بيتزا Domino’s Pizza,4,896677,Food & Drink
+eu.dominos.offers,Domino's Promo’s App,0,893590,Food & Drink
+rezepte.kochen.free,Rezepte Kochbuch zum Kochen,4.5,885735,Food & Drink
+co.ritual.app,Ritual - Order Local Takeout,4.7,885696,Food & Drink
+com.mnbdev.yemektarifleri,Hamur İşi Tarifleri,4.6,884299,Food & Drink
+de.penny.app,PENNY Angebote; Coupons & Einkaufsliste,4.4,884261,Food & Drink
+com.kfc.sa,KFC South Africa,3.4,872152,Food & Drink
+com.cookomix.mobile,Cookomix - Recettes Thermomix,4.8,871055,Food & Drink
+com.nepisirsem,Ne Pişirsem? Yemek Tarifleri,4.2,869255,Food & Drink
+com.cakerecipes.video,Cake Recipes Videos,4,868731,Food & Drink
+be.lvlp.Quick,Quick France,3.1,867084,Food & Drink
+com.dominos.my,Domino's Pizza Malaysia,4.3,864802,Food & Drink
+ar.burgerking,Burger King® Argentina,3.2,862865,Food & Drink
+com.mcdeliveryonline.app,McDelivery India – North&East,2.3,857762,Food & Drink
+kz.chocofood.chocofoodapp,Chocofood.kz - доставка еды из заведений,4.1,857420,Food & Drink
+com.eno.rirloyalty,Почётный Гость - Доставка еды,4.7,852475,Food & Drink
+com.anovaculinary.android,Anova Culinary,4.5,848025,Food & Drink
+com.sms.chocolatemaking.sweetfood.cookinggames,Sweet Candy Maker Chef,3.8,842923,Food & Drink
+pk.com.mcdelivery,McDelivery Pakistan,2.8,840219,Food & Drink
+com.philips.ka.oneka.app,Philips Kitchen+ - tasty Airfryer recipes & tips,4.6,838940,Food & Drink
+com.breadfast,Breadfast,3.7,838286,Food & Drink
+il.co.inmanage.mcdonalds,מקדונלד'ס  McDonald's Israel,4.6,837569,Food & Drink
+net.ilkharf.kolaykektarifi,İnternetsiz Kek Tarifleri,4.4,837248,Food & Drink
+com.socialsnack.pizzahutcr,Pizza Hut CR,3.3,832112,Food & Drink
+com.myro.lastorder,라스트오더 - 편의점 음식점 마감할인,4.2,827222,Food & Drink
+com.amazon.ihm.richard,Amazon Go,3.6,826753,Food & Drink
+com.endless.smoothierecipes,Smoothie Recipes,4.3,825549,Food & Drink
+com.fripsapp.dietasparaperderbarriga,Dietas para Perder Barriga,4.6,823237,Food & Drink
+com.sepiasoftware.secretmenuforstarbucks,Secret Menu for Starbucks,3.2,821057,Food & Drink
+jp.pizzahut.aorder,ピザハット公式アプリ　宅配ピザのPizzaHut,4,819158,Food & Drink
+ru.utkonos.android.utkonoid,Utkonos — Favorite products with home delivery,4.5,815134,Food & Drink
+com.cake.recipes,Cake recipes,4.5,814988,Food & Drink
+com.chefclub.App,Chefclub - Anyone can be a chef!,4.2,811812,Food & Drink
+com.firststarcommunications.ampmscratchpower.android,ampm,4.2,811632,Food & Drink
+in.betterbutter.android,BetterButter - Recipes; Diet Plan & Health Tips,4.4,804608,Food & Drink
+com.donesi.smart,Donesi - Food Delivery,4.6,804066,Food & Drink
+com.junismile.superfood.de,SuperFood - Healthy Recipes,4.5,803728,Food & Drink
+bd.com.evaly.efood,eFood - Express Food Delivery,3.3,799984,Food & Drink
+com.hw.blaze,Blaze Pizza,2.5,799952,Food & Drink
+com.olo.noodles,Noodles & Company,4.7,799784,Food & Drink
+com.bungkusit,Bungkusit - Food and Parcel Delivery,4.5,798850,Food & Drink
+com.Wasafat.Maghribia.Sahla.Ma3aJoudia,وصفات منزلية سهلة وشهية بدون انترنت,4.4,796220,Food & Drink
+br.com.livup.ecommerce,Liv Up – Entrega de Comida Saudável,4.4,793368,Food & Drink
+com.winesearcher,Wine-Searcher,4.5,789622,Food & Drink
+jp.mcdonalds.delivery,McDelivery Japan,2.5,789198,Food & Drink
+com.youcam.cookingsworld,عالم الطبخ والجمال,4.4,785204,Food & Drink
+com.ma.cc.indian,All Indian Food Recipes Free - Offline Cook Book,4.1,782874,Food & Drink
+za.co.steers.android,Steers South Africa,4.6,779725,Food & Drink
+com.instantbrands.app,Instant Pot,4,778659,Food & Drink
+com.flashfoodapp.android,Flashfood: Grocery Deals To End Food Waste,4.7,777757,Food & Drink
+th.in.robinhood,Robinhood,4.1,774635,Food & Drink
+com.techniman.halawiatmaghribiya,حلويات مغربية "بدون أنترنت",4.3,770829,Food & Drink
+com.eyeplus.feedy.vn,Feedy: Công thức nấu ăn,3.9,769149,Food & Drink
+com.recipebook.cake_recipes,Cake recipes,4.3,763625,Food & Drink
+com.eat.ch,Just Eat Switzerland - Order food online,4.4,762841,Food & Drink
+com.bottles,Bottles by PnP,3.5,761688,Food & Drink
+se.max.android.locator,MAX Express,2.1,757618,Food & Drink
+com.hyvee.android,Hy-Vee – Legacy,3.6,755792,Food & Drink
+ro.ascendnet.android.agregator,Takeaway.com - Romania,4.6,753906,Food & Drink
+com.foodtec.marcos,Marco's Pizza,4.1,752598,Food & Drink
+ir.mynal.papillon.papillonchef,SarashpazPapion - آشپزی با سرآشپز پاپیون,4.5,750931,Food & Drink
+com.culturehero.wifetable,우리의식탁 - 요리를 스타일하다,4.3,748376,Food & Drink
+com.arrowsapp.alcoholcheck,АлкоСканер - проверка алкоголя по акцизу,3.8,746965,Food & Drink
+com.zghari.halawiyat.cake,حلويات بدون طهي,4.1,743998,Food & Drink
+com.riatech.souprecipes,Soup Recipes - Soup Cookbook app,4.3,739696,Food & Drink
+com.frisby.frisby,Frisby,4.5,738586,Food & Drink
+com.bauermedia.leckertagesrezepte,Lecker - Rezepte für jeden Tag,3.9,737000,Food & Drink
+com.qdoba.android,QDOBA Rewards & Ordering,4.2,736383,Food & Drink
+com.insplisity.ultimateworkoutnutrition,Ultimate Workout Nutrition,3.4,732968,Food & Drink
+com.restorando.redo,Restorando: Restaurants Bars Reservations Offers,4.5,732957,Food & Drink
+com.nanoequipment.pizzahut,Pizza Hut - Singapore,4.5,730064,Food & Drink
+com.chakir.eminem,وصفات سميرة 2021 بدون أنترنيت,4.5,727132,Food & Drink
+fi.pizzaonline.app,foodora: Tilaa ruokaa kotiinkuljetuksella,3.8,721765,Food & Drink
+com.Technospart.UrduRecipes,Pakistani food recipes - Urdu Recipes,4.4,719253,Food & Drink
+com.olo.jambajuice,Jamba,4.6,717160,Food & Drink
+com.kiransmoothie.kiranchavan.juicerecipe,500+ Smoothie Recipes: Easy & Healthy Smoothies,4.4,714963,Food & Drink
+com.karma.life,Karma - Rescue unsold food,4.5,707480,Food & Drink
+com.kfc_hu,KFC Magyarország,3.5,706434,Food & Drink
+com.crackerbarrel.app,Cracker Barrel,2.7,703820,Food & Drink
+au.com.danmurphys,Dan Murphy's,3.8,702915,Food & Drink
+dil.cook_recipe,Oven Recipes,4.8,701020,Food & Drink
+com.appstailors.berain,Berain Water Delivery,3.3,699940,Food & Drink
+com.zghari.filipino.recipes,filipino recipes,4.4,696870,Food & Drink
+com.seveneleven,7-Eleven México,3.7,693225,Food & Drink
+com.cookware.eggrecipes,Egg Recipes : Breakfast Special,4.4,692563,Food & Drink
+com.sms.unicorngames.cakemaker.cookinggames,Unicorn Cake Maker🦄🎂: Baking Games For Girls,3.8,691099,Food & Drink
+com.klg.chatime,Chatime Indonesia,4.4,690856,Food & Drink
+air.kr.paikdabang.android.membership,빽다방,3.7,689405,Food & Drink
+uk.nhs.befoodsmart,Change4Life Smart Recipes,4.4,685817,Food & Drink
+com.cookware.breadrecipes,Bread Recipes,4.6,682537,Food & Drink
+com.hungerbox.customer.common,HungerBox Cafe,4.2,681521,Food & Drink
+com.alaaibrahim.Cooking,وصفات طبخ و أكلات شهية (بدون نت),4.2,677595,Food & Drink
+com.ea.internetsizyemektarifleri,İnternetsiz Yemek Tarifleri,3.9,677060,Food & Drink
+com.tpirates.tpiratesapp,인어교주해적단 - 노량진; 가락시장, 킹크랩, 시세, 맛집,3.4,676507,Food & Drink
+kr.co.mergepoint.mergeclient,머지포인트,3.7,675560,Food & Drink
+com.yandex.lavka,Яндекс.Лавка: доставка продуктов и готовой еды,4.6,674676,Food & Drink
+com.ru.verniy,Верный,2.8,672701,Food & Drink
+com.supercook.app,SuperCook: Recipes By Ingredient,4.6,668941,Food & Drink
+com.eduven.cc.african,African Recipes : All Africa Food Offline Free,4.1,668217,Food & Drink
+com.tarladalal.android.app,Tarla Dalal Recipes; Indian Recipes,4.3,665022,Food & Drink
+com.starbucks.in,Starbucks India,3.6,662176,Food & Drink
+cyberware.receitassalgados,Receitas de Salgados,4.4,660989,Food & Drink
+net.kurdsofts.cooking,آشپزخونه | آموزش آشپزی | طرز تهیه و پخت انوع غذا,4.7,659165,Food & Drink
+mx.delivery,배달114,2.9,656834,Food & Drink
+com.mcdonalds.mcdonaldsgt,McDonald's Express,3.6,656831,Food & Drink
+com.expremio.burgerking,BURGER KING® Magyarország,4.1,655225,Food & Drink
+com.uairango,UaiRango Delivery,4.7,654598,Food & Drink
+com.shakeshack.android,Shake Shack,4.5,654350,Food & Drink
+com.burgerking.kingfinder,Burger King Puerto Rico,4.3,652569,Food & Drink
+com.lazyketo.recipeapp,Lazy Keto - Easy Low Carb Keto Diet Recipes,4.6,651483,Food & Drink
+com.hiiir.alley,券券TikiTiki - 寄杯儲值 由我開始,3.5,648141,Food & Drink
+com.groupeseb.actifry,ActiFry,3,645536,Food & Drink
+club.resq.android,ResQ Club,4.6,643562,Food & Drink
+com.myelane2_aw,A&W,3.2,642221,Food & Drink
+mk.restaurant,myMK,4.2,639461,Food & Drink
+nl.dominos.android,Domino's Pizza Nederland,4.6,639295,Food & Drink
+com.ggl.jr.cookbooksearchbyingredients,Подбери рецепт,4.6,639096,Food & Drink
+com.app.drink.app,Drink- Bars; Pubs, BEVCO Around me,2.7,638622,Food & Drink
+com.ataexpress.tiklagelsin,Tıkla Gelsin®,4.2,635693,Food & Drink
+at.dieschmiede.eatsmarter,EAT SMARTER,3.2,635398,Food & Drink
+com.andromo.dev136619.app230407,43 Chocolate Cake Recipes,4,629433,Food & Drink
+com.eatkareem.eatmubarak,Eat Mubarak - Online Food Delivery,3.8,628777,Food & Drink
+com.kamikazelab.tecategames.tecate_promo01,TecateApp,4.5,628003,Food & Drink
+dil.healthy_recipe,Healthy Recipes,4.6,627866,Food & Drink
+com.franprix.catalogue,franprix express: Livraison de courses et fidélité,4.2,627155,Food & Drink
+be.burgerbrandsbelgium.quick,MyQuick,4.6,625251,Food & Drink
+com.appsdrg.comidarapidafacil,Comida Rápida - Recetas,4.4,624772,Food & Drink
+com.mankapp.receitasdeboloscaseiros,Receitas de Bolos Caseiros,4.6,624643,Food & Drink
+com.vuzz.snapdish,SnapDish AI Food Camera & Recipes,4.3,624337,Food & Drink
+com.yoyowallet.caffenero,Caffè Nero,4.5,622736,Food & Drink
+com.eatstreet.android,EatStreet Food Delivery App,4.3,622069,Food & Drink
+com.plantjammer.plantjammer,Create Recipes and Shopping Lists - Plant Jammer,4.3,620627,Food & Drink
+com.harristeeter.htmobile,Harris Teeter,4.6,620191,Food & Drink
+com.withangelbro.android.apps.vegmenu,Vegetarian and vegan recipes,4.6,617536,Food & Drink
+com.pizzafabrika.android,ПиццаФабрика - Доставка пиццы,4.8,615267,Food & Drink
+com.sodexo.cwc.ro,MySodexo Romania: Aplicatia beneficiilor tale,2.5,614324,Food & Drink
+com.mindframedesign.cheftap.beta,ChefTap: Recipe Clipper; Planner and Grocery List,4.6,613571,Food & Drink
+com.toters.customer,Toters:Food Delivery & More,3.4,611528,Food & Drink
+uk.co.bbc.goodfood2,BBC Good Food,2.8,607210,Food & Drink
+pc.express.grocery.pickup,PC Express – Online Grocery Made Easy,3.9,606669,Food & Drink
+com.momalahat.oumm.waliid,مملحات سهلة واقتصادية بدون نت,4.3,606337,Food & Drink
+com.starbucks.ph,Starbucks Philippines,3.3,601969,Food & Drink
+ru.childfeed.app,Recipes for children: food for babies (feed photo),4.3,601677,Food & Drink
+br.com.buscadordereceitas.lowcarb,Low Carb - Receitas da Dieta em Português,4.7,601467,Food & Drink
+com.wowprimeapp.app,王品瘋美食,3.4,601316,Food & Drink

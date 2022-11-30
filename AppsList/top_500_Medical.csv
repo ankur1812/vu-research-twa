@@ -1,0 +1,501 @@
+appID, appName,rating,max_installs,category
+com.aranoah.healthkart.plus,1mg - Online Medical Store & Healthcare App,4.3,18243473,Medical
+app.bpjs.mobile,Mobile JKN,3.5,17730938,Medical
+ar.gob.coronavirus,CUIDAR COVID-19 ARGENTINA,3.2,16134849,Medical
+com.phonegap.rxpal,PharmEasy – Online Medicine Ordering App,4.3,14350096,Medical
+com.lbrc.PeriodCalendar,My Calendar - Period Tracker,4.9,13468890,Medical
+com.goodrx,GoodRx: Prescription Drugs Discounts & Coupons App,4.7,13028650,Medical
+com.medlife.customer,Medlife Is Now PharmEasy,4.2,12198730,Medical
+epic.mychart.android,MyChart,4.2,12084241,Medical
+uk.nhs.covid19.production,NHS COVID-19,4.5,11040496,Medical
+com.szyk.myheart,Blood Pressure,4.1,11009574,Medical
+fr.gouv.android.stopcovid,TousAntiCovid,4.2,10783273,Medical
+com.webmd.android,WebMD: Check Symptoms; Rx Savings, & Find Doctors,4.4,10263682,Medical
+com.docsapp.patients,DocsApp - Consult Doctor Online 24x7 on Chat/Call,4.1,9738900,Medical
+ru.mobiledimension.kbr,AMMA Pregnancy Tracker & Baby Due Date Calculator,4.7,8871593,Medical
+com.NetmedsMarketplace.Netmeds,Netmeds - India’s Trusted Online Pharmacy App,4.3,8770066,Medical
+com.smsrobot.period,Period and Ovulation Tracker,4.8,8572492,Medical
+com.practo.fabric,Practo: Online Doctor Consultations & Appointments,4.5,8069599,Medical
+com.ada.app,Ada – check your health,4.7,7899243,Medical
+jp.go.mhlw.covid19radar,COCOA - COVID-19 Contact App,2.2,7759690,Medical
+tr.gov.saglik.MHRSMOBIL,MHRS,4.2,7657772,Medical
+it.ministerodellasalute.immuni,Immuni,2.2,7574283,Medical
+com.alodokter.android,Alodokter - Chat Bersama Dokter,4.6,7353607,Medical
+com.linkdokter.halodoc.android,Halodoc - Doctors; Health Store & Appointments,4.8,7266413,Medical
+com.medscape.android,Medscape,4.6,7185026,Medical
+fr.doctolib.www,Doctolib - Prise de rendez-vous en ligne,4.8,7058238,Medical
+com.AnatomyLearning.Anatomy3DViewer3,Anatomy Learning - 3D Anatomy Atlas,4.4,6656377,Medical
+com.androiddevelopermx.blogspot.organos3d,Internal Organs in 3D (Anatomy),4.4,6560710,Medical
+com.vnptit.innovation.ncovi,NCOVI,4.5,6281551,Medical
+ru.apteka,Apteka.RU,4.9,5974412,Medical
+com.ladytimer.ovulationcalendar,Ladytimer Ovulation & Period Calendar,4.7,5971109,Medical
+br.com.amil.beneficiarios,Amil Clientes,4.2,5862440,Medical
+com.telkom.tracencare,PeduliLindungi,3.8,5790694,Medical
+com.kemenkes.inahac,eHAC Indonesia,4.1,5769850,Medical
+com.lybrate.phoenix,Lybrate: Consult A Doctor Online,4,5736053,Medical
+com.Breast.Cancer.Awareness,Breast Cancer Guide,3.7,5577176,Medical
+es.gob.radarcovid,Radar COVID,2.6,5569011,Medical
+br.gov.datasus.cnsdigital,Conecte SUS,2.9,5519052,Medical
+com.weedmaps.app.android,Weedmaps: Marijuana; Cannabis, CBD & Weed Delivery,4.7,5489005,Medical
+com.easymobs.pregnancy,Pregnancy Week By Week,4.9,5227189,Medical
+com.ecare.ovulationcalculator,My Ovulation Calculator,3.9,4645473,Medical
+eu.smartpatient.mytherapy,Pill Reminder & Medication Tracker - MyTherapy,4.8,4598797,Medical
+com.hssn.anatomyfree,Visual Anatomy Free,4.3,4556541,Medical
+leafly.android,Leafly: Find Cannabis and CBD,4.5,4079849,Medical
+com.jardogs.fmhmobile,FollowMyHealth®,4.5,4038580,Medical
+doh.health.shield,ALHOSN UAE,3.9,3866527,Medical
+com.ovuline.pregnancy,Ovia Pregnancy Tracker: Baby Due Date Countdown,4.7,3817352,Medical
+com.nhiApp.v1,全民健保行動快易通 | 健康存摺,4.2,3749678,Medical
+com.EAGINsoftware.dejaloYa,QuitNow! Quit smoking,4.6,3695668,Medical
+com.ufo.disease,Diseases Dictionary & Treatments Offline,4.6,3565118,Medical
+com.epocrates,epocrates,4.3,3457229,Medical
+com.medplus.mobile.android,MedPlus Mart - Online Pharmacy,4.2,3361711,Medical
+ab.damumed,Damumed - Управляй своим здоровьем,3.5,3315172,Medical
+com.despdev.weight_loss_calculator,BMI and Weight Tracker,4.5,3311982,Medical
+com.speedAnatomy.speedAnatomyLite,Speed Anatomy Quiz Free,4.4,3302000,Medical
+com.androiddevelopermx.blogspot.bones3d,Osseous System in 3D (Anatomy),4.2,3272009,Medical
+com.mayoclinic.patient,Mayo Clinic,4.1,3131377,Medical
+in.medibuddy,MediBuddy -Consult Doctor Online; Book Blood Test,4.4,3039852,Medical
+com.interactivespecializedsoftware.bloodpressurediary,Blood Pressure Diary,4.2,2966985,Medical
+net.medshr.android,MedShr: Discuss Clinical Cases,4.3,2945581,Medical
+com.medicalgroupsoft.medical.directorymedtermsmultilang.free,Medical Terminology Dictionary:Search&Vocabulary,4.4,2944931,Medical
+com.srllimited.srl,SRL Diagnostics,2.9,2937458,Medical
+sg.gov.tech.bluetrace,TraceTogether,3.4,2912421,Medical
+com.mysugr.android.companion,mySugr - Diabetes App & Blood Sugar Tracker,4.5,2910638,Medical
+br.com.gndi.beneficiario.gndieasy,GNDI Easy,4,2827491,Medical
+com.ionicframework.vezeetapatientsmobile694843,Vezeeta - Doctors & Pharmacy,4.7,2710415,Medical
+kr.co.openit.bpdiary,Blood Pressure(BP) Diary,3.3,2682773,Medical
+ar.com.fennoma.psicotest,PsyTests,4.6,2582593,Medical
+com.drugscom.app,Drugs.com Medication Guide,4.6,2578171,Medical
+com.Bodythermometerfever.temperaturediaryfever,Body Temperature Fever : Thermometer Records Diary,3.9,2575544,Medical
+com.baviux.pillreminder,Lady Pill Reminder  ®,4.3,2539317,Medical
+ru.getpharma.eapteka,СБЕР ЕАПТЕКА — поиск и заказ лекарств онлайн,4.6,2472549,Medical
+ai.kanghealth,K Health | Telehealth; Primary Care & Pediatrics,3.9,2467066,Medical
+pathlabs.com.pathlabs,Dr Lal PathLabs,3.5,2447485,Medical
+pl.nask.droid.kwarantannadomowa,Home Quarantine - Poland (Kwarantanna domowa),1.5,2439261,Medical
+ph.staysafe.mobileapp,StaySafe PH,3.2,2366656,Medical
+com.soft24hours.directorys.medical.diseasemulti.free,Dictionary Diseases&Disorders: symptoms; treatment,4.6,2357764,Medical
+com.ovuline.fertility,Ovia Fertility: Ovulation & Cycle Tracker,4.6,2332305,Medical
+com.hh.healthhub,JioHealthHub: Your health companion,4.2,2297815,Medical
+com.healthtap.userhtexpress,HealthTap — 24/7 Telemedicine,4.6,2282988,Medical
+com.twgbd.dims,DIMS,4.5,2269512,Medical
+nl.rijksoverheid.en,CoronaMelder,3.1,2257938,Medical
+ru.watchmyph.analogilekarstv,Аналоги лекарств; справочник лекарств,4.7,2248392,Medical
+com.Halza,Halza,3.3,2234660,Medical
+com.altibbi.directory,Altibbi - Talk to a doctor,4.2,2195872,Medical
+com.lifescan.reveal,OneTouch Reveal® mobile app for Diabetes,4.1,2177438,Medical
+com.boxeelab.healthlete.bpwatch,Blood Pressure (BP) Watch,4.2,2159257,Medical
+com.hssn.anatomy3dlite,3D Bones and Organs (Anatomy),4.5,2145740,Medical
+com.doctorondemand.android.patient,Doctor On Demand,4.8,2136349,Medical
+com.ecare.menstrualdiary,My Menstrual Diary,3.4,2129487,Medical
+com.healint.migraineapp,Migraine Buddy - The Migraine and Headache Tracker,4.5,2125283,Medical
+com.atomic.apps.medical.disease.condition.dictionary,Diseases Dictionary ✪ Medical,4.5,2125131,Medical
+jo.gov.moh.aman,AMAN - Aman.jo JORDAN APP COVID-19,3.1,2119507,Medical
+com.figure1.android,Figure 1 - Medical Images,4.7,2097152,Medical
+com.teladoc.members,Teladoc,4.5,2081509,Medical
+com.mhbl.sastasundar,SastaSundar-Genuine Medicine; Pathology,Doctor App,4.6,2053717,Medical
+com.mobisystems.msdict.embedded.wireless.oxford.concisemedical,Oxford Medical Dictionary,4.2,2038447,Medical
+com.androiddevelopermx.blogspot.muscles3d,Muscular System 3D (anatomy),4.2,1979527,Medical
+com.catfishanimationstudio.MuscularSystemLite,Anatomy 3D Atlas,3.9,1967326,Medical
+br.com.sulamerica.sam.saude,SulAmérica Saúde,4.6,1920887,Medical
+com.free.body.temperature.tracker.fever.thermometer.test.checker.log.scan.diary.info.history.convert.celsius.fahrenheit,Body Temperature Tracker - Fever Thermometer Log,3.7,1824027,Medical
+com.atomic.apps.medical.drug.dictionary,Drugs Dictionary Offline: FREE,4.2,1787553,Medical
+com.programmisty.emiasapp,ЕМИАС.ИНФО,3.1,1765605,Medical
+medical.offline.Dictionary,Medical Dictionary Offline,3.9,1759213,Medical
+com.max.Anatomy,Human Anatomy,4.2,1755489,Medical
+com.vibe.app.android,ViBe Saúde - #1 em Saúde Digital,4.8,1723213,Medical
+fi.thl.koronahaavi,Koronavilkku,3.2,1711350,Medical
+com.pacificalabs.pacifica,Sanvello: Anxiety & Depression,4.5,1634127,Medical
+com.luckyxmobile.babycare,Baby Care - track baby growth!,4.4,1632730,Medical
+au.gov.dhs.expressplus.medicare,Express Plus Medicare,3.4,1628618,Medical
+com.lowestmed.android,RxSaver – Prescription Drug Discounts & Coupons,4.8,1625221,Medical
+com.saybaby,세이베베 - 임신; 출산, 육아,3.5,1584414,Medical
+mobile.eaudiologia,Hearing Test,4.5,1565984,Medical
+clalit.android,כללית,3.4,1554217,Medical
+com.kadersapp.medicine_guide_bangla,কোন রোগের কি ঔষধ  । রোগ ও ঔষধ নির্দেশিকা,4.5,1541023,Medical
+com.uptodate.android,UpToDate,4.5,1539854,Medical
+com.tetaman.home,( Tetamman ) تطمن,2.7,1511359,Medical
+pl.gov.mc.protegosafe,STOP COVID - ProteGO Safe,4.4,1511338,Medical
+uk.co.patient.patientaccess,Patient Access,4.4,1501853,Medical
+com.waterfullrainbow.bloodpressureanalyze,Blood Pressure Analyze,4.1,1500182,Medical
+de.moodpath.android,MindDoc: Your Mental Health Companion,4.5,1497773,Medical
+za.gov.health.covidconnect,COVID Alert South Africa,3.5,1479105,Medical
+andrei.brusentcov.eyecheck.free,Eye exam,4.1,1462370,Medical
+com.amikulich.pregnancycalculator,Pregnancy Due Date Calculator; Calendar & Tracker,4.7,1450238,Medical
+com.obscience.imamma,iMamma,3.7,1443427,Medical
+com.caremark.caremark,CVS Caremark,3.5,1397431,Medical
+com.ideomobile.maccabi,מכבי שירותי בריאות,3.9,1392609,Medical
+cat.gencat.mobi.lamevasalut,La Meva Salut,3.7,1382528,Medical
+com.sdk.blood_pressure,Cardiac diagnosis (arrhythmia),4.2,1370279,Medical
+com.bluefish.bloodpressure,Blood Pressure Diary,4.7,1337703,Medical
+com.lexa.medicine,Справочник лекарств,4.3,1336846,Medical
+com.contacts1800.ecomapp,1800 Contacts - Lens Store,4.8,1329707,Medical
+com.aptekarsk.pz,Планета Здоровья,4.8,1299174,Medical
+com.zlamanit.blood.pressure,Blood Pressure Log - MyDiary,4.5,1298523,Medical
+com.brc.PeriodTrackerDiary,Period Tracker & Diary,4.7,1291099,Medical
+mx.com.fahorro2,Farmacias del Ahorro,3.9,1290079,Medical
+com.andromo.dev658544.app1004151,Medical X-Ray Interpretation with 100+ Cases,3.2,1267048,Medical
+com.cube.arc.blood,Blood Donor,4.1,1255438,Medical
+com.veos.pharm,Аптечка,4.4,1253718,Medical
+br.com.youper,Youper - Mental Health,4.4,1247276,Medical
+com.medicalit.zachranka,Záchranka,4.5,1244866,Medical
+com.ldf.grossesse.view,Ma grossesse by Doctissimo,4.3,1235194,Medical
+com.mdhelper.cardiojournal,Cardio Journal — Blood Pressure Log,4.7,1207993,Medical
+com.bimaryh.seiljhd,Bimariyo ka Jad se Ilaaj,4.1,1205198,Medical
+com.qxmd.calculate,Calculate by QxMD,4.7,1199979,Medical
+com.medicaljoyworks.prognosis,Prognosis : Your Diagnosis,4.7,1192519,Medical
+com.berry_med.oxycare,OxyCare - (Pulse Oximeter),2.2,1164406,Medical
+id.codigo.klikdokter,KlikDokter: Online Doctor Consultation 24/7,4.5,1107823,Medical
+com.medicaljoyworks.clinicalsense,Clinical Sense - Improve Your Clinical Skills,4.6,1104192,Medical
+com.tabletkiua.tabletki,Tabletki.ua: поиск и заказ лекарств в аптеках,4.9,1104157,Medical
+com.colombitrade.health.simplified,NUEVA EPS MÓVIL,1.7,1103780,Medical
+com.binops.pharma.pk,Pharmapedia Pakistan,4.2,1099538,Medical
+ar.com.osde.ads,Credencial Digital OSDE,3.3,1089875,Medical
+altibbi.symptom.checker,مشخص الطبي,4.2,1089237,Medical
+kr.go.kdca.coov,질병관리청 COOV(코로나19 전자예방접종증명서),3.9,1073671,Medical
+ae.gov.dha.covid19,COVID19 - DXB Smart App,3.6,1068152,Medical
+com.touchsurgery,Touch Surgery: Surgical Videos,4.2,1059081,Medical
+com.atomengineapps.teachmeanatomy,Teach Me Anatomy: 3D Human Body & Clinical Quizzes,4.6,1054664,Medical
+com.americanwell.android.member.amwell,Amwell: Doctor Visits 24/7,4.2,1054099,Medical
+DOCECG2.doctor,Electrocardiogram ECG Types,4.1,1053521,Medical
+com.rohiapps.bloodpressureRecorder,Blood pressure Tracker & bp diary,4.5,1047291,Medical
+com.tigertext,TigerConnect - Clinical Solutions,3.9,1044709,Medical
+com.doublerouble.counter,Contraction Timer,4.4,1041578,Medical
+com.remind4u2.sounds.of.rain,Sounds Of Rain Relax your Mind,4.6,1040083,Medical
+free.wk.mybodymass,BMI Calculator (free),4.1,1038644,Medical
+com.ssstudio.anatomy,Gray's Anatomy - Anatomy Atlas,4.6,1028708,Medical
+health.livi.android,Livi – See a Doctor by Video,4.8,1024825,Medical
+com.catfishanimationstudio.SkeletalSystemPreview,Skeleton | 3D Anatomy,4.1,1009759,Medical
+com.zocdoc.android,Zocdoc Find A Doctor & Book On Demand Appointments,4.4,1008393,Medical
+com.aitype.android.theme.ezreader,A.I.type EZReader Theme Pack,4.5,995113,Medical
+shop.shop_apotheke.com.shopapotheke,SHOP APOTHEKE,4.5,989011,Medical
+com.ubieva.caas.userapp.droid,صحة ( Sehha ),4.2,987188,Medical
+com.cbgsolutions.mfprotrial,Menstruation Fertility Pro Lte,4.1,980585,Medical
+br.com.beneficiario.odontoprev,Odontoprev,4.2,980558,Medical
+dk.sundhed.minsundhed,MinSundhed,3.8,978603,Medical
+de.comventure.medpex,medpex Apotheke – Medizin Online Shop,4.8,972916,Medical
+andrei.brusentcov.eye_exercises.free,Eye exercises,4.5,970982,Medical
+org.fruct.yar.bloodpressurediary,Blood Pressure Diary,4.6,969062,Medical
+com.covidtracker.hse,COVID Tracker Ireland,4.3,967871,Medical
+ru.zdravcity.app,Здравсити: поиск и заказ лекарств,4.5,966701,Medical
+com.myquest,MyQuest for Patients,3.7,966487,Medical
+com.srca.apps.sos,أسعفني,4.1,964633,Medical
+plants.com,موسوعة الاعشاب الطبيه,4.5,963693,Medical
+mobi.firedepartment,PulsePoint Respond,4.6,954773,Medical
+com.medex.yodawy,Yodawy - Healthcare Made Easy,4.6,952959,Medical
+com.mediquo.main,MediQuo Medical Chat - Online doctors consultation,4.5,951828,Medical
+au.com.hotdoc.android.hotdoc,HotDoc,4.6,945019,Medical
+DOCECG.Doctor,Electrocardiograma ECG Tipos,4.2,944978,Medical
+com.mobisystems.msdict.embedded.wireless.elsevier.dorlandsmedical,Dorland’s Medical Dictionary,4.5,943044,Medical
+com.resmed.myair,myAir™ for Air10™ by ResMed,4.3,941460,Medical
+saude.prefeitura.sp.gov.br.autoagendamento,Agenda Fácil - Prefeitura SP,4.3,935444,Medical
+com.happytree.apps.contractiontimer,Contraction Timer (Labor),4.6,933053,Medical
+gov.ca.covid19.exposurenotifications,CA Notify,4.1,932204,Medical
+com.bracemateapp.bracemate,BraceMate,3.9,926399,Medical
+id.go.jabarprov.pikobar,PIKOBAR Jawa Barat,4.1,924351,Medical
+br.com.conexasaude,Conexa Saúde,4.9,919097,Medical
+com.apollo.android,Ask Apollo — Consult Doctors; Order Medicines,3.7,903987,Medical
+com.it4you.petralex,Petralex Hearing Aid App,4.2,901243,Medical
+com.aetna.aetnahealth,Aetna Health,3.9,896524,Medical
+com.pulse.oximeter.blood.oxygen.level.monitor.heart.rate.spo2.health.tracker,Blood Oxygen App - Pulse Oximeter,undefined,888707,Medical
+com.osde.ar,OSDE Móvil,2.7,880038,Medical
+com.marrow,Marrow - The Gold Standard for NEET PG,4.4,872754,Medical
+com.hearing.healthcare.siemens.touchcontrol,touchControl,3.6,872507,Medical
+com.komarovskiydev.komarovskiy,Доктор Комаровский – официальное приложение,4.5,870258,Medical
+com.singlecare.scma,SingleCare: Prescription Drug Coupons & Discounts,4.8,863554,Medical
+com.zodinplex.thunder.sounds.relax.and.sleep,Thunder Sounds Sleep Sounds,4.4,860790,Medical
+foodanddrink.inc.acupressurepointtips,Acupressure: Self Healing Massage Therapy (TCM),3.9,859260,Medical
+com.mobicrea.vidal,VIDAL Mobile,3.6,857384,Medical
+com.diogines.pregnancy,Pregnancy calculator,4.4,855084,Medical
+com.h2sync.android.h2syncapp,Health2Sync - Diabetes Care,4.6,852018,Medical
+com.pg.pampers.primakulubu,Prima Kulübü : Bebek Gelişimi,4.6,850309,Medical
+com.bodytemperatureThermometer.feverRecordsdiary,Body Temperature Thermometer: Fever Diary Records,4,845285,Medical
+com.medicalgroupsoft.medical.refdiseases.eng.free,Diseases Dictionary,4.5,844489,Medical
+br.com.sulamerica.odonto,SulAmérica Odonto,2.6,842424,Medical
+gov.scot.covidtracker,Protect Scotland,3.8,838255,Medical
+com.shire.biolife,BioLife Plasma Services,3.2,836300,Medical
+com.cyclebeads,CycleBeads Period & Ovulation,4.5,835502,Medical
+com.naturalcycles.cordova,Natural Cycles - Birth Control App,4.7,829788,Medical
+de.wortundbildverlag.mobil.apotheke,Apotheke vor Ort,4.4,829570,Medical
+com.philips.sleepmapper.root,DreamMapper,4,829257,Medical
+com.medprescricao,Whitebook Medicina: CID-10; Prescrições e Bulário,4.5,827957,Medical
+com.fortis.myFortis,myFortis,3,825416,Medical
+im.dev.pregnancy,Календарь беременности,4.4,817308,Medical
+net.klier.bmi2free,BMI 3D - Body Mass Index and body fat in 3D,1.8,817216,Medical
+com.phycod.drugeye,drug eye index,4.6,815514,Medical
+ru.yandex.med,Yandex.Health – doctors online,4.4,806471,Medical
+com.favouritesystems.android.emergencyapp.nla113,Hjelp 113,4.6,802958,Medical
+se.kry.android,Kry – See a Doctor by Video,4.8,799619,Medical
+com.hrfy.plus,Home Remedies+ : Natural Cures,4.5,791966,Medical
+net.klier.blutdruck,BloodPressureDB,4.5,787340,Medical
+com.appspouch.medicaldictionary,Medical Dictionary,4.2,787291,Medical
+hiv.test.network,HIV-TEST,3.5,775028,Medical
+com.liberathor.diapason,Super Ear,4,766556,Medical
+com.quartertone.medcalc.obwheel,OB Wheel (Pregnancy calculator),4.6,764745,Medical
+com.iSOFORM.DentalLite,BoneBox™ - Dental Lite,4.5,759891,Medical
+com.mobilehealth.cardiac,Staying Alive,4,754403,Medical
+com.aia.myaia,My AIA: Insurance; Health, Wellness, Rewards,3.6,753906,Medical
+com.netcompany.smittestop_exposure_notification,Smittestop,3,753762,Medical
+cat.gencat.mobi.StopCovid19Cat,STOP COVID19 CAT,3.3,753689,Medical
+com.freshware.bloodpressure,Blood Pressure Log - bpresso.com,4.3,746874,Medical
+com.zodinplex.forest.sounds.relax.and.sleep,Forest Sounds Nature To Sleep,4.5,738441,Medical
+com.babylon,Babylon Health Services - Speak to a doctor; 24/7,4.5,727629,Medical
+com.hrfy,Home Remedies (Lite),4,726527,Medical
+com.anthem.sydney,Sydney Health,4.6,726145,Medical
+com.mdaware.mdcalc,MDCalc Medical Calculator,4.8,725977,Medical
+com.paziresh24.paziresh24,پذیرش۲۴ | نوبت دهی و مشاوره پزشکی آنلاین,4.4,722737,Medical
+com.creamsoft.mygi,Glycemic Index Load in food net carbs diet tracker,4.4,722346,Medical
+gov.nih.nlm.erg2012,ERG 2020 for Android,4.3,718580,Medical
+com.divisait.quironsalud,Quirónsalud,4.5,717736,Medical
+com.aadhk.lite.bptracker,Blood Pressure Tracker,4.6,716783,Medical
+com.platfomni.gorzdrav,Аптека ГОРЗДРАВ - заказ лекарств онлайн,4.3,715842,Medical
+ismartsolution.ayurvedic.gharelu.nuskhe,Ayurvedic Gharelu Nuskhe,4.2,714057,Medical
+com.metarain.mom,Medlife Xpress (Bengaluru): 2hrs Medicine Delivery,3.9,710167,Medical
+com.ovuline.parenting,Ovia Parenting: Baby Tracker; Breastfeeding Timer,4.6,709930,Medical
+eu.doctorbox.mobile.android.doctorbox,DoctorBox,3.2,707358,Medical
+org.kaahe.kaaheApp,Health Encyclopedia,3.8,705422,Medical
+com.ceksaldobpjsketenagakerjaan.online,Cek Saldo BPJS Ketenagakerjaan -  Saldo JHT Online,4.3,700805,Medical
+com.deltadental.HealthApp,Delta Dental,2.2,699730,Medical
+com.mobisystems.msdict.embedded.wireless.mcgrawhill.ndh2011,Nurse’s Drug Handbook,4.4,699510,Medical
+com.Eha.covid_19,COVID-19,4.4,678860,Medical
+com.mtlab.utilities.duedatecalc,Pregnancy Calculator,4.5,678540,Medical
+com.optum.rx,OptumRx,3.8,677743,Medical
+com.mininurse.fyi,Mini Nurse - Lite,4.1,676285,Medical
+com.mydiabetes,Diabetes:M - Management & Blood Sugar Tracker App,4.4,670584,Medical
+com.msd.professional,MSD Manual Professional,4.7,668353,Medical
+com.visual3dscience.humananatomy,Human Anatomy,3.9,667374,Medical
+com.sonova.phonak.dsapp,myPhonak,2.8,666915,Medical
+foster.bayer.horaDaPilula,Hora da Pílula,undefined,665578,Medical
+com.smartbloodpressure,SmartBP - Blood Pressure Diary; Log, Tracker,3.8,660426,Medical
+com.medicalgroupsoft.medical.refbookdiseases.free,Справочник заболеваний (Free),4.6,658493,Medical
+colsanitas.foonkiemonkey.com.co.eps,EPS Sanitas,3.3,650664,Medical
+com.ornament.monitor,Ornament: keep lab tests in order & monitor health,3.8,647677,Medical
+com.dumsco.stressscan,StressScan: heart rate monitoring and stress test,3.9,644536,Medical
+com.makemedroid.keyecaa844b,BUKU SAKU DOKTER,4.6,640462,Medical
+it.regioneveneto.sanitakmzero,Sanità km zero Ricette,4.1,639124,Medical
+com.karmamobile,Qare - Consultez un médecin en vidéo 7 jours / 7,4.8,637078,Medical
+com.mobisystems.msdict.embedded.wireless.elsevier.paa,Dorland's Gray's Pocket Atlas of Anatomy,3.8,629653,Medical
+com.babylon.telushealth,TELUS Health MyCare,4.1,628601,Medical
+com.anatomyapps3d.circulatory3d,Circulatory System in 3D (Anatomy),4.2,625308,Medical
+com.szyk.diabetes,Diabetes,4.6,625029,Medical
+com.max.HumanBodyFacts,Human Body Facts,4.1,623148,Medical
+com.patientz.activity,G1Health-Emergency; Online Medicine, Video-consult,4.1,621245,Medical
+bajajfinserv.in.hrx.app,Bajaj Finserv Health - Online Doctor Consultation,4.5,613293,Medical
+com.amila.contractioncounter,Contractions,4.7,612949,Medical
+se.doktor.doktorse.production,Doktor.se,4.6,612746,Medical
+com.massroots.android,MassRoots: Medical Cannabis,3.5,612691,Medical
+com.nooglesoft.drugindex,Drug Index Offline,3.8,608559,Medical
+org.gobiernodecanarias.sanidad.scs.citapreviasmart,miCita preiva,4,605583,Medical
+com.healthians.main.healthians,Healthians -Full Body Health Checkup & Blood Tests,3.7,604909,Medical
+com.smc.mobile.pguidea,삼성서울병원,4.5,602513,Medical
+com.lexi.android,Lexicomp,4,601466,Medical
+com.docon.patientapp,DocOn for Patients,3.7,596765,Medical
+com.alivecor.aliveecg,Kardia,3.4,594595,Medical
+om.gov.moh.tarassudapplication,Tarassud +,3.4,591953,Medical
+com.mobostudio.nightclock,Nighttime Speaking Clock,4.1,588580,Medical
+com.artox.inf.a103,103.by  - поиск лекарств и медуслуг онлайн,4.7,588009,Medical
+tw.org.cgmh.phonereg,長庚ｅ指通服務,4.5,587184,Medical
+com.programming.progressive.diagnoseapp,🇺🇸Diagnosis Medical App,4.5,583035,Medical
+com.zoylo.com,Zoylo - Medicines; Blood Tests, Doctors,3.7,582315,Medical
+com.interactivespecializedsoftware.bloodsugardiary,Blood Sugar Diary,4,582074,Medical
+com.curofy,Curofy - Medical Cases; Chat, Appointment,4.6,578883,Medical
+pl.luxmed.pp,LUX MED Patient Portal,2.9,578654,Medical
+ru.medsolutions,Справочник врача - МКБ-10; МЭС, СМП,4.8,570894,Medical
+com.mdlive.mobile,MDLIVE: Talk to a Doctor 24/7,4.7,566772,Medical
+com.zodinplex.lullaby3.sleep.sounds.baby.kids.soothing,Soothing sleep sounds,4.5,566263,Medical
+com.americanwell.android.member.wellpoint,LiveHealth Online Mobile,4.6,566194,Medical
+com.bim.pubmed,PubMed Mobile,3.8,563431,Medical
+com.smartgalapps.android.medicine.dosispedia.app,DosisPedia,4.7,563189,Medical
+com.doctoranywhere,Doctor Anywhere,4.2,562809,Medical
+com.visual3dscience.organs,My Organs Anatomy,4.3,561168,Medical
+com.rubytribe.skinvision.ac,SkinVision - Detect Skin Cancer. Track your Moles.,4.2,561000,Medical
+com.app.iod,I Online Doctor - Consult Doctors Online 24*7,3.5,560294,Medical
+ru.ymka.medic,Народные рецепты здоровья и красоты,4.6,557158,Medical
+com.simplepractice.video,Telehealth by SimplePractice,4.5,556108,Medical
+com.hssn.anaquizlite,Anatomy Quiz Free,4.3,553522,Medical
+com.zodinplex.river.sounds.relax.and.sleep,River Sounds Nature To Sleep,4.4,546698,Medical
+com.appsante.medical.disease_and_therapy,عالج نفسك بدون طبيب,4.6,546556,Medical
+ru.mts.smartmed,SmartMed: запись на прием к врачу в клиники МЕДСИ,4.5,544099,Medical
+com.abqappsource.childgrowthtracker,Child Growth Tracker,4.8,538917,Medical
+com.dawaai.app,Dawaai - Online Medicines and Healthcare,4,538902,Medical
+net.imaios.eanatomy,e-Anatomy,4.1,538853,Medical
+co.medgic.medgic,Medgic - Scan; Analyze and Detect Skin Problems,4,533339,Medical
+com.virinchi.mychat,Docquity- The Doctors' Network,4.8,532242,Medical
+com.shevolapp.DrugHelpBook,Справочник "Моя аптечка",4.4,529449,Medical
+com.swissmedical.clientes,Swiss Medical Mobile,3.6,529057,Medical
+com.bouqt.mypill,myPill® Birth Control Reminder,2.8,528626,Medical
+com.oticon.remotecontrol,Oticon ON,3.1,527171,Medical
+gov.pa.covidtracker,COVID Alert PA,3.5,526943,Medical
+com.tabletka.by,tabletka.by,3.5,523680,Medical
+com.labcorp.patientportal,Labcorp | Patient,3.3,521149,Medical
+com.mediconnect.oladoc,oladoc - Find & book best doctors,4.8,515632,Medical
+ru.neopharm.stolichki,Аптеки Столички,4.8,515247,Medical
+nl.vgz.mindfulness,VGZ Mindfulness coach,4.5,514393,Medical
+me.klarify.klara,klarify - Pollen Count & Forecasts for Hayfever,4.1,510126,Medical
+com.a3d4medical.completeanatomy,Complete Anatomy 2021,3.9,507558,Medical
+com.sknes.dsese,Skin Diseases and Treatment,4.1,504841,Medical
+ru.mos.socmon,Социальный мониторинг,1.4,504687,Medical
+se.vardguiden1177,1177 Vårdguiden,3.6,504210,Medical
+de.deltacity.android.blutspende,Blutspende - Der digitale Spenderservice,4.7,504082,Medical
+com.she.sehatq,SehatQ: Doctor Consultation; Online Appointment,4.8,502646,Medical
+com.doctorraksa,Raksa - Online Hospital,4.3,500775,Medical
+com.skyhealth.glucosebuddyfree,Glucose Buddy Diabetes Tracker,4,500677,Medical
+net.fhpl,Fhpl Sparrow,1.6,498861,Medical
+com.msd.professionalSpanish,Manual MSD versión pro,4.9,498040,Medical
+at.roteskreuz.stopcorona,Stopp Corona,3.7,495452,Medical
+com.excelatlife.panic,Stop Panic & Anxiety Self-Help,4.5,494599,Medical
+appinventor.ai_fernando_ivan.como_esta_bebe_lite,Gravidez ao Vivo LITE,3.5,493740,Medical
+com.bruxlabsnore,Do I Snore or Grind,4.2,492924,Medical
+birth.control.pill.reminder.tadpole,Birth Control Pill Reminder & Tracker,4.4,491912,Medical
+com.cekBPJSKetenagakerjaanOnline.cekJHTonlinesip,Cara Cek BPJS Ketenagakerjaan Mudah,4.4,490917,Medical
+com.qompium.fibricheck,FibriCheck - Check your heart; prevent strokes,3.8,489805,Medical
+com.main.drinsta,DOCTOR INSTA: Consult Online,4.2,485453,Medical
+pl.edziecko.moja_ciaza,Moja ciąża z eDziecko.pl - porady i wiedza w ciąży,4.3,483634,Medical
+com.cerner.iris.play,HealtheLife,3.7,480946,Medical
+com.beep.beepmedclient,Beep Saúde,4.8,479400,Medical
+androiddeveloperjoe.pickacolornightlightfree,Night Light,3.6,478530,Medical
+com.samsungmedison.sonic,Hello Mom,3,475413,Medical
+com.bs.ccc,CoronaBD,3.6,474952,Medical
+com.kr.drugs,دليل الادوية,3.1,474086,Medical
+com.aconcagua.yapp,Yapp Chile - Cotizador de medicamentos,4.3,473487,Medical
+com.veeva.engage,Veeva Engage,4,473178,Medical
+controllers.marham.marhammed,Find a Doctor - MARHAM,4.7,471392,Medical
+care.telemed.patient,Doctor Online - Assistant,4.5,471170,Medical
+com.kr.bey,قاموس طبي,4.2,469602,Medical
+cal.kango_roo.app,ナスカレ≪看護師のシフト共有アプリ≫ナースのスケジュール手帳,4,468425,Medical
+com.bookdoc.bookdoc,BookDoc - Go Activ Get Rewards,4.6,467126,Medical
+com.msd.professionalFrench,Le Manuel MSD Professionnel,4.6,465016,Medical
+com.examobile.bubblewrap,Bubble Game - Stress Relief,3.6,464314,Medical
+my.doctor2u.client,Doctor2U- your one stop healthcare app,3,464277,Medical
+kz.nitec.bizbirgemiz,Saqbol,1.3,463898,Medical
+br.com.saofrancisco.mobile,São Francisco Clientes,2.1,463106,Medical
+dk.sum.ssicpas,Coronapas,2.3,462156,Medical
+com.mdacne.mdacne,MDacne - Custom Acne Treatment,4.4,459035,Medical
+br.com.warpzone.zeroum.sabin,Sabin Medicina Diagnóstica,4.7,457656,Medical
+com.blinkhealth.blinkandroid,Blink Health Rx - Best Discount Pharmacy Prices,4.5,457027,Medical
+com.gktalk.nursing_examination_app,Nursing Exam,4.5,454856,Medical
+com.apteka.sklad,Аптека Апрель,2.8,453902,Medical
+com.shahlab.anesthesiologist,Anesthesiologist,4.7,453168,Medical
+dk.resound.smart3d,ReSound Smart 3D,2.9,452475,Medical
+se.apoteket.recept,Mitt Apotek,3.9,451056,Medical
+com.imedical_apps.pregnancycalculatorspro,Pregnancy Calculator: Maternity & Motherhood,4.7,449347,Medical
+de.streuer.alexander.anatomyquiz,Anatomy Quiz,4.4,449140,Medical
+com.appsgames.medicalskindiseases,Treatment for all diseases,4.2,448963,Medical
+org.minddiagnostics,Mental Health Tests,4.1,448077,Medical
+com.tupbebekailesi.serkanoral.hamilelikrehberi,She Pregnant - Pregnancy Tracker Day by Day,3.1,445688,Medical
+com.thereisatreatmentforeverydisease.likollidaadawaa,لكل داء دواء بدون انترنت‎,4.6,443710,Medical
+com.nhifac.nhif,My NHIF,3.6,442797,Medical
+com.edoctores.android.apps.idoctus,iDoctus,4.6,439078,Medical
+com.castlight.clh.view,Castlight Mobile,4.2,438003,Medical
+tobi.dev.o2monitor,O2Monitor- Oxygen duration Calculator & Gas Volume,2.4,436890,Medical
+com.freestylelibre.app.fr,FreeStyle LibreLink - FR,3.3,435842,Medical
+com.phablecare,Phable - Doctor Consultation; Medicines & Care,3.9,434154,Medical
+io.ph.screening,PH Screening,4,432903,Medical
+com.appguru.apps.drug.dictionary,Medical Drugs Guide Dictionary,4.2,432886,Medical
+org.nativescript.LibreLinkUp,LibreLinkUp,3.1,430947,Medical
+com.hieuit.colorblindtest,Color Blindness Test,3.6,429051,Medical
+no.wtw.helserespons.android,HelseRespons,3.8,428669,Medical
+com.tkm.crf,L'Appli qui Sauve: Croix Rouge,4.6,428297,Medical
+com.boaconsulta,BoaConsulta: Agendar Consultas Médicos e Dentistas,4.4,428173,Medical
+com.ubieva.cura.userapp.droid,Cura كيورا,4.3,425844,Medical
+kurdsofts.net.khavas_mive,خواص گیاهان دارویی و میوه ها,4.6,424167,Medical
+ae.damanhealth.daman,Daman,4.4,423364,Medical
+com.remind4u2.sounds.of.ocean,Sounds of Ocean Rest and Relax,4.6,421846,Medical
+com.insyncapp.guidehomeo,Homeo Guide,3.9,419187,Medical
+gov.nih.nlm.wiser,WISER for Android,4.5,418569,Medical
+com.clearcare.clearcareconnect,ClearCareGo Caregiver,4,418405,Medical
+com.farlex.dictionary.medical,Medical Dictionary by Farlex,4.5,417759,Medical
+com.solutran.otc,Healthy Benefits Plus,4.3,417025,Medical
+nl.asoft.speechassistant,Speech Assistant AAC,4.4,416631,Medical
+com.sauvlife.app,SAUV Life,3.5,416250,Medical
+de.appnotize.letmetalk,LetMeTalk: Free AAC Talker,4.1,414805,Medical
+com.socialdiabetes.android,SocialDiabetes. Take control of your diabetes,4.1,414014,Medical
+bloodpressure.bpdiary,Blood Pressure Checker Diary,3.6,413850,Medical
+com.medengage.drugindex,India Drug Index (Offline Dictionary),4.5,411495,Medical
+com.cardiovisual.app,CardioVisual: Heart Health Built by Cardiologists,3.5,411414,Medical
+com.trifork.medicinkortet,Medicinkortet,3.9,411381,Medical
+com.austrianapps.elsevier.sobotta,Sobotta Anatomy,3.9,409239,Medical
+nl.cvz.fk,FK,4.8,408244,Medical
+com.msd.consumer,MSD Manual Consumer,4.6,407817,Medical
+com.divinememorygames.ishihara.color.blindness.test,Ishihara Color Blindness Test : Eye Care,4.3,407009,Medical
+hk.org.ha.hago,HA Go,3.9,406758,Medical
+com.scymed.android.medicalc8,MediCalc®,4,406299,Medical
+tr.gov.tubitak.bilgem.yte.utsmobil,ÜTS Mobil,3.9,405627,Medical
+com.medengage.clinical,DailyRounds - Cases; Drug Guide, ECG for Doctors,4.7,405398,Medical
+com.usbmis.troposphere.nursedhb2,Nurse's Drug Handbook,3.7,405006,Medical
+pe.codespace.nanda,Diagnósticos de Enfermería,4.5,403107,Medical
+air.laboratory.test.values,Lab Test Reference Range (Free & Offline),4.6,398864,Medical
+com.manutech.mm,Materia Medica Lite,4.4,398423,Medical
+com.tokyotsushin.rougan,視力回復スマホ老眼クリニック/1分でケアして視力低下予防検査,4,397949,Medical
+cruzi.android,Cruzi - Health Guide,4.4,397133,Medical
+com.cnam.gestograma,Gestograma CONAMED,3.7,396958,Medical
+com.signia.rta,Signia App,2.7,396798,Medical
+com.woebot,Woebot: Your Self-Care Expert,4.7,394234,Medical
+com.peppermint.bennettest,Тест Беннета,3.2,394165,Medical
+com.msd.consumerSpanish,Manual MSD público general,4.1,392777,Medical
+com.sminq.user,Sminq - Doctor appointments,3.6,392220,Medical
+kr.co.sulaab.contractionstimer,Contraction Timer for labor(Checker/Tracker),4.6,392068,Medical
+it.laziocrea.rlgeoapp,SaluteLazio,2.6,390864,Medical
+anace.com.audiobooks.hypertension,Hypertension Hi blood pressure,3.1,389558,Medical
+com.fama8.WesleySafadaoLED,Ache Médicos Global,4.2,389360,Medical
+com.banfield.bpht,Banfield Pet Hospital,4.1,388404,Medical
+com.amila.kickcounter,Kick Counter,4.9,388047,Medical
+com.truven.druginfonative.customer,IBM Micromedex Drug Ref,4,387061,Medical
+com.alexuvarov.bennettest,Bennet Test,4.5,386123,Medical
+com.PillIdentifierandDrugList.app,Pill Identifier and Drug list,3.9,385723,Medical
+com.myprograms.glasgow,Glasgow Coma Scale,4.8,385571,Medical
+leumit.mobile,Leumit,3.9,382829,Medical
+com.ccc.farmavalue,FarmaValue,3.9,382803,Medical
+com.myluckyday.tcsmedics,360 medics,4.6,379694,Medical
+com.devsoldiers.calendar.pills.limit,Medication Reminder,4.5,379304,Medical
+com.hcsc.android.providerfindertx,BCBSTX,3.3,378688,Medical
+cz.nmbbrno.covid,COVID-19! - The current spread of disease,3.8,378528,Medical
+com.nextcare.app,MyNEXtCARE,3.8,378012,Medical
+com.baritastic.view,Baritastic - Bariatric Tracker,4.7,377839,Medical
+air.com.samuramu.gg.sx,GG Sex Life,3.6,377508,Medical
+com.medizzy.android,MEDizzy - Medical Community,4.4,375285,Medical
+com.rexton.bxsmartremote,Connexx Smart Remote,3.6,374636,Medical
+com.sanfordguide.amt,Sanford Guide:Antimicrobial Rx,4.8,373852,Medical
+com.primaku.app,PrimaKu,2.8,373229,Medical
+br.com.doctoralia,Doctoralia - Encontre médicos e agende consultas,4.8,373164,Medical
+com.wellrx,ScriptSave WellRx Rx Discounts,4,372471,Medical
+hk.gov.ehealth.ehr,醫健通eHealth,4.5,372061,Medical
+com.advocate.myadvocate,LiveWell with Advocate Aurora,4.3,370810,Medical
+handa.health.corona,우리동네 백신 : 코로나19; 미세먼지, 지역정보,4.4,368139,Medical
+medicaljoyworks.com.explainmedicine,Explain Medicine,4.6,367816,Medical
+de.itech_gmbh.meinlaborergebnis,Mein Laborergebnis,3.2,365371,Medical
+com.medical.diseasesdictionary,Diseases Treatments Dictionary (Offline),4.7,364162,Medical
+com.itsoftgroup.medicine,Medical & Drugs Dictionary,4.5,364077,Medical
+nitrato.Agenda_da_gestante_Canguru,Canguru - seu app para Gravidez e Maternidade,2.6,362556,Medical
+com.applemedical.pharmacology,pharmacology,4.5,359291,Medical
+com.cvshealth.specialtyrx,CVS Specialty,3.8,358440,Medical
+com.hds.homedoctor2,13SICK; National Home Doctor,4.5,357732,Medical
+com.ianhanniballake.contractiontimer,Contraction Timer,4.7,356954,Medical
+com.mobisystems.msdict.embedded.wireless.mcgrawhill.ivdh,I.V. Drug Handbook,4.4,356320,Medical
+com.msd.consumerFrench,Le Manuel MSD grand public,4.6,355645,Medical
+it.ct.glicemia,Glimp,3.9,353359,Medical
+com.focusmedica.essentail.atlas,Anatomy and Physiology-Animated,3.9,353151,Medical
+com.ronasoftstudios.hearmax,HearMax Super Hearing Aid Amplifier,4.2,351316,Medical
+ru.invitro.application,INVITRO,1.7,351039,Medical
+com.qkstudio.medical.terminologies,Medical terminology - Offline,4.3,350837,Medical
+com.dbs.mcare.severance,My세브란스,3.2,350391,Medical
+com.trifork.minlaege,Min Læge,3.4,349641,Medical
+pl.znanylekarz,ZnanyLekarz – Znajdź specjalistę i umów wizytę,3.8,349019,Medical
+com.anatomyka.android,Anatomyka - 3D Human Anatomy Atlas,4.7,348671,Medical
+com.cie10,CIE10 (Español),4.6,348139,Medical
+com.quatkhoi.diseases.dictionary,Disorder & Diseases Dictionary,4.5,347498,Medical
+com.zodinplex.jungle.sounds.relax.and.sleep,Jungle Sounds - Nature Sounds,4.4,345247,Medical
+com.getvisitapp.android,Visit- Chat with a Doctor,4.5,342643,Medical
+br.com.highdesign.drauziops,Dr. Drauzio Primeiros Socorros,4.7,341112,Medical
+com.moodtools.moodtools,MoodTools - Depression Aid,4.3,340618,Medical
+com.gnresound.tinnitus,ReSound Tinnitus Relief,4.7,340377,Medical
+com.biodigitalhuman.humanAndroid,BioDigital Human - 3D Body,4.5,339896,Medical
+com.bcbsm.mmaprod,BCBSM,3.7,338176,Medical
+ru.uteka.app,Ютека — больше чем аптека. Поиск и заказ лекарств,4.7,338056,Medical
+tw.musetech.mxclinic,看診進度+掛號,3.4,337696,Medical
+gov.wa.doh.exposurenotifications,WA Notify,3.9,337271,Medical
+com.inter.facts,Симптомы и синдромы LITE,4.2,336760,Medical
+com.unbound.android.cqhm,Harrison's Manual of Medicine,3.3,335436,Medical
+pl.looksoft.orange.pierwszapomoc,Pierwsza Pomoc,4.1,334283,Medical
+com.anna.sent.soft.childbirthdate,Pregnancy Calculator,4.1,334086,Medical
+com.dexcom.g6,Dexcom G6,2.4,334052,Medical

@@ -1,0 +1,501 @@
+appID, appName,rating,max_installs,category
+com.google.android.apps.nbu.paisa.user,Google Pay: A safe & helpful way to manage money,3.8,426398179,Finance
+com.google.android.apps.walletnfcrel,Google Pay (old app),3.8,330675089,Finance
+net.one97.paytm,Paytm -UPI; Money Transfer, Recharge, Bill Payment,4.5,300940960,Finance
+com.phonepe.app,PhonePe – UPI; Recharges, Investments & Insurance,4.4,271460974,Finance
+com.paypal.android.p2pmobile,PayPal Mobile Cash: Send and Request Money Fast,4.2,205177772,Finance
+ru.sberbankmobile,СберБанк Онлайн,4.6,138916447,Finance
+br.com.gabba.Caixa,CAIXA,4.1,114242985,Finance
+br.gov.caixa.tem,CAIXA Tem,4.1,98987427,Finance
+com.iqoption,IQ Option – Online Investing Platform,4.1,79354420,Finance
+com.sbi.lotusintouch,YONO SBI: The Mobile Banking and Lifestyle App!,4,78947923,Finance
+com.ticno.olymptrade,Olymp Trade - Online Trading App,4.1,73259914,Finance
+com.mercadopago.wallet,Mercado Pago,4.5,71545694,Finance
+in.org.npci.upiapp,BHIM - MAKING INDIA CASHLESS,4.2,68057488,Finance
+br.gov.caixa.auxilio,CAIXA | Auxílio Emergencial 2021,3.5,67865799,Finance
+com.bradesco,Banco Bradesco,4.3,65863481,Finance
+br.com.bb.android,Banco do Brasil | Conta; cartão, pix e mais!,4.6,63818579,Finance
+com.picpay,PicPay: Pagamentos; Transferências, Pix e Conta,4.5,58198889,Finance
+com.nu.production,Nubank: Conta; Cartão de crédito e muito mais,4,57402847,Finance
+br.gov.caixa.fgts.trabalhador,FGTS,4.5,57144385,Finance
+com.mobikwik_new,BHIM UPI; Money Transfer, Recharge & Bill Payment,4.2,55461343,Finance
+com.itau,Banco Itaú,4.5,52346141,Finance
+com.squareup.cash,Cash App,4.2,51935716,Finance
+com.sbi.SBIFreedomPlus,Yono Lite SBI - Mobile Banking,4.4,50372669,Finance
+com.santander.app,Santander Brasil,4.5,45308915,Finance
+com.freecharge.android,Freecharge: Recharges; Bill Payments, Loans, UPI,4,44645409,Finance
+ru.mw,QIWI Wallet,4.2,43960801,Finance
+com.balancehero.truebalance,TrueBalance - Quick Online Personal Loan App,3.8,43865914,Finance
+com.chase.sig.android,Chase Mobile,4.4,39131342,Finance
+com.infonow.bofa,Bank of America Mobile Banking,4.7,38266154,Finance
+com.ktb.customer.qr,เป๋าตัง - Paotang,4,37653284,Finance
+id.dana,DANA - Indonesia's Digital Wallet,4.4,37484516,Finance
+com.creditkarma.mobile,Credit Karma - Free Credit Scores & Reports,4.7,35630196,Finance
+br.com.uol.ps.myaccount,PagBank: Banco; Conta digital, Cartão, Pix, CDB,4.3,34511058,Finance
+com.venmo,Venmo,4.3,34104316,Finance
+com.mobikwik_new.bajajfinserv,Bajaj Finserv Wallet: EMI Card; Loans, Recharges,4.2,33715317,Finance
+com.ubanksu,UBANK,3.4,33471744,Finance
+com.wf.wellsfargomobile,Wells Fargo Mobile,4.8,33190385,Finance
+com.expertoption,ExpertOption - Mobile Trading,4,33189539,Finance
+com.bancomer.mbanking,BBVA México,4.7,32772724,Finance
+ovo.id,OVO,3.8,32641551,Finance
+com.csam.icici.bank.imobile,iMobile Pay by ICICI Bank,4.3,32466031,Finance
+com.bca,BCA mobile,4.5,32229239,Finance
+com.msf.kbank.mobile,Kotak - 811 & Mobile Banking,4.3,31832425,Finance
+com.globe.gcash.android,GCash - Buy Load; Pay Bills, Send Money,4.4,31802548,Finance
+com.skt.skaf.OA00026910,Syrup Wallet-금모으기; 제로페이, 대출비교, 멤버십과 쿠폰,3.6,31149604,Finance
+com.bKash.customerapp,bKash,4.3,30828629,Finance
+com.ziraat.ziraatmobil,Ziraat Mobile,4.2,30792302,Finance
+br.com.serasaexperian.consumidor,Serasa,4.4,30521607,Finance
+th.co.truemoney.wallet,TrueMoney Wallet,4.1,28565841,Finance
+com.konylabs.capitalone,Capital One Mobile,4.7,28416573,Finance
+com.snapwork.hdfc,HDFC Bank MobileBanking: Money Transfer & Bill Pay,4.3,28289980,Finance
+com.fusionmedia.investing,Investing.com: Stocks; Finance, Markets & News,4.4,28046270,Finance
+kvp.jjy.MispAndroid320,ISP/PAYBOOC,2.7,27911504,Finance
+com.itaucard.activity,Itaucard: Cartão de crédito,4.2,26925660,Finance
+br.com.santander.way,Santander Way: Cartões; Gestão e Pagamentos,4.4,26760704,Finance
+com.kasikorn.retail.mbanking.wap,K PLUS,3.6,25947457,Finance
+pk.com.telenor.phoenix,Easypaisa - Mobile Load; Send Money & Pay Bills,3.9,25928163,Finance
+com.kreditbee.android,KreditBee Instant Personal Loan App Online Loan,4.1,25704912,Finance
+com.axis.mobile,Axis Mobile - Fund Transfer;UPI,Recharge & Payment,4.5,25646327,Finance
+com.paytm.business,Paytm for Business: Accept Payments for Merchants,4.5,25461084,Finance
+com.moregames.makemoney,PlaySpot - Make Money Playing Games,4.3,24990169,Finance
+com.garanti.cepsubesi,Garanti BBVA Mobile,4.1,23759971,Finance
+com.coinbase.android,Coinbase – Buy & Trade Bitcoin; Ethereum & more,4.3,23505273,Finance
+viva.republica.toss,토스,4.2,23367944,Finance
+com.binance.dev,Binance: Bitcoin Marketplace & Crypto Wallet,4.4,23330847,Finance
+org.altruist.BajajExperia,Bajaj Finserv - Instant Loans;Credit Card,EMI Card,4,22831520,Finance
+ua.privatbank.ap24,Privat24,4.5,22786714,Finance
+air.br.com.alelo.mobile.android,Meu Alelo,4.2,22628399,Finance
+mx.com.bancoazteca.bazdigitalmovil,Banco Azteca,4.2,22538863,Finance
+com.recarga.recarga,Recarga Celular; Pagar Contas, Boletos e Pix,4.3,22323790,Finance
+br.com.intermedium,Inter: Conta; Investimentos, Cashback, Cartão, CDB,4.7,21906846,Finance
+com.telkom.mwallet,LinkAja & Layanan Syariah LinkAja,4.4,21689089,Finance
+com.kbstar.kbbank,KB국민은행 스타뱅킹,3.9,21003827,Finance
+com.scb.phone,SCB EASY,4.3,20925650,Finance
+com.bankofbaroda.mconnect,M-Connect Plus,4.3,20847653,Finance
+com.pozitron.iscep,İşCep - Mobile Banking,4.3,20763770,Finance
+net.metaquotes.metatrader4,MetaTrader 4 Forex Trading,4.6,20723664,Finance
+br.com.neon,Neon - Digital bank,3.9,20633235,Finance
+ktbcs.netbank,Krungthai NEXT,4.3,20566076,Finance
+com.citi.transfer,Transfer,4.2,19919962,Finance
+com.enstage.wibmo.hdfc,Recharge; Pay Bills & Shop,3.8,19234070,Finance
+com.bpjstku,BPJSTKU,3.1,19000817,Finance
+gov.irs,IRS2Go,3.9,18986526,Finance
+com.akbank.android.apps.akbank_direkt,Akbank,4.7,18913590,Finance
+com.sktelecom.tauth,PASS by SKT – 운전면허증이 내 휴대폰속으로!,3.7,18744416,Finance
+ru.vtb24.mobilebanking.android,VTB-Online,4.3,18498069,Finance
+com.divum.MoneyControl,Moneycontrol - Share Market | News | Portfolio,4.1,18322304,Finance
+com.shcard.smartpay,신한페이판,3.8,18254412,Finance
+com.sibche.aspardproject.app,AP - Asan Pardakht,4.4,18233357,Finance
+br.com.bancopan.cartoes,Banco PAN - conta e cartão,4.2,18109042,Finance
+com.ykb.android,Yapı Kredi Mobile,4.7,17529262,Finance
+com.shinhan.sbanking,신한 쏠(SOL) – 신한은행 스마트폰뱅킹,3.2,17480901,Finance
+com.mobilife.gsb.mymo,MyMo by GSB,3.6,17323053,Finance
+br.com.bradesco.cartoes,Bradesco Cartões,3.6,17188037,Finance
+com.citibanamex.banamexmobile,Citibanamex Móvil,3.8,17135310,Finance
+com.xe.currency,Xe – Currency Converter & Global Money Transfers,3.7,17121927,Finance
+com.TouchEn.mVaccine.webs,터치엔 엠백신 for Web(기업용),2.3,17072528,Finance
+com.kakaobank.channel,카카오뱅크,3.1,17045208,Finance
+com.idamob.tinkoff.android,Tinkoff,4.8,16959720,Finance
+com.mservice.momotransfer,MoMo: Nạp tiền; Chuyển Tiền & Thanh Toán,4.2,16808113,Finance
+com.easy.currency.extra.androary,Easy Currency Converter,4.5,16284396,Finance
+com.b2winc.amedigital,Ame Digital: Carteira Digital com Cashback,4.8,16276868,Finance
+com.robinhood.android,Robinhood - Investment & Trading; Commission-free,3.8,16205302,Finance
+com.sbi.upi,BHIM SBI Pay: UPI; Recharges, Bill Payments, Food,4.2,16054194,Finance
+com.ge.capital.konysbiapp,SBI Card,4.4,16020542,Finance
+com.techlogix.mobilinkcustomer,JazzCash - Money Transfer; Mobile Load & Payments,3.9,15933596,Finance
+com.todo1.mobile,Bancolombia Personas,3.5,15381756,Finance
+com.sbi.sbiquick,SBI Quick (Samadhaan; Finder and Holiday Calendar),3.9,15284243,Finance
+br.com.bradesco.next,Banco next: conta e cartão de crédito grátis,4.1,15281100,Finance
+com.paymaya,PayMaya - Shop online; pay bills, buy load & more!,4.7,15201588,Finance
+kz.kaspi.mobile,Kaspi.kz суперприложение,4.5,15126932,Finance
+com.kreditpintar,Kredit Pintar - Pinjaman Uang Online Cepat,4.7,15124675,Finance
+com.geico.mobile,GEICO Mobile - Car Insurance,4.8,15104102,Finance
+com.starfinanz.smob.android.sfinanzstatus,Sparkasse Ihre mobile Filiale,4.5,14818438,Finance
+com.iexceed.appzillon.ippbMB,IPPB Mobile Banking,4.2,14560526,Finance
+com.nextbillion.groww,Groww - Stocks; Demat, Mutual Fund, SIP,4.3,14549906,Finance
+net.veritran.becl.prod,BancoEstado,3.6,14238464,Finance
+in.upstox.pro,Upstox - Stocks; Mutual Funds, IPOs & Gold,4.4,14143286,Finance
+com.intuit.turbotax.mobile,TurboTax: File Tax Return – Max Refund Guaranteed,4.5,14080962,Finance
+ru.alfabank.mobile.android,Альфа-Банк (Alfa-Bank),4.6,13927592,Finance
+com.bankmandiri.mandirionline,Livin' by Mandiri,2.9,13900405,Finance
+com.infrasoft.uboi,U-Mobile - Union Bank of India,3.8,13897168,Finance
+com.bankapp.hi.banklist,Bank Balance Check - All Account Enquiry,4.3,13887734,Finance
+com.dreamplug.androidapp,CRED credit card bills; rewards, free credit score,4.7,13789012,Finance
+com.fundeasy.bankbalancecheck,Check Balance: Bank Account Balance Check,4.2,13785265,Finance
+my.com.tngdigital.ewallet,Touch 'n Go eWallet,3.8,13772025,Finance
+com.zellepay.zelle,Zelle,4.2,13495225,Finance
+org.fxclub.libertex,Libertex Online Trading app,4.1,13466411,Finance
+com.yahoo.mobile.client.android.finance,Yahoo Finance,3.9,13377751,Finance
+src.com.bni,BNI Mobile Banking,4.8,13344337,Finance
+com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah,Rupiah Cepat- Pinjaman Uang Tunai Kredit Dana Cash,4.5,13330973,Finance
+com.canarabank.mobility,CANDI - Mobile Banking App !,3.6,13249036,Finance
+com.revolut.revolut,Revolut,4.7,13112448,Finance
+mx.bancosantander.supermovil,SuperMóvil,4,13110221,Finance
+co.mona.android,Crypto.com - Buy Bitcoin Now,4.2,13082393,Finance
+posteitaliane.posteapp.appposteid,PosteID,4.5,13051854,Finance
+com.davivienda.daviplataapp,DaviPlata,2.7,12834307,Finance
+com.propel.ebenefits,Fresh EBT - Food Stamp Balance,4.6,12801992,Finance
+com.lic.liccustomer,LIC Customer,4.1,12789865,Finance
+com.bbl.mobilebanking,Bualuang mBanking,4,12645461,Finance
+com.c6bank.app,C6 Bank: Cartão de Crédito & Conta PF e PJ grátis,4.2,12470671,Finance
+com.bharatpe.app,BharatPe for Merchants,4.1,12455192,Finance
+com.primety.sodexomobile,Sodexo Brasil,4.5,12419447,Finance
+com.realbyteapps.moneymanagerfree,Money Manager Expense & Budget,4.7,12372998,Finance
+org.microemu.android.model.common.VTUserApplicationBNRTMB,Banorte Movil,4,12332039,Finance
+es.lacaixa.mobile.android.newwapicon,CaixaBankNow,4.5,12221734,Finance
+nh.smart.banking,NH스마트뱅킹,4.5,12173901,Finance
+com.westernunion.android.mtapp,Western Union: Fast Money Transfer Worldwide,4.5,12145380,Finance
+com.itau.iti,iti Itaú: conta digital com cartão de crédito,4.6,12135185,Finance
+br.com.guiabolso,Guiabolso: Transação; Produtos e Gestão Financeira,4,11981773,Finance
+com.wallet.crypto.trustapp,Trust: Crypto & Bitcoin Wallet,4.6,11763933,Finance
+com.mint,Mint: Track Expenses & Save,4.5,11758816,Finance
+ru.sberbank.spasibo,СберСпасибо,4,11701650,Finance
+br.com.digio,digio: cartão de crédito; cashback e conta digital,3.7,11450182,Finance
+com.shinhancard.smartshinhan,신한카드,3.4,11449645,Finance
+piuk.blockchain.android,Blockchain.com Wallet - Buy Bitcoin; ETH, & Crypto,3.2,11448100,Finance
+com.vakifbank.mobile,VakıfBank Mobil Bankacılık,4.7,11426269,Finance
+com.avuscapital.trading212,Trading 212 - Stocks; ETFs, Forex, Gold,3.6,11407658,Finance
+com.octafx,OctaFX Trading App,3.9,11345124,Finance
+posteitaliane.posteapp.apppostepay,Postepay,4.6,11318338,Finance
+com.phonevalley.progressive,Progressive,4.2,11313774,Finance
+jp.auone.wallet,au PAY(旧 au WALLET),3.7,11236357,Finance
+com.daamitt.walnut.app,All Indian Banks Money Manager | 24x7 Credit Line,4.2,11193293,Finance
+com.Plus500,Plus500: CFD Online Trading on Forex and Stocks,3.9,11052397,Finance
+com.bcp.bank.bcp,Banca Móvil BCP,2.9,10925536,Finance
+com.hyundaicard.appcard,현대카드,3.8,10855627,Finance
+com.fastbanking,Instant EMI Shopping; Personal Loan app - Kissht,4.4,10818483,Finance
+kr.co.samsungcard.mpocket,삼성카드,3.6,10759381,Finance
+com.nequi.MobileApp,Nequi Colombia,4.6,10677308,Finance
+id.co.myhomecredit,My Home Credit Indonesia,4.1,10414501,Finance
+kr.co.hanamembers.hmscustomer,하나멤버스 - 포인트; 쿠폰, 해외결제, 무료송금,3.7,10349611,Finance
+id.co.bri.brimo,BRImo BRI,3,10333618,Finance
+fr.creditagricole.androidapp,Ma Banque,3.7,10286199,Finance
+com.etoro.openbook,eToro - Smart crypto trading made easy,4.2,10284554,Finance
+com.finansbank.mobile.cepsube,QNB Finansbank,4.2,10239557,Finance
+com.msf.angelmobile,Angel Broking Demat Account & Stock Trading App,3.9,10200899,Finance
+net.metaquotes.metatrader5,MetaTrader 5 — Forex & Stock trading,4.5,10178920,Finance
+com.fullsix.android.labanquepostale.accountaccess,La Banque Postale,3.5,10135615,Finance
+com.citi.citimobile,Citi Mobile®,4.7,10062605,Finance
+br.com.meupag,Meu pag!,4.1,10042801,Finance
+org.dayup.stocks,Webull: Investing & Trading. All Commission Free,4.3,9970779,Finance
+ru.letobank.Prometheus,Почта Банк,4.2,9901670,Finance
+com.kbcard.kbkookmincard,KB국민카드,4.6,9832900,Finance
+com.shenjariya.allbankbalanceinquiry,All Bank Balance Check - Bank Balance Enquiry,4.2,9781192,Finance
+com.onedebit.chime,Chime – Mobile Banking,4.6,9777475,Finance
+capitecbank.remote.prd,Capitec Remote Banking,4.4,9730425,Finance
+in.pnbindia.mpassbook,PNB mPassBook,4.5,9724939,Finance
+mx.com.cfe.cfecontigo,CFE Contigo,1.8,9693579,Finance
+com.bbva.bbvacontigo,BBVA Spain | Online banking,4.4,9646257,Finance
+com.bplus.vtpay,ViettelPay - Chuyển tiền nhanh; thanh toán an toàn,3.7,9644110,Finance
+com.kbcard.cxh.appcard,KB Pay,4.7,9522758,Finance
+com.hanabank.ebk.channel.android.hananbank,(구)하나원큐 - 하나은행 스마트폰뱅킹 (종료예정),2.5,9501213,Finance
+com.bcp.innovacxion.yapeapp,Yape,3,9474974,Finance
+photozone.bankbalancecheck,Bank Balance Check,4.2,9448095,Finance
+com.boi.mpay,BOI Mobile,4.1,9442223,Finance
+br.com.original.bank,Original - Pix; Digital, Cashback e Empréstimos,3.8,9332278,Finance
+com.konasl.nagad,Nagad,4.2,9266409,Finance
+com.starfinanz.mobile.android.pushtan,S-pushTAN,3.7,9245793,Finance
+com.itau.aco,Itaú Abreconta: Abrir conta do banco pelo app,4.6,9187102,Finance
+com.experian.android,Experian - Free Credit Report & FICO® Score,4.6,9165212,Finance
+com.htsu.hsbcpersonalbanking,HSBC Mobile Banking,2.7,9157122,Finance
+com.paytmmoney,Paytm Money - Stocks & Mutual Funds Investment App,4.1,9130374,Finance
+com.tmobtech.halkbank,Halkbank Mobil,3,9083782,Finance
+br.gov.caixa.cartoes,Cartões CAIXA,3.8,9068085,Finance
+com.barclays.android.barclaysmobilebanking,Barclays,4.7,9031885,Finance
+com.cartaoluiza.app,Cartão Luiza,4.1,8979985,Finance
+com.lguplus.smartotp,PASS by U+ 운전면허증이 내 휴대폰속으로!,2.8,8909337,Finance
+com.stash.stashinvest,Stash: Invest & Build Wealth,4.2,8848713,Finance
+com.moneybookers.skrillpayments,Skrill - Fast; secure online payments,3.9,8763250,Finance
+capitec.acuity.mobile.prod,Capitec Bank,3.8,8537996,Finance
+com.eg.android.AlipayGphone,Alipay,3.3,8466498,Finance
+com.beeasy.airpay,ShopeePay TH,4.6,8454336,Finance
+za.co.fnb.connect.itt,FNB Banking App,3.6,8406403,Finance
+com.transferwise.android,Wise; ex TransferWise,4.4,8402673,Finance
+com.acorns.android,Acorns - Invest Spare Change,4.3,8368566,Finance
+nh.smart.nhcok,NH콕뱅크,4.4,8367907,Finance
+com.policybazaar,Compare & Buy Insurance – Policybazaar,4.2,8331146,Finance
+com.discoverfinancial.mobile,Discover Mobile,4.6,8277015,Finance
+my.com.maybank2u.m2umobile,Maybank2u MY,4.3,8172661,Finance
+co.com.tcs.bancolombia.bancaalamano,Bancolombia A la Mano,3.5,8160135,Finance
+com.credicard.app,Credicard: Cartão de crédito,4.3,8125842,Finance
+com.icicibank.pockets,Pockets- Bill Payment; Recharge, UPI on wallet,3.7,8121108,Finance
+com.statefarm.pocketagent,State Farm®,4.7,8019921,Finance
+com.usaa.mobile.android.usaa,USAA Mobile,4.5,8014641,Finance
+com.zerodha.kite3,Kite by Zerodha,4.3,8007853,Finance
+com.wr.alrim,우리은행 원터치알림,4,7961077,Finance
+com.caisseepargne.android.mobilebanking,Banque,4.3,7909360,Finance
+com.Version1,PNB ONE,3.5,7903896,Finance
+es.bancosantander.apps,Santander,3.7,7830089,Finance
+com.kt.ollehusimmanager,KT 금융유심관리,3,7828768,Finance
+br.com.gerenciadorfinanceiro.controller,Mobills Budget Planner and Track your Finances,4.6,7810134,Finance
+com.commbank.netbank,CommBank,4.1,7804129,Finance
+com.webmoney.my,WebMoney Keeper,3.7,7781737,Finance
+com.latuabancaperandroid,Intesa Sanpaolo Mobile,4.5,7765349,Finance
+com.nttdocomo.keitai.payment,d払い－スマホ決済アプリ、キャッシュレスでお支払い,3.7,7758575,Finance
+com.palomar.mpay,mPAY,3.7,7724342,Finance
+com.itau.applight,Banco Itaú Light: conta corrente e conta poupança,4.3,7654809,Finance
+asia.coins.mobile,Coins.ph Wallet,4.2,7606333,Finance
+com.firstperformance.casasbahia,Cartão Casas Bahia,2.7,7600527,Finance
+com.capitalfirst,IDFC FIRST Bank Loans- Instant Loans Online,4.1,7515076,Finance
+co.bitx.android.wallet,Luno: Buy Bitcoin; Ethereum and Cryptocurrency,4.3,7474876,Finance
+ph.homecredit.myhomecredit,My Home Credit Philippines,4.5,7435145,Finance
+br.com.carrefour.cartaoatacadao,Atacadão: Cartão de Crédito e compras online,3.3,7431592,Finance
+com.infrasofttech.CentralBank,Cent Mobile,3.9,7419107,Finance
+br.com.bancobmg.bancodigital,Conta Digital Bmg grátis; simples e sem tarifa,4.1,7405693,Finance
+com.totaltexto.bancamovil,BBVA Provinet Móvil,3.8,7404347,Finance
+com.adpdigital.mbs.ayande,همراه کارت | کارت به کارت با تلفن همراه,4.6,7379475,Finance
+ar.com.bancar.uala,Ualá: Tarjeta Mastercard Gratis + App Para Ahorrar,4.2,7350209,Finance
+com.lcacApp,롯데카드(+앱카드),2.9,7348641,Finance
+com.lumensoft.touchenappfree,앱프리 - 전자서명; 앱프리,2.7,7327876,Finance
+com.hipercard.app,Cartão de crédito Hipercard,4.1,7273406,Finance
+com.americanexpress.android.acctsvcs.us,Amex,4.3,7253331,Finance
+ru.homecredit.mycredit,Хоум Кредит,4.6,7241751,Finance
+com.fivepaisa.trade,5paisa: Stocks; Share Market Trading App, NSE, BSE,4.1,7204750,Finance
+com.todo1.davivienda.mobileapp,Davivienda Móvil,3.7,7150345,Finance
+com.bankid.bus,BankID säkerhetsapp,4.3,7130757,Finance
+com.rbs.mobile.android.natwest,NatWest Mobile Banking,4.5,7109566,Finance
+com.grppl.android.shell.CMBlloydsTSB73,Lloyds Bank Mobile Banking: by your side,4.7,7071404,Finance
+id.danarupiah.weshare.jiekuan,DanaRupiah - Pinjaman Online Uang Cepat,4.1,7046729,Finance
+net.ib.android.smcard,삼성카드 마이홈,4.2,7030982,Finance
+com.usbank.mobilebanking,U.S. Bank - Secure and easy mobile banking,4.6,7027649,Finance
+com.epf.main,i-Akaun,4.1,6998708,Finance
+net.xelnaga.exchanger,Exchange Rates & Currency Converter,4.5,6961315,Finance
+com.ing.mobile,ING Bankieren,4.3,6919991,Finance
+com.gurutrade7.app,Guru Trade7 -Online trading app,4.6,6903549,Finance
+com.teb,CEPTETEB,3.9,6846954,Finance
+posteitaliane.posteapp.appbpol,BancoPosta,4.6,6832533,Finance
+nh.smart.allonebank,올원뱅크(All One Bank),3.7,6796870,Finance
+com.smartspends,Mutual Funds; SIP, Tax Saving Investments: ETMONEY,4.5,6789702,Finance
+ru.tinkoff.investing,Тинькофф Инвестиции – биржа; брокер, ММВБ, ETF,4.6,6788649,Finance
+de.schildbach.wallet,Bitcoin Wallet,3.9,6783332,Finance
+com.monefy.app.lite,Monefy - Budget Manager and Expense Tracker app,4.5,6769635,Finance
+com.dave,Dave - Banking for humans,4.6,6720595,Finance
+kz.kkb.homebank,Halyk Homebank,4.2,6704608,Finance
+com.VCB,Vietcombank,4.4,6673864,Finance
+my.com.myboost,Boost eWallet - Cool & Rewarding way to pay,4,6661041,Finance
+com.vnpay.Agribank3g,Agribank E-Mobile Banking,3.6,6643767,Finance
+pl.pkobp.iko,IKO,4.8,6626000,Finance
+co.com.bbva.mb,BBVA Colombia,4,6608823,Finance
+com.xoom.android.app,Xoom Money Transfer,4.7,6593455,Finance
+com.cardinalcommerce.greendot,Green Dot - Mobile Banking,4.3,6560949,Finance
+com.tradingview.tradingviewapp,TradingView - Stock charts; Forex & Bitcoin price,4.8,6537941,Finance
+com.ssg.serviceapp.android.egiftcertificate,SSGPAY - 혜택 위의 혜택,3.1,6510459,Finance
+br.com.bb.oewallet,Ourocard,4,6509583,Finance
+com.kbstar.starpush,KB스타알림,2.2,6500670,Finance
+com.kbcard.kat.liivmate,리브메이트,4.5,6461287,Finance
+com.micredit.in.gp,Mi Credit - Instant Personal Loan; Cash Online,4,6460168,Finance
+com.bookmark.money,Money Lover: Expense Manager & Budget Tracker,4.5,6448906,Finance
+com.turkcell.paycell,Paycell,4.2,6433696,Finance
+com.cimbmalaysia,CIMB Clicks Malaysia,4.3,6427378,Finance
+com.indigo.hdfcloans,Loan Assist - HDFC Bank Loans,3.3,6424286,Finance
+br.gov.caixa.webcaixa,CAIXA para Tablets,2.1,6364834,Finance
+com.loan.cash.credit.branch.tala.fast.lending.mexico,Préstamos crédito en efectivo cash  - OKrédito,4.7,6353155,Finance
+com.bbva.nxt_peru,BBVA Perú,3.8,6337183,Finance
+com.dbs.in.digitalbank,digibank by DBS India,4.3,6329588,Finance
+com.versionsystems.pfbalancecheck,EPF Passbook; PF Balance, PF Claim, UAN Activation,4.5,6317653,Finance
+mx.com.miapp,BanCoppel Express,4.2,6277384,Finance
+com.expensemanager,Expense Manager,4.4,6243391,Finance
+com.td,TD Canada,4.3,6238739,Finance
+com.grppl.android.shell.halifax,Halifax Mobile Banking,4.6,6236963,Finance
+com.mintq.gocash,UKU - Pinjaman Uang Online Dana Tunai,4.3,6234793,Finance
+com.btpn.dc,Jenius,4.7,6229311,Finance
+ru.sovcomcard.halva.v1,Халва — Совкомбанк,4.4,6221956,Finance
+nh.smart.card,NH농협카드 스마트앱,3.4,6220177,Finance
+com.breadwallet,BRD Bitcoin Wallet. Bitcoin Cash BCH; Bitcoin BTC,4.3,6201275,Finance
+com.kftc.bankpay.android,뱅크페이 - 금융기관 공동 계좌이체 결제; 제로페이,2.3,6177180,Finance
+com.shinhan.smartcaremgr,SOL알리미,3.8,6175850,Finance
+com.activehours,Earnin: Get $100; Cash Out Money Before Payday,4.4,6168631,Finance
+jp.co.rakuten.kc.rakutencardapp.android,楽天カード：明細確認・家計簿レシート撮影アプリ。,4.1,6142117,Finance
+com.ftband.mono,monobank — банк в телефоні,4.9,6107039,Finance
+vn.homecredit.hcvn,Home Credit Vietnam,4,6106018,Finance
+com.ccpp.baac,BAAC A-Mobile,3.9,6104883,Finance
+com.dencreak.spbook,ClevMoney - Personal Finance,4.8,6072561,Finance
+com.cmcm.uangme,UangMe – Quick Loans & Secure Lending Platform,4.3,6064454,Finance
+com.wooribank.smart.npib,우리은행 우리WON뱅킹,3.4,6064255,Finance
+vn.com.vng.zalopay,ZaloPay - Chuyển tiền và Thanh toán trong 2s,4,6055801,Finance
+mic.app.gastosdiarios,Daily Expenses 3: Personal finance,4.6,6050189,Finance
+com.netspend.product.android,Netspend: Tools To Manage Your Money; Your Way,4,5990861,Finance
+com.earlysalary.android,Salary Advance & Personal Loan App - EarlySalary,4.4,5975547,Finance
+com.samsungfire.insurance,삼성화재,4.2,5955367,Finance
+com.westernunion.moneytransferr3app.eu,Western Union App: Send Money Abroad,4.5,5932019,Finance
+com.allstate.view,Allstate Mobile,3.1,5907153,Finance
+br.com.sicoobnet,Sicoob,4.6,5893857,Finance
+se.bankgirot.swish,Swish payments,4.6,5879357,Finance
+com.pnc.ecommerce.mobile,PNC Mobile,4.6,5877864,Finance
+com.adakami.dana.kredit.pinjaman,AdaKami - Pinjaman dan Cicilan Kredit Online,4.3,5842078,Finance
+com.lguplus.paynow,페이나우(간편결제) - 쇼핑할 때 할인,3.2,5833943,Finance
+com.isaku.app,i.saku,3.6,5825093,Finance
+com.navyfederal.android,Navy Federal Credit Union,3.8,5810183,Finance
+com.kkii,Pinjam Yuk - Pinjaman Uang Cepat Aman,4.3,5778427,Finance
+com.fss.indus,IndusMobile,3.9,5768731,Finance
+com.ktakilat.loan,KTA KILAT - Pinjaman Uang Online Kilat,4.5,5734960,Finance
+id.flip,Flip: Transfer Antar Bank Tanpa Biaya Admin,4.8,5734679,Finance
+com.indiainfoline,IIFL Markets - NSE BSE Mobile Stock Trading App,4.3,5687397,Finance
+com.intuit.qbse,QuickBooks Self-Employed:Mileage Tracker and Taxes,3.6,5663299,Finance
+co.tslc.cashe.android,Personal Loan App: Cash Loan; Loan App by CASHe,3.5,5645709,Finance
+com.fbs.pa,FBS - Trading Broker,4.5,5643128,Finance
+nl.rijksoverheid.digid.pub,DigiD,4.3,5636630,Finance
+com.krungsri.kma,KMA,3.8,5625230,Finance
+com.wooricard.smartapp,우리WON카드,3,5617981,Finance
+com.droid4you.application.wallet,Wallet: Personal Finance; Budget & Expense Tracker,4.7,5599282,Finance
+com.kbankwith.smartbank,케이뱅크 (K bank) - 혜택은 역시 케이뱅크,2.3,5549202,Finance
+nl.rabomobiel,Rabobank,4.3,5523479,Finance
+com.denizbank.mobildeniz,MobilDeniz,2.9,5502996,Finance
+org.kftc.fido.lnk.lnk_app,바이오인증 공동앱,3.9,5466383,Finance
+jp.co.yahoo.android.yfinkeyguardwidget,Y!ファイナンス 株価 for SH,1.6,5463900,Finance
+com.softtech.parakod,Maximum Mobil,4.6,5457950,Finance
+com.mbmobile,MB Bank,3.8,5412215,Finance
+com.finance.loan.emicalculator,EMI Calculator - Loan & Finance Planner,3.9,5393294,Finance
+br.gov.caixa.habitacao,Habitação Caixa,4,5387260,Finance
+com.linkzen.app,키움증권 영웅문S,3.5,5374340,Finance
+com.worldremit.android,WorldRemit Money Transfer App: Send Money Abroad,4.4,5361260,Finance
+br.com.sicredimobi.smart,Sicredi,4.8,5337224,Finance
+www.mobile.bdo.com.ph,BDO Digital Banking,2.8,5332873,Finance
+com.superdigital,Superdigital Brasil - conta digital,3.5,5310667,Finance
+ru.mts.money,МТС Банк (МТС Деньги),3.8,5262870,Finance
+mobi.societegenerale.mobile.lappli,L'Appli Société Générale,4.3,5252520,Finance
+com.dunamu.exchange,업비트 - 가장 신뢰받는 디지털 자산(비트코인; 이더리움, 비트코인캐시) 거래소,3.8,5232733,Finance
+com.brisk.jpay,JPay,3.9,5231963,Finance
+com.kreditzy.android,Kreditzy Personal Loan App Online Loan,3.9,5231107,Finance
+ir.part.app.signal,سیگنال,4.2,5230862,Finance
+es.cm.android,Bankia,4.3,5229484,Finance
+com.bajajfinance.liteapp,BFL Lite,4,5212116,Finance
+com.alahli.mobile.android,AlAhliMobile,3.8,5207096,Finance
+com.garanti.bonusapp,BonusFlaş – Kart / Kampanyalar,4.4,5196359,Finance
+com.fedmobile,Federal Bank - FedMobile,4,5194473,Finance
+com.creditonebank.mobile,Credit One Bank Mobile,4.6,5193699,Finance
+com.upi.axispay,BHIM Axis Pay:UPI;Online Recharge & Money Transfer,4.1,5189339,Finance
+de.fiducia.smartphone.android.banking.vr,VR Banking Classic,3.3,5173818,Finance
+ar.com.bancoprovincia.CuentaDNI,Cuenta DNI,4.6,5150404,Finance
+com.capitalone.credittracker,CreditWise from Capital One,4.6,5132055,Finance
+com.dbbl.mbs.apps.main,Rocket,4.1,5116251,Finance
+com.tdbank,TD Bank (US),4.6,5094728,Finance
+com.financial.calculator,Financial Calculators,4.5,5082608,Finance
+com.julofinance.juloapp,JULO - Kredit Digital Indonesia Pinjaman Dana,4.5,5051656,Finance
+com.kbstar.liivbank,리브,4.6,5049638,Finance
+com.pocketools.currency,Currency Converter,3.6,5042567,Finance
+com.kftc.payinfo.android,어카운트인포-계좌정보통합관리,4.3,5042277,Finance
+com.wrx.wazirx,WazirX - Bitcoin; Crypto Trading Exchange India,3.9,5002671,Finance
+ar.com.santander.rio.mbanking,Santander Argentina,4.6,5000006,Finance
+uk.co.santander.santanderUK,Santander Mobile Banking,4.3,4986478,Finance
+mic.app.gastosdiarios_clasico,Daily Expenses 2: Personal finance,4.7,4962813,Finance
+com.hanaskcard.paycla,하나원큐 - 하나카드 원큐페이(앱카드),3.1,4953360,Finance
+com.kakaopay.app,카카오페이,4.5,4946997,Finance
+com.firstdata.moneynetwork,Money Network® Mobile App,3.9,4916749,Finance
+com.iqbroker,IQ Forex Broker – Trading platform,4.3,4877225,Finance
+org.microemu.android.model.common.VTUserApplicationLINKMB,Link Celular,4.3,4875084,Finance
+br.com.bradesco.netempresa,Bradesco Net Empresa,4.1,4874972,Finance
+com.payfazz.android,PAYFAZZ: Agen Pulsa & PPOB Termurah,4.2,4870624,Finance
+com.hanaskcard.rocomo.potal,하나원큐 카드 - 하나카드,4.3,4845905,Finance
+pe.com.interbank.mobilebanking,Interbank APP,3.8,4833041,Finance
+ua.oschadbank.online,Ощад 24/7,2.7,4830151,Finance
+com.smartwho.SmartAllCurrencyConverter,All Currency Converter,4.6,4816286,Finance
+com.unionbankph.online,UnionBank Online,3.7,4797717,Finance
+com.ibk.android.ionebank,i-ONE Bank - 개인고객용,4.8,4793331,Finance
+es.caixabank.caixabanksign,CaixaBank Sign - Digital Coordinate Card,4.6,4786143,Finance
+com.mobillium.papara,Papara,4.8,4784261,Finance
+de.number26.android,N26 Mobile Banking,3.9,4777887,Finance
+com.libertex.mobile,Libertex: Trade in Stocks; Forex, Indices & Crypto,4.3,4775399,Finance
+com.banconacion.mobile,Banco Nación,2.1,4767140,Finance
+nh.smart.nhallonepay,올원페이(NH앱카드),3.6,4765933,Finance
+com.sharekhan.androidsharemobile,Sharekhan: Share Market App for Sensex;NSE,BSE,MCX,3.9,4745122,Finance
+com.fbs.ctand,FBS CopyTrade — Online investment,4.4,4726966,Finance
+com.fidelity.android,Fidelity Investments,4.4,4717846,Finance
+br.com.youse,Youse - Seguro 100% digital,4.3,4704344,Finance
+com.cm_prod.bad,Crédit Mutuel,4.3,4670093,Finance
+com.app.yelonow,YeLo Online Instant Personal LoanCredit Card Score,3.1,4668717,Finance
+com.firstbank.firstmobile,FirstMobile,4,4663028,Finance
+com.miflink.android_app,Flink,3.9,4660894,Finance
+com.unicredit,Mobile Banking UniCredit,4.4,4656739,Finance
+com.vnpay.bidv,BIDV SmartBanking,4,4656437,Finance
+im.toss.dream,Toss - Reward; Top-up, Free Account & Card,4.2,4647180,Finance
+fr.gouv.finances.smartphone.android,impots.gouv,4.1,4640350,Finance
+jp.co.rakuten.pay,楽天ペイ-かんたん、お得なスマホ決済アプリでお支払いをキャッシュレスに！,3.9,4640152,Finance
+com.sivale.android,Up Sí Vale,2.3,4639575,Finance
+at.paysafecard.android,paysafecard – pay cash online,4.5,4607169,Finance
+com.citrus.citruspay,LazyPay- Pay Later | Credit Score | Credit via UPI,4.3,4604499,Finance
+com.uba.vericash,UBA Mobile Banking,4.1,4578759,Finance
+com.TMBTOUCH.PRODUCTION,TMB Touch,3.9,4557204,Finance
+com.fbs.tpand,FBS Trader — Trading Platform,4.6,4557132,Finance
+com.bancodebogota.bancamovil,Banco de Bogotá,3.9,4536289,Finance
+com.rainist.banksalad2,뱅크샐러드,3.6,4517985,Finance
+com.rbc.mobile.android,RBC Mobile,4,4510454,Finance
+org.pixelrush.moneyiq,1Money - Expense Tracker; Money Manager, Budget,4.7,4501844,Finance
+sa.com.stcpay,stc pay,4.3,4480292,Finance
+com.bitcoin.mwallet,Bitcoin Wallet: buy BTC; BCH & ETH,4.4,4472560,Finance
+com.remitly.androidapp,Remitly: Send Money & Track International Funds,4.8,4459951,Finance
+com.cnbc.client,CNBC: Breaking Business News & Live Market Data,3.7,4450359,Finance
+com.ingbanktr.ingmobil,ING Mobil,4.3,4439107,Finance
+com.ktb.merchant.tungngern,ถุงเงิน,4.2,4434444,Finance
+com.itau.empresas,Banco Itaú Empresas: Ideal para MEI e conta PJ,4.2,4418715,Finance
+com.fxpro.direct.application,FxPro: Trade & Manage MT4/MT5/cTrader Accounts,4.3,4414505,Finance
+id.co.cimbniaga.mobile.android,OCTO Mobile by CIMB Niaga,4.4,4413675,Finance
+com.vietinbank.ipay,VietinBank iPay,4.3,4396371,Finance
+ws.hanzo.Vrrh,VR e VOCÊ,4.5,4393441,Finance
+com.jumia.one.android,JumiaPay - Airtime & Bills,4.5,4382746,Finance
+com.ininal.wallet,ininal Wallet,4.2,4375560,Finance
+com.bbva.nxt_argentina,BBVA Argentina,3.9,4318813,Finance
+br.com.m4u.recarga.vivo,Vivo Pay - Sua Conta Digital,3.2,4318117,Finance
+com.kpmoney.android,AndroMoney ( Expense Track ),4.7,4309300,Finance
+com.jk524.bankbalancecheck,Bank Balance Check,4.1,4293268,Finance
+in.co.federalbank.mpassbook,Federal Bank - FedBook Selfie,3.2,4289808,Finance
+ir.sep.sesoot,724,4.5,4285542,Finance
+br.com.rico.mobile,Rico: Investir em Tesouro Direto; CDB, Ações e +,4.5,4259357,Finance
+com.vanso.gtbankapp,GTBank,3.7,4250062,Finance
+com.bstatement.minipassbook.banktransaction,All Bank Passbook -  Mini Statement,4.2,4236806,Finance
+com.wave.personal,Wave - Mobile Money,4.4,4228260,Finance
+com.btckorea.bithumb,Bithumb - No.1 Digital Asset Platform,3.6,4226897,Finance
+zebpay.Application,Zebpay Bitcoin and Cryptocurrency Exchange,3.2,4225777,Finance
+nh.smart.signone,NH스마트인증 - 안심보안/스마트OTP,3.2,4219845,Finance
+kz.enpf.mobile,ЕНПФ,3.4,4219074,Finance
+hyundai.hi.smart.android.activity,현대해상,3.4,4219066,Finance
+com.app.ecobank,Ecobank Mobile App,3.5,4181056,Finance
+ru.sitesoft.fssp,ФССП,4.3,4177065,Finance
+com.handyapps.tipnsplit,Tip N Split Tip Calculator,4.6,4168447,Finance
+com.bccard.bcsmartapp,비씨카드(BC카드;BCcard),4.1,4141468,Finance
+com.fss.iob,IOBMobile,3.9,4139069,Finance
+com.sbg.mobile.phone,Standard Bank / Stanbic Bank,4.2,4131485,Finance
+com.intertech.mobilemoneytransfer.activity,fastPay,4.5,4124340,Finance
+com.alrajhiretailapp,Al Rajhi Mobile,4.6,4086811,Finance
+mm.com.wavemoney.wavepay,WavePay - Myanmar Money Transfer & Online Payments,4.5,4084635,Finance
+com.hbl.android.hblmobilebanking,HBL Mobile,4.4,4075751,Finance
+com.tarjetanaranja.emisor.serviciosClientes.appTitulares,Naranja,4,4073423,Finance
+de.check24.check24,CHECK24 Vergleiche,4.7,4053555,Finance
+com.idongbusmart,DB손해보험,2.8,4038330,Finance
+com.rbl.rblmycard,RBL MyCard,3.5,4036244,Finance
+com.lic.licappstore,My LIC,3.7,4033100,Finance
+com.kebhana.hanapush,하나원큐 - 하나은행 스마트폰 뱅킹,4.3,4030219,Finance
+com.bpi.ng.mobilebanking,BPI Mobile,4.3,4024234,Finance
+sam.myanycar.samsungFire,삼성화재 다이렉트,3.6,4011413,Finance
+com.hdfcclife.activities,HDFC Life Insurance App,3.8,4009058,Finance
+net.inverline.bancosabadell.officelocator.android,Banco Sabadell App. Your mobile bank,4.5,4007882,Finance
+com.IndianBank.IndOASIS,IndOASIS - Indian Bank Mobile Banking,2.5,3989938,Finance
+com.dunamu.stockplus,One-Stop Financial Service : Stockplus,4.6,3988137,Finance
+com.zenithBank.eazymoney,Zenith Bank Mobile App,3.7,3984846,Finance
+pl.bzwbk.bzwbk24,Santander mobile,4.4,3965007,Finance
+com.rkayapps.financeindia,Financial Calculator India,4.6,3937494,Finance
+com.snapwork.IDBI,IDBI Bank GO Mobile+,4.3,3936712,Finance
+net.bnpparibas.mescomptes,Mes Comptes BNP Paribas,3.3,3931057,Finance
+com.blodhgard.easybudget,Fast Budget - Expense & Money Manager,4.6,3928842,Finance
+com.creditsesame,Credit Sesame: Credit Score & Mobile Banking,4.6,3928074,Finance
+com.bankofbaroda.upi,BHIM Baroda Pay,4.2,3925650,Finance
+com.tribab.tricount.android,Tricount - Split bills & manage group expenses,4.8,3923964,Finance
+com.abnamro.nl.mobile.payments,ABN AMRO,3.8,3921955,Finance
+money.expense.budget.wallet.manager.track.finance.tracker,Money Manager: Expense Tracker; Free Budgeting App,4.5,3910386,Finance
+com.fss.pnbpsp,BHIM PNB,3.5,3882677,Finance
+com.astropaycard.android,AstroPay,4.1,3880865,Finance
+com.smg.spbs,MG더뱅킹(구 스마트뱅킹),3.5,3877929,Finance
+com.hrblock.blockmobile,MyBlock,4.2,3866773,Finance
+net.bac.sbe.android,Banca Móvil BAC Credomatic,3.8,3861600,Finance
+com.finance.emi.calculate,EMI Calculator,4.5,3852590,Finance
+com.landbank.mobilebanking,LANDBANK Mobile Banking,3.8,3848041,Finance
+de.deutschepost.postident,POSTIDENT,2.9,3843401,Finance
+org.banxico.dge.movil,BilletesMx,3.9,3843323,Finance
+com.mobile.cbiepassbook,Cent m-passbook,3.5,3837190,Finance
+com.epost.psf.sdsi,우체국 스마트뱅킹,3.6,3820236,Finance
+com.statefarm.dssm,Drive Safe & Save™,4.1,3803304,Finance
+com.KCamsApp,myCAMS Mutual Fund App,4.4,3799938,Finance
+kr.go.wetax.android,스마트 위택스,3.9,3791266,Finance
+com.uphold.wallet,Uphold - Trade; Invest, Send Money For Zero Fees,2.9,3790966,Finance

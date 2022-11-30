@@ -1,0 +1,501 @@
+appID, appName,rating,max_installs,category
+com.ubercab,Uber - Request a ride,4.4,638806478,Maps & Navigation
+com.waze,Waze - GPS; Maps, Traffic Alerts & Live Navigation,4.1,378234324,Maps & Navigation
+com.grabtaxi.passenger,Grab Superapp,4.5,178625683,Maps & Navigation
+com.olacabs.customer,Ola; Safe and affordable rides,4,126466815,Maps & Navigation
+ru.dublgis.dgismobile,2GIS: directory; map, navigator without internet,4.4,93599023,Maps & Navigation
+com.tranzmate,Moovit: All Local Transit & Mobility Options,4.5,90803098,Maps & Navigation
+com.sygic.aura,Sygic GPS Navigation & Offline Maps,4.6,84594576,Maps & Navigation
+ru.yandex.taxi,Yandex Go — taxi and delivery,4.9,81134494,Maps & Navigation
+com.taxis99,99 - Private Driver and Taxi,4.1,80512114,Maps & Navigation
+sinet.startup.inDriver,inDriver — Better than a taxi,4.7,76090236,Maps & Navigation
+ru.yandex.yandexmaps,Yandex.Maps – Transport; Navigation, City Guide,4.4,69943840,Maps & Navigation
+com.didiglobal.passenger,DiDi-Rider,4,44454911,Maps & Navigation
+me.lyft.android,Lyft - Rideshare; Bikes, Scooters & Transit,3.6,44074938,Maps & Navigation
+com.careem.acma,Careem - Rides; Food, Shops, Delivery & Payments,4.1,41905576,Maps & Navigation
+ee.mtakso.client,Bolt: Fast; Affordable Rides,4.7,36971921,Maps & Navigation
+com.mapfactor.navigator,MapFactor Navigator - GPS Navigation Maps,4.6,35668566,Maps & Navigation
+com.maps.voice.navigation.traffic.gps.location.route.driving.directions,GPS; Maps, Voice Navigation & Directions,3.9,35357776,Maps & Navigation
+com.prime.studio.apps.route.finder.map,GPS Route Finder : Maps Navigation & Directions,4.4,35338621,Maps & Navigation
+com.vialsoft.radarbot_free,Radarbot Free: Speed Camera Detector & Speedometer,4.5,33391976,Maps & Navigation
+com.here.app.maps,HERE WeGo Maps & Navigation,4.2,32785582,Maps & Navigation
+br.com.easytaxi,Easy Taxi; a Cabify app,4,30714179,Maps & Navigation
+de.hafas.android.db,DB Navigator,3.8,29099669,Maps & Navigation
+com.ubercab.uberlite,Uber Lite,4.4,26849762,Maps & Navigation
+com.cuvora.carinfo,RTO Vehicle Information,4.5,26449426,Maps & Navigation
+com.grabtaxi.driver2,Grab Driver,3.9,26333792,Maps & Navigation
+com.kakao.taxi,Kakao T - Taxi; Driver, Parking, Navigation, Bike,3.6,26256584,Maps & Navigation
+com.locnall.KimGiSa,카카오내비,4.2,26165921,Maps & Navigation
+ru.yandex.metro,Yandex.Metro — detailed metro maps and route times,4.7,25200113,Maps & Navigation
+com.cabify.rider,Cabify,4.1,23444246,Maps & Navigation
+com.rapido.passenger,Rapido - Bike Taxi,4.1,23238658,Maps & Navigation
+gr.androiddev.taxibeat,Beat - Ride app,3.6,23212262,Maps & Navigation
+jp.co.yahoo.android.apps.transit,Yahoo!乗換案内　無料の時刻表、運行情報、乗り換え検索,4.1,21611137,Maps & Navigation
+cab.snapp.passenger.play,Snapp,4.3,21470806,Maps & Navigation
+com.skt.tmap.ku,T map - 내비게이션 / 지도,3.9,18448701,Maps & Navigation
+teamDoppelGanger.SmarterSubway,Korean Subway : Smarter Subway,4.5,17956140,Maps & Navigation
+com.citymobil,Citymobil Taxi,4,17429808,Maps & Navigation
+com.navitel,Navitel Navigator GPS & Maps,3.4,17331298,Maps & Navigation
+com.astroframe.seoulbus,KakaoBus,3.6,16538726,Maps & Navigation
+org.mrchops.android.digihud,DigiHUD Speedometer,4.1,15809345,Maps & Navigation
+com.eztech.gps.maps,GPS; Maps, Navigate, Traffic & Area Calculating,4.2,15104513,Maps & Navigation
+jp.co.jorudan.nrkj,Norikae Annai -Japan Transit-,4.2,14198590,Maps & Navigation
+com.mapquest.android.ace,MapQuest: Directions; Maps & GPS Navigation,4.2,13924688,Maps & Navigation
+com.jvstudios.gpstracker,GPS Live Navigation; Maps, Directions and Explore,4.4,13696278,Maps & Navigation
+com.lgt.tmoney,모바일티머니,4.5,13372785,Maps & Navigation
+net.orizinal.subway,KakaoMetro - Subway Navigation,3.3,13337986,Maps & Navigation
+com.tomtom.gplay.navapp,TomTom GO Navigation - GPS Maps & Live Traffic,4.3,13320412,Maps & Navigation
+com.gettaxi.android,Gett - Worldwide Corporate Ground Travel,4.3,13220333,Maps & Navigation
+com.thetrainline,Trainline - Buy cheap European train & bus tickets,4.2,13067437,Maps & Navigation
+taxi.android.client,FREE NOW (mytaxi) - Taxi Booking App,4.5,12704095,Maps & Navigation
+com.navfree.android.OSM.ALL,Navmii GPS World (Navfree),3.8,12703380,Maps & Navigation
+jp.co.yahoo.android.apps.map,Yahoo! MAP - 【無料】ヤフーのナビ、地図アプリ,4.2,11650078,Maps & Navigation
+com.citymapper.app.release,Citymapper: Directions For All Your Transportation,4.8,11410727,Maps & Navigation
+ru.yandex.taximeter,Yandex Pro (Taximeter)—Driver job in taxi for ride,4,11409131,Maps & Navigation
+com.huawei.maps.app,Petal Maps - Live GPS; Travel, Navigate & Traffic,3.8,11129818,Maps & Navigation
+ir.balad,بلد – نقشه و مسیریاب فارسی,4.4,10973922,Maps & Navigation
+com.gps.route.finder.mobile.location.tracker.maps.navigation,GPS Navigation - Map Locator & Route Planner,4.4,10890010,Maps & Navigation
+com.kartatech.karta.gps,Offline GPS Navigation; Traffic & Maps by Karta,4.4,10639945,Maps & Navigation
+com.kscc.scxb.mbl,[공식]고속버스 티머니,3.8,10623000,Maps & Navigation
+com.navigationstreet.areafinder.livemaps.earthview.free,GPS Satellite - Live Earth Maps & Voice Navigation,4.6,10472735,Maps & Navigation
+com.what3words.android,what3words: Never get lost again,4.1,10234418,Maps & Navigation
+com.verizontelematics.verizonhum,Hum Family Locator; Roadside Help, Driver Safety,4,9806227,Maps & Navigation
+com.location.test,My Location: GPS Maps; Share & Save Locations,4.4,9757985,Maps & Navigation
+com.thetransitapp.droid,Transit: Bus & Subway Times,4.2,9755800,Maps & Navigation
+com.navitime.local.navitime,NAVITIME - Map & Transfer Navi,4.1,9512749,Maps & Navigation
+com.fragileheart.gpsspeedometer,GPS Speedometer; Distance Meter,4.5,9258874,Maps & Navigation
+pl.neptis.yanosik.mobi.android,Yanosik: "anti-radar"; traffic jams, navi, camera,4.2,9126997,Maps & Navigation
+tat.example.ildar.seer,Police Detector (Speed Camera Radar),4.3,8935237,Maps & Navigation
+jp.co.yahoo.android.apps.navi,Yahoo!カーナビ -【無料ナビ】渋滞情報も地図も自動更新,3.9,8817786,Maps & Navigation
+de.blitzer,Blitzer.de,4.6,8797882,Maps & Navigation
+com.sncf.fusion,SNCF,4.1,8739469,Maps & Navigation
+liveearthmaps.livelocations.streetview.livcams,Live Earth Map - Satellite View; World Map 3D,3.9,8679504,Maps & Navigation
+ru.yandex.rasp,Yandex.Trains,4.8,8379390,Maps & Navigation
+com.fabernovel.ratp,Bonjour RATP,4.4,8309170,Maps & Navigation
+br.com.cittabus,Cittamobi - Rotas & Horários de ônibus,4,8247045,Maps & Navigation
+com.viamichelin.android.viamichelinmobile,ViaMichelin GPS Traffic Speedcam Route Planner,4.2,8239106,Maps & Navigation
+com.raisingapps.gpsroutefind.tracklocation.nearplaces,GPS Location; Maps, Navigation and Directions,4.3,7965573,Maps & Navigation
+hk.easyvan.app.client,Lalamove Asia - 24/7 On-Demand Delivery App,4.8,7962863,Maps & Navigation
+liveearthmap.liveearthcam.livestreetview,Live Earth Map HD – Live Cam & Satellite View,4.2,7917065,Maps & Navigation
+de.schildbach.oeffi,Offi - Journey Planner,4.4,7745458,Maps & Navigation
+net.easypark.android,EasyPark - Find & pay for parking,3.4,7725428,Maps & Navigation
+teamdoppelganger.smarterbus,전국 스마트 버스,4.2,7652728,Maps & Navigation
+com.appscourt.livestreetview.gps.maps.travelnavigation.apps,Live Satellite View GPS Map Travel Navigation,4.3,7594757,Maps & Navigation
+com.navitime.local.nttransfer,乗換NAVITIME　Timetable & Route Search in Japan Tokyo,4.4,7560478,Maps & Navigation
+navigation.location.maps.finder.directions.gps.gpsroutefinder,Free GPS Navigation: Offline Maps and Directions,4.2,7400388,Maps & Navigation
+io.swvl.customer,Swvl - Bus & Car Booking App,4.5,7110427,Maps & Navigation
+org.rajman.neshan.traffic.tehran.navigator,نشان - نقشه و مسیریاب فارسی - Neshan,4.5,7095050,Maps & Navigation
+com.gf.offroad.jeep.driving.parking,Offroad Jeep Driving 2021 - Car Racing Game 3D,4.3,7085221,Maps & Navigation
+jp.sony.spot.sp,スポットリスト - 「リアルな人気スポット」が見つかる,3.6,7069039,Maps & Navigation
+ru.rzd.pass,РЖД Пассажирам билеты на поезд,4.4,6961183,Maps & Navigation
+com.taxsee.driver,Taxsee Driver,4.4,6864573,Maps & Navigation
+com.pathao.user,Pathao,4.2,6795529,Maps & Navigation
+com.ridewith,Waze Carpool - Ride together. Commute better.,3.7,6794689,Maps & Navigation
+com.sygic.incar,Sygic Car Connected Navigation,4.6,6628288,Maps & Navigation
+com.california.cyber.developers.gps.speedometer.tripmeter,GPS Speedometer - Trip Meter - Odometer,4.3,6228163,Maps & Navigation
+com.citynav.jakdojade.pl.android,Jakdojade: public transport,4.4,6189855,Maps & Navigation
+com.lynxspa.prontotreno,Trenitalia,3.6,6163822,Maps & Navigation
+com.discipleskies.android.speedometer,DS Speedometer & Odometer,4.2,6162953,Maps & Navigation
+com.mappy.app,Mappy – Plan; Comparateur d’itinéraires, GPS,4.1,6050099,Maps & Navigation
+com.polysoftstudios.son.carkeysimulatorprankfree,Car Key Lock Remote Simulator,3.7,6049212,Maps & Navigation
+ee.mtakso.driver,Bolt Driver: Drive & Earn,4.5,5884604,Maps & Navigation
+eu.flightapps.airtraffic,Air Traffic - flight tracker,4.6,5822764,Maps & Navigation
+gps.speedometer.digihud.odometer,GPS Speedometer : Odometer and Speed Tracker App,4.3,5797158,Maps & Navigation
+com.alk.copilot.mapviewer,CoPilot GPS Navigation & Traffic,3.8,5774286,Maps & Navigation
+com.olacabs.lite,Ola Lite: Lighter Faster Ola App. Book Taxi & Cabs,3.3,5741301,Maps & Navigation
+com.wikiloc.wikilocandroid,Wikiloc Outdoor Navigation GPS,4.6,5738814,Maps & Navigation
+com.theappninjas.fakegpsjoystick,Fake GPS Location - GPS JoyStick,4.4,5708238,Maps & Navigation
+product.clicklabs.jugnoo,Jugnoo - Taxi Booking App & Software,4.1,5637535,Maps & Navigation
+com.thinkware.inaviair,아이나비 에어 - 내비게이션; 그룹주행,4.4,5530317,Maps & Navigation
+socar.Socar,쏘카 - 1등 카셰어링,3.3,5433062,Maps & Navigation
+uk.co.nationalrail.google,National Rail Enquiries,2.4,5333597,Maps & Navigation
+kt.navi,원내비,4.3,5325473,Maps & Navigation
+net.sharewire.parkmobilev2,ParkMobile - Find Parking,3.6,5314336,Maps & Navigation
+com.codesector.maverick.lite,Maverick: GPS Navigation,4.4,5296783,Maps & Navigation
+com.winit.merucab,Meru Cabs- Local; Rental, Outstation, Airport Taxi,4,5285381,Maps & Navigation
+com.ulmon.android.citymaps2go,CityMaps2Go  Offline Maps for Travel and Outdoors,4.3,5276391,Maps & Navigation
+cz.seznam.mapy,Mapy.cz navigation & offline maps,4.7,5237939,Maps & Navigation
+tr.gov.ibb.ibbceptrafik,IBB CepTrafik,3.1,5226188,Maps & Navigation
+com.coyotesystems.android,Coyote: Alerts; GPS & traffic,4.1,5201158,Maps & Navigation
+com.coolniks.niksgps,GPS Speedometer and Odometer (Speed Meter),4.7,5194847,Maps & Navigation
+com.ltp.pro.fakelocation,FGL Pro,3.7,5156116,Maps & Navigation
+com.trafi.android.tr,Schedules by Trafi,3.9,5133158,Maps & Navigation
+com.tomtom.speedcams.android.map,TomTom AmiGO – GPS Maps; Speed Camera & Traffic,undefined,5129705,Maps & Navigation
+menion.android.locus,Locus Map 4: Hiking&Biking GPS navigation and Maps,4.5,5030037,Maps & Navigation
+com.sraoss.dmrc,Delhi Metro Rail,4.4,5023721,Maps & Navigation
+ch.sbb.mobile.android.b2c,SBB Mobile,3.6,4965256,Maps & Navigation
+com.olacabs.android.operator,Ola Operator,4.3,4936534,Maps & Navigation
+com.mybedy.antiradar,ContraCam - Speed Cameras & HUD; Radar Detector,4.7,4881623,Maps & Navigation
+com.camsam,CamSam - Speed Camera Alerts,4.6,4845273,Maps & Navigation
+kbk.maparea.measure.geo,Gps Area Calculator,4.1,4821761,Maps & Navigation
+com.navitime.local.navitimedrive,ドライブサポーター - ルート検索;高速道路料金,カーナビ,渋滞情報,駐車場,ドライブ,ドラレコ,4,4760436,Maps & Navigation
+ru.serebryakovas.lukoilmobileapp,АЗС ЛУКОЙЛ,4.6,4731649,Maps & Navigation
+com.codesector.speedview.free,SpeedView: GPS Speedometer,3.9,4705124,Maps & Navigation
+app.zophop,Chalo - Live Bus Tracking App,4,4693451,Maps & Navigation
+com.metrobikes.app,Bounce - Rent Bikes & Scooters | Sanitized Rentals,3.6,4671647,Maps & Navigation
+com.theporter.android.customerapp,Truck & Bike Delivery | Movers & Packers – Porter,4.1,4638760,Maps & Navigation
+com.gps.map.navigation.tracker.location.compass.handy,GPS Route Finder-Compass & Speedometer Navigation,4.4,4610834,Maps & Navigation
+sands.mapCoordinates.android,Map Coordinates,4.5,4537410,Maps & Navigation
+com.kakao.wheel,Kakao Driver,3.9,4520232,Maps & Navigation
+ru.bus62.SmartTransport,Smart Transport,4.2,4496453,Maps & Navigation
+info.mapcam.droid,MapcamDroid Radar detector,4.4,4493307,Maps & Navigation
+com.ionicframework.apsrtclivetrack555011,APSRTC LIVE TRACK,2.9,4476156,Maps & Navigation
+com.tilzmatictech.mobile.navigation.delhimetronavigator,Delhi Metro Navigator - Fare; Route, Map, Offline,4.4,4474431,Maps & Navigation
+maps.GPS.offlinemaps.FreeGPS,Offline GPS - Maps Navigation & Directions Free,4.3,4470920,Maps & Navigation
+com.magnifis.parking,Robin - AI Voice Assistant,4.1,4425247,Maps & Navigation
+com.carshering,Delimobil – carsharing app,4.4,4418971,Maps & Navigation
+com.rutasdeautobuses.transmileniositp,Transmilenio and Sitp,4.6,4381882,Maps & Navigation
+com.hangoverstudios.vehicleinfo,Vehicle Info - Vehicle Owner Details,4.4,4358439,Maps & Navigation
+com.naviexpert.NaviExpert_Play,Nawigacja Play,4.1,4346893,Maps & Navigation
+com.miczon.android.webcamapplication,Earth Camera Online,4.5,4245620,Maps & Navigation
+com.imagedrome.jihachul,Subway Korea (Korea Subway route navigation),4.4,4233497,Maps & Navigation
+com.bikesstunt.motomaster.racing.game.trial.trick.bikeRacing2,Bike Stunt Racing Games 3D - Free Games 2021,4,4232226,Maps & Navigation
+com.ktwapps.speedometer,GPS Speedometer: Speed Tracker; HUD, Odometer,4.3,4229949,Maps & Navigation
+nexti.android.bustaipei,BusTracker Taipei,4.1,4215826,Maps & Navigation
+xyz.be.customer,be - Vietnamese ride-hailing app,4.6,4175320,Maps & Navigation
+com.atlogis.sovietmaps.free,Russian Topo Maps Free,4.3,4172192,Maps & Navigation
+com.verisun.mobiett,Mobiett,3.2,4162142,Maps & Navigation
+com.heetch,Heetch - Ride-hailing app,4.4,4130111,Maps & Navigation
+tr.com.ulkem.hgs,HGS - Online Bakiye Yükle,2.8,4089760,Maps & Navigation
+com.location.calculate.areas,Area Calculator for Land - Perimeter and Field,4.1,4086552,Maps & Navigation
+com.simplywerx.compass3d,Compass Steel 3D (No ads),4.6,4072053,Maps & Navigation
+cz.mafra.jizdnirady,Czech Public Transport IDOS,4.4,4062919,Maps & Navigation
+kr.mappers.AtlanSmart,Atlan3D Navigation: Korea navigator,4.1,4050699,Maps & Navigation
+com.skp.lbs.ptransit,T map 대중교통 - 버스; 지하철, 길찾기를 하나의 앱으로,4.1,4043901,Maps & Navigation
+com.rapido.rider,Rapido Captain,3.8,3997938,Maps & Navigation
+gps.maps.navigation.offlinemaps.drivingdirections,Offline Maps; GPS Navigation & Driving Directions,3.9,3975875,Maps & Navigation
+pl.mobicore.mobilempk,BusNavi,4.6,3922920,Maps & Navigation
+livestreetview.gpsnavigation.liveearthmap,Live Street View 360 – Satellite View; Earth Map,4.2,3769819,Maps & Navigation
+com.ego.android,EGO CEP'te,3.1,3755419,Maps & Navigation
+it.navionics.singleAppMarineLakesHD,Boating Marine & Lakes,3.9,3749708,Maps & Navigation
+com.carracing.streetracing.freegames,Police Car Racing Game: Free Sniper Shooting Games,4.4,3701106,Maps & Navigation
+com.lguplus.navi,U+카카오내비,3.9,3687721,Maps & Navigation
+com.gpn.azs,АЗС Газпромнефть - бесконтактная оплата топлива!,4.5,3686818,Maps & Navigation
+com.visualit.tubeLondonCity,Tube Map London Underground,4.3,3665670,Maps & Navigation
+co.findship.FindShip2,FindShip,4.1,3634528,Maps & Navigation
+com.streetview.penorama.liveearthmap,Street View - Panorama 3D Live camera Speedometer,3.6,3630469,Maps & Navigation
+com.prime.studio.apps.gps.personal.tracker,Caller ID Name Locator & Tracker; Spam blocking,4.1,3594367,Maps & Navigation
+de.mwwebwork.benzinpreisblitz,Fuel Flash,4.6,3566608,Maps & Navigation
+com.skplanet.tmaptaxi.android.passenger,UT - T map 택시의 새로운 이름,3.3,3537578,Maps & Navigation
+ru.dublgis.dgismobile4preview,2GIS beta,4.3,3535922,Maps & Navigation
+com.discipleskies.android.polarisnavigation,Polaris GPS Navigation: Hiking; Marine, Offroad,4.5,3507614,Maps & Navigation
+com.virtualmaze.offlinemapnavigationtracker,Offline Map Navigation - GPS Driving Route,4.3,3488722,Maps & Navigation
+com.postmates.android.courier,Fleet by Postmates,3.2,3374761,Maps & Navigation
+net.psyberia.offlinemaps,All-In-One Offline Maps,4.5,3366571,Maps & Navigation
+com.yandex.yango,Yango ride: get a bolt of energy to ride lite taxi,4.7,3315912,Maps & Navigation
+at.oebb.ts,ÖBB – Train Tickets & More,3.5,3244731,Maps & Navigation
+com.simplywerx.compass2d,Compass Steel (No ads),4.6,3243549,Maps & Navigation
+com.softboom.autovelox,Autovelox!,3.4,3241548,Maps & Navigation
+com.ptvag.android.adacgasprices,ADAC Spritpreise,3.9,3236638,Maps & Navigation
+ru.tutu.etrains,Расписание и билеты на электрички Туту.ру,4.6,3160577,Maps & Navigation
+me.sravnitaxi,Сравни Такси: все цены такси,4.3,3153371,Maps & Navigation
+com.rstech.maps.gps.route.finder.number.location.tracker.directions.maps.gpsarea.navigation.compass,Free GPS Navigation & Maps; Directions,4.3,3123726,Maps & Navigation
+com.VoDrive,VOGO -Scooter & Bike Rental App | Rent.Ride.Return,4.1,3117296,Maps & Navigation
+jp.co.val.expert.android.aio,駅すぱあと　無料の乗換案内 - 時刻表・運行情報・バス経路検索,4,3112894,Maps & Navigation
+com.mnsoft.mappyobn,mappy (맵피),4,3093267,Maps & Navigation
+nl.flitsmeister,Flitsmeister,4.6,3076459,Maps & Navigation
+br.com.embryo.rpc.android,Ponto Certo Bilhete Unico,2.5,3051652,Maps & Navigation
+de.hafas.android.oebb,ÖBB Scotty,4.1,2990621,Maps & Navigation
+com.ubercab.fleet,Uber Fleet,3.9,2914587,Maps & Navigation
+com.whitecrow.metroid,Korea Subway Info : Metroid,3.7,2901203,Maps & Navigation
+com.slsolution.mltm,국가교통정보센터,3.6,2891481,Maps & Navigation
+com.unicell.pangoandroid,פנגו,4.2,2891343,Maps & Navigation
+com.navitime.local.bus,NAVITIME Bus Transit JAPAN,3.6,2821657,Maps & Navigation
+com.vtron.subway,Korea Subway Information,3.7,2777776,Maps & Navigation
+com.mxdata.tube.Market,Tube Map - TfL London Underground route planner,3.8,2777327,Maps & Navigation
+jp.co.nikko_data.japantaxi,JapanTaxi,4.4,2775420,Maps & Navigation
+com.yandex.mobile.drive,Yandex.Drive — carsharing,4.5,2767492,Maps & Navigation
+app.quicko,Quicko: Horário de Ônibus em tempo real e Rotas,4.1,2763815,Maps & Navigation
+com.gai.GPS.map.navigation,Maps Directions & GPS Navigation,4.2,2753927,Maps & Navigation
+com.toursprung.bikemap,Bikemap - Your Cycling Map & GPS Navigation,4.5,2750146,Maps & Navigation
+com.voyager.gps.maps.directions,Real-time GPS; Maps, Routes, Direction and Traffic,4.5,2706103,Maps & Navigation
+com.cabify.driver,Cabify Drivers - App para conductores,3.9,2699130,Maps & Navigation
+com.eway,EasyWay public transport,4.3,2690581,Maps & Navigation
+de.eos.uptrade.android.fahrinfo.berlin,BVG Fahrinfo: Bus; Train, Subway & City Map Berlin,4,2658059,Maps & Navigation
+com.tgp.extreme.rooftop.bikeridersim,Rooftop Bike Driving Simulator : Bike Taxi Games,4.1,2651060,Maps & Navigation
+com.sygic.truck,Sygic Truck & RV GPS Navigation,4.2,2647160,Maps & Navigation
+com.Avenza,Avenza Maps: Offline Mapping,4.7,2643881,Maps & Navigation
+ru.mosmetro.metro,MosMetro,3.4,2641067,Maps & Navigation
+com.sstsmartapps.qiblacompass.finddirection,Qibla Compass - Find Direction,4.2,2635507,Maps & Navigation
+com.tappsi.passenger.android,Easy Tappsi; a Cabify app,3.9,2627239,Maps & Navigation
+com.seatech.bluebird,MyBlueBird,4.3,2593813,Maps & Navigation
+com.megafreeapps.free.gps.navigation.speedometer.compass,Free GPS Maps - Navigation and Place Finder,4.2,2563861,Maps & Navigation
+com.smartdriver.antiradar,Ray.Radardetector and DVR (Smart Driver),4.3,2550724,Maps & Navigation
+air.StrelkaHUDFREE,HUD АнтиРадар (бесплатно),4.8,2544947,Maps & Navigation
+com.sixdays.truckerpath,Trucker Path: Truck GPS Truck Stops Weigh Stations,4.2,2537468,Maps & Navigation
+br.nanoit.viewbus,Cadê o Ônibus?,2.9,2528368,Maps & Navigation
+liveearthcams.onlinewebcams.livestreetview,Live Earth Cam - Live Beach; City & Nature Webcams,3.6,2507236,Maps & Navigation
+dbx.taiwantaxi,台灣大車隊 55688,3.6,2499100,Maps & Navigation
+com.gpsnavigation.maps.gpsroutefinder.routemap,GPS Navigation: Road Map Route,4.3,2498995,Maps & Navigation
+app.goplus.in.myapplication,Shuttl - Daily office commute from home in a bus,3.7,2489804,Maps & Navigation
+com.california.cowboy.studios.gps.speedometer.odometer,GPS Speedometer : Odometer: Trip meter + GPS speed,4.3,2475983,Maps & Navigation
+com.mas3dstudio.biketransporter,Bike Transporter Big Truck: Motorcycle Transport,4.1,2450192,Maps & Navigation
+com.EBrainSol.livestreetview.livemap,Live Map and street View - Satellite Navigation,3.7,2446306,Maps & Navigation
+com.lge.opinet,오피넷(OPINET)-싼 주유소 찾기,4.4,2402075,Maps & Navigation
+com.shell.sitibv.retail,Shell,4.6,2401446,Maps & Navigation
+com.live.earth.maps.liveearth.livelocations.mylocation.streetview.maps2019,Live Earth Map 2020 -Satellite & Street View Map,3.5,2361673,Maps & Navigation
+com.gpsnavigationmaps.routefinder,MAPS & Navigation - GPS Voice Driving Directions,4.2,2355797,Maps & Navigation
+net.monthorin.rttraffic16,Glob - GPS; Traffic, Radar & Speed Limits,4,2320024,Maps & Navigation
+jp.co.kenmiya.TJamInfo,渋滞ナビ - カーナビ/リアルタイム渋滞情報,3.3,2310930,Maps & Navigation
+com.mireo.rtasmartdrive,RTA Smart Drive,4.6,2278497,Maps & Navigation
+maps.navigation.offline,Better Maps. GPS navigation. More location info.,4.3,2273319,Maps & Navigation
+com.zongley.location.finder,US Route Finder Navigation and Location🇺🇸,4.1,2261874,Maps & Navigation
+com.greencar,그린카 – 이동을 새로 그리다,2.9,2255725,Maps & Navigation
+com.yatechnologies.yassir_rider,YASSIR,3.9,2244497,Maps & Navigation
+com.inno.epodroznik.android,e-podroznik.pl,4,2225110,Maps & Navigation
+com.evo.gpscompassnavigator,GPS Compass Navigator,4.1,2215318,Maps & Navigation
+com.liveearthmap.streetviewmap.webcams.earthcam.liveweathermap.onlinecams,Live Earth Cam HD - Webcam; Satellite View, 3D Map,4.4,2208624,Maps & Navigation
+com.rosteam.gpsemulator,GPS Emulator,4.6,2206133,Maps & Navigation
+com.loggi.driverapp,Loggi para entregador,2.9,2197743,Maps & Navigation
+de.eos.uptrade.android.fahrinfo.hamburg,HVV - Navigation & tickets for Hamburg,3.6,2196070,Maps & Navigation
+com.androidlab.gpsfix,GPS Fix,4.5,2195735,Maps & Navigation
+com.nng.igo.primong.igoworld,iGO Navigation,3.1,2187555,Maps & Navigation
+com.wefi.wefi,Find Wi-Fi - Automatically Connect to Free Wi-Fi,3.9,2187436,Maps & Navigation
+com.partyPowered.GPS_EASY_CAR_LITE,Easy Auto,4.2,2174395,Maps & Navigation
+com.tig_gis.ling,Ling - แอปเพื่อการเกษตรดิจิทัล,4.5,2171354,Maps & Navigation
+com.indie.bustime,Bustime,4.4,2170392,Maps & Navigation
+com.underwood.route_optimiser,Circuit Route Planner,4.7,2166647,Maps & Navigation
+com.mdv.VRRCompanion,VRR-App - Fahrplanauskunft,3.9,2158526,Maps & Navigation
+cl.datacomputer.alejandrob.newgpsjoystick,NewGPS! Joystick,2.9,2156201,Maps & Navigation
+com.navikey.seven_ways,7 Ways Navigator,3.9,2146497,Maps & Navigation
+tendy.SpeedCamera,SpeedCamera,4.1,2135441,Maps & Navigation
+com.kodeblink.trafficapp,Traffic Bangalore: Check Fines,4,2126957,Maps & Navigation
+com.ripplemotion.android.EssenceLite,Essence&CO - Économisez sur votre budget auto,4,2109849,Maps & Navigation
+me.com.easytaxi,Jeeny - جيني,2.8,2076787,Maps & Navigation
+com.mobile.gps.livetraffic.route.navigation.Maps.location.gpsroutefinder,GPS Maps; Route Finder - Navigation, Directions,4.3,2075682,Maps & Navigation
+hk.easyvan.app.driver2,Lalamove Driver - Earn Extra Income,3.6,2065391,Maps & Navigation
+com.mira.truckpad,TruckPad: Cargas e Fretes,3.9,2053391,Maps & Navigation
+com.kny.taiwanfreewaycamviewer,KNY高速公路,4.2,2035437,Maps & Navigation
+com.webmarketing.exxonmpl,Exxon Mobil Rewards+,4.4,2023260,Maps & Navigation
+com.astrapaging.vff,VesselFinder Free,3.8,2011293,Maps & Navigation
+uk.co.mxdata.newyorksub,New York Subway – Official MTA map of NYC,4.4,2008631,Maps & Navigation
+com.play.io.us.police.cruiseship.driving.simulator,Police Cruise Ship Driving Animal Transporter,4,2002311,Maps & Navigation
+com.skystar.tratime,Taiwan Railway Timetable,4.1,1994922,Maps & Navigation
+ar.gob.buenosaires.comollego,BA Cómo Llego,4.5,1989834,Maps & Navigation
+ro.mobiessence.android.clevertaxi,Clever is now FREE NOW,3.2,1989747,Maps & Navigation
+com.dki.spb_android,서울자전거 따릉이 (Seoul Public Bike),4.4,1982184,Maps & Navigation
+com.firstgroup.first.bus,First Bus – Plan; buy mTickets & live bus times,3.9,1979565,Maps & Navigation
+com.apsrtc,Hyderabad RTC Info,4.1,1974361,Maps & Navigation
+com.skplanet.tmaplink,T map link,0,1966838,Maps & Navigation
+com.shohoz.rides,Shohoz,3.3,1965106,Maps & Navigation
+jp.co.jreast,JR東日本アプリ 全国の乗換案内（電車・新幹線・バス）・運行情報のプッシュ通知・構内図 無料,3.9,1956420,Maps & Navigation
+com.skystar.twbus,台灣公車通 (台北/桃園/台中/台南/高雄公車/公路客運),4.2,1950224,Maps & Navigation
+exam.IntercityBUS,통합 시외버스 예매 (IntercityBUS),3.1,1927130,Maps & Navigation
+free.Gps_Maps,USA GPS Maps My Location,4.3,1925464,Maps & Navigation
+com.ursabyte.garudaindonesiaairlines,Fly Garuda,3.5,1924527,Maps & Navigation
+co.esoft.qiblacompass,Qibla Compass for Namaz; Qibla Direction, القبلة,4.6,1921599,Maps & Navigation
+ru.citymobil.driver,Citymobil Driver,2.6,1885534,Maps & Navigation
+com.na.impossible.car.racing3d.stunt.car.games,Mega Ramp Car Simulator Game- New Car Racing Games,3.8,1863249,Maps & Navigation
+com.taxipoehali,Поехали: заказ такси и доставка,4.7,1857735,Maps & Navigation
+com.zc.android,Zipcar,3.8,1856105,Maps & Navigation
+de.telekom.tanken,TankenApp mit Benzinpreistrend,3.1,1845875,Maps & Navigation
+com.macsoftex.antiradar.free,Антирадар М. Радар детектор камер и постов ДПС.,4.5,1841517,Maps & Navigation
+tw.com.ainvest.outpack,神盾測速照相,4.8,1829917,Maps & Navigation
+com.chic.uvlight,UV Light Simulator,3.1,1823087,Maps & Navigation
+binaryearth.handygpsfree,Handy GPS (free),4.3,1792059,Maps & Navigation
+br.lgfelicio,FreteBras: Encontre Cargas Com Rapidez,4.3,1789493,Maps & Navigation
+com.spothero.spothero,SpotHero - Find Parking,4.1,1785810,Maps & Navigation
+psyberia.alpinequest.free,AlpineQuest Off-Road Explorer (Lite),4.5,1780972,Maps & Navigation
+com.mobispector.bustimes,Bus Times - Live Arrivals for Public Transit,4.1,1773292,Maps & Navigation
+jp.pioneer.mbg.appradio.AppRadioLauncher,AppRadio,2.2,1757207,Maps & Navigation
+exam.ExpressBUS,통합 고속버스 예매 (ExpressBUS),2.9,1747913,Maps & Navigation
+com.nyctrans.it,MyTransit NYC Subway; MTA Bus, LIRR & Metro North,4.6,1742302,Maps & Navigation
+kz.soft.android.infobus,Infobus Mobile,3.6,1740074,Maps & Navigation
+com.ghanapostgps.ghanapost,GhanaPostGPS,4,1736567,Maps & Navigation
+com.voice.gps.driving.directions.lite,Voice GPS Driving Directions –Lite; GPS Navigation,4.4,1730981,Maps & Navigation
+com.bigdream.radar.speedcam,Speed Cameras Radar,4.5,1729980,Maps & Navigation
+com.calimoto.calimoto,calimoto – Motorcycle Rides,4.5,1728368,Maps & Navigation
+com.kingwaytek.naviking.std,樂客導航王N5（30 天體驗版）,3.9,1727000,Maps & Navigation
+net.mypapit.mobile.speedmeter,Speedometer,4.1,1719611,Maps & Navigation
+com.mmi.maps,MapmyIndia Move: Maps; Navigation & Tracking,4.1,1715980,Maps & Navigation
+jp.co.wnexco.android.ihighway,iHighway交通情報,3.8,1707001,Maps & Navigation
+com.headwaylabs.marineradar,Marine Radar - Ship tracker,4.4,1705624,Maps & Navigation
+com.themobilecompany.delijn,De Lijn,3.4,1704881,Maps & Navigation
+tw.com.thsrc.texpress,台灣高鐵 T Express行動購票服務,2.7,1699624,Maps & Navigation
+de.hafas.android.bayernnavi,DB Streckenagent,4,1697640,Maps & Navigation
+com.passportparking.mobile,Passport Parking – Park. Pay. Be on your way. ®,3.9,1694085,Maps & Navigation
+com.mininterior.trenesenvivo,Trenes Argentinos,3.9,1684669,Maps & Navigation
+com.roadlords.android,RoadLords - Free Truck GPS Navigation,4.5,1681942,Maps & Navigation
+net.aramex,Aramex Mobile,4.6,1678775,Maps & Navigation
+com.hertz,Hertz Car Rentals,2.7,1674365,Maps & Navigation
+ru.belkacar.belkacar,BelkaCar,2.8,1670385,Maps & Navigation
+com.iridianstudio.sgbuses,SG Buses,3.3,1667523,Maps & Navigation
+com.delaware.empark,Telpark - Your personal parking meter,4.6,1664525,Maps & Navigation
+com.polstargps.polnav.mobile,Polnav mobile Navigation,4.3,1663211,Maps & Navigation
+br.com.urbanonorte.passenger.drivermachine,Urbano Norte,4.6,1656956,Maps & Navigation
+com.pcentra.ravkavonlinemobile,Rav-Kav Online - Rav-Kav Loading,4.2,1647989,Maps & Navigation
+com.rgs.coachbus.driversimulator.passengerbus,City Bus Passenger Driving,3.3,1643544,Maps & Navigation
+com.ticker.tractor.trolley.farming.simulator,Cargo Tractor Trolley Simulator Farming Gams 2021,4.6,1635958,Maps & Navigation
+de.hafas.android.vbb,VBB-App Bus&Bahn: All transport Berlin&Brandenburg,3.5,1631525,Maps & Navigation
+com.tachku.android,Tachku - more benefits than taxi,3.9,1628970,Maps & Navigation
+kentkart.mobile.cordova,kentkart mobile,3.3,1624233,Maps & Navigation
+com.ticker.truck.driver.cargo,Cargo Truck Driver 2021 - Truck Driving Simulator,4.5,1621333,Maps & Navigation
+com.lalamove.client.india,Lalamove India - Delivery App,4.2,1614760,Maps & Navigation
+com.voice.gps.driving.directions.gps.navigation.maps.location,Voice GPS Driving Directions; GPS Navigation, Maps,4.7,1607960,Maps & Navigation
+com.safeboda.passenger,SafeBoda,3.7,1581366,Maps & Navigation
+kr.co.iparking.android,아이파킹(i PARKING)-주차 할인/정보/가격비교,3.6,1580904,Maps & Navigation
+com.foster.emtu,EMTU Oficial,3.5,1572214,Maps & Navigation
+taxi.tapsi.passenger,TAPSI - تپسی,4.2,1565437,Maps & Navigation
+com.djbus,Daejeon Bus,2.6,1564206,Maps & Navigation
+nexti.android.bustaichung,BusTracker Taichung,3.7,1554353,Maps & Navigation
+com.delhi.metro.dtc,Delhi Metro Map;Route, DTC Bus Number Guide - 2020,4.5,1548609,Maps & Navigation
+com.gps.maps.navigation.routeplanner,GPS Route Planner,4.3,1545854,Maps & Navigation
+com.applidium.vianavigo,Vianavigo - Transport in Île-de-France,4.4,1538818,Maps & Navigation
+net.ixxi.ratp.tourisme,Next Stop Paris - RATP,4.4,1530849,Maps & Navigation
+de.meinfernbus,FlixTrain - quickly and comfortably at low price,2.9,1528803,Maps & Navigation
+com.appsmi.mapsandnavigation.gps.locationfind.directions,GPS Maps and Navigation,4.3,1525153,Maps & Navigation
+kr.or.gbushybrid,경기버스정보,3.1,1524073,Maps & Navigation
+pixler.gps.area.measurement,Area Calculator For Land Gps Measurement,4.1,1520730,Maps & Navigation
+com.atlogis.northamerica.free,US Topo Maps Free,4.5,1520190,Maps & Navigation
+com.gamestr.us.police.transport.cargo.plane,Police Limo Transport: Airplane Transporter Sim,3.8,1498980,Maps & Navigation
+ru.involta.metro,Metro World Maps,4.9,1494181,Maps & Navigation
+org.wundercar.android,Wunder Carpool,4.2,1491364,Maps & Navigation
+com.kcw.android.gjcitybus,광주버스 - 광주지역 모든 버스정보,3.8,1488995,Maps & Navigation
+com.findmyphone.findmydevice,Find My Lost Phone,3.5,1479732,Maps & Navigation
+com.discipleskies.satellitecheck,Satellite Check -GPS status and navigation package,4.3,1477448,Maps & Navigation
+com.voice.gps.navigator.voice.nearby.places.maps,GPS; Maps, Directions, GPS Navigation, Voice GPS,4.2,1476649,Maps & Navigation
+appinventor.ai_nightclubtorino.Navigator,SNAV navigator free,4,1474033,Maps & Navigation
+gps.coordinates.software,GPS Speedometer & Flashlight,4.2,1474005,Maps & Navigation
+com.intele.nsbmob.app,Vy,2.3,1472508,Maps & Navigation
+com.Rayyan.metaldetector.emf,Metal Detector App - Stud Finder,4.1,1468335,Maps & Navigation
+com.idmexico.tutag,Tu Tag PASE,3.1,1444224,Maps & Navigation
+com.crittermap.backcountrynavigator,BackCountry Nav Topo Maps GPS - DEMO,4,1443429,Maps & Navigation
+de.swm.mvgfahrinfo.muenchen,MVG Fahrinfo München,2.8,1442714,Maps & Navigation
+com.sdu.didi.psnger,DiDi – Greater China,3.4,1428424,Maps & Navigation
+com.narkira.gpslocation,GPS Locations,4.1,1428203,Maps & Navigation
+it.carfind,Find my parked car: The parking spot; gps, maps,4.5,1425565,Maps & Navigation
+com.live.voice.navigation.driving.directions.gps.maps,GPS; Maps Driving Directions, GPS Navigation,4.5,1420608,Maps & Navigation
+com.sg.bikestunts.bikeriding.motorbikeracing.megaramp,Mega Ramp Motorbike Impossible Stunts,3.5,1419535,Maps & Navigation
+com.galasoft2013.shipinfo,Ship Info,4.7,1418157,Maps & Navigation
+com.gks.virtual.life.police.dad.game.family.games,Virtual Police Dad Simulator : Happy Family Games,3.6,1384260,Maps & Navigation
+jp.tokyostudio.android.railwaymap,World Transit Maps - USA; UK & worldwide network,4.2,1380536,Maps & Navigation
+star.gps.area.mapsmeasure,Gps Area Measurement,3.8,1358741,Maps & Navigation
+com.njtransit.njtapp,NJ TRANSIT Mobile App,4.5,1352204,Maps & Navigation
+com.gps.maps.appsence,GPS; Maps, Directions & Voice Navigation,4.3,1349487,Maps & Navigation
+com.maps.navigation.offlinemaps.traffic.gps.location.directions,GPS; Offline Maps, Navigation & Directions,4.3,1349385,Maps & Navigation
+com.justpark.jp,JustPark Parking,4.6,1339785,Maps & Navigation
+pl.naviexpert.market,NaviExpert - Nawigacja i Mapy; Korki, Fotoradary,4.3,1336205,Maps & Navigation
+info.yogantara.utmgeomap,UTM Geo Map,4.5,1334200,Maps & Navigation
+com.w.argps,AR GPS DRIVE/WALK NAVIGATION,4,1331710,Maps & Navigation
+com.taptaxi,TapTaxi,4.8,1320828,Maps & Navigation
+com.ionicframework.test3212884,Infractions routières,2.8,1318721,Maps & Navigation
+com.andromo.dev764019.app975079,Rastrear Celular por el Numero,4.6,1312716,Maps & Navigation
+com.keeptruckin.android,KeepTruckin Driver — ELD; Electronic Logbook, DVIR,4.3,1291482,Maps & Navigation
+com.emtmadrid.emt,EMT Madrid,4.3,1288975,Maps & Navigation
+com.bloodyluna.TaipeiMetroTimeAndFare,Taipei Metro Route Map,4.5,1287294,Maps & Navigation
+com.appsmartplus.gpsmobilelocationtracker.route.finder,Mobile Number Location GPS,3.9,1287187,Maps & Navigation
+com.antonio.family.locator.phone.tracker,Phone Tracker Free - Phone Locator by Number,4.7,1286087,Maps & Navigation
+com.hotai.toyota.citydriver.official,驅動城市,4.5,1283939,Maps & Navigation
+com.codigo.comfort,ComfortDelGro Booking App,4.6,1274424,Maps & Navigation
+com.appeffectsuk.bustracker,London Live Bus Times - TfL Buses,4.2,1273243,Maps & Navigation
+kr.co.vcnc.tada,TADA - Quality ride for all,4.4,1265779,Maps & Navigation
+com.ofirmiron.findmycarandroidwear,Find My Parked Car - Automatically Locate Car,4,1263697,Maps & Navigation
+com.traffic.speed.camera.detector.radar.traffic.alert,Speed Camera Radar - Police Radar Detector HUD,4.2,1263599,Maps & Navigation
+find.my.cellphone,Find my Phone,3.7,1262368,Maps & Navigation
+com.lketech.android.maps.distance.calculator,Maps Distance Calculator,4.2,1254664,Maps & Navigation
+com.parkopedia,Parkopedia Parking,4.5,1248550,Maps & Navigation
+it.atm.appmobile,ATM Milano Official App,3.7,1244221,Maps & Navigation
+com.marinetraffic.android,MarineTraffic - Ship Tracking,4.2,1238328,Maps & Navigation
+idv.xunqun.navier,Navier HUD 3,3.8,1228282,Maps & Navigation
+com.sii.asf,Ulys by VINCI Autoroutes,4.6,1218947,Maps & Navigation
+com.hudway.online,HUDWAY Go — GPS Navigation & Maps with HUD,3.6,1217941,Maps & Navigation
+com.elparking.elparking,ElParking - Book your parking spot,4.2,1216450,Maps & Navigation
+jp.ne.sakura.ccice.norikae,乗換案内,4.3,1213493,Maps & Navigation
+com.attractiveapps.gps.maps.navigation.speedometer.traffic.finder,GPS Navigation Route Finder – Map & Speedometer,4.3,1206600,Maps & Navigation
+com.nextbus.mobile,NextBus,4,1202476,Maps & Navigation
+com.discipleskies.aaafindmycar,Find My Car - GPS Navigation,4.2,1201567,Maps & Navigation
+com.directions.mapsdrivingdirections,Maps Route Finder,4.4,1199821,Maps & Navigation
+com.parkwhiz.driverApp,ParkWhiz -- Parking App,4.3,1198617,Maps & Navigation
+br.com.mvtransporteexecutivo.passenger.drivermachine,REAL VIP,3.9,1195986,Maps & Navigation
+uk.co.ordnancesurvey.osmaps,OS Maps: Explore hiking trails & walking routes,3.6,1194696,Maps & Navigation
+com.artds.gps.camera,GPS Camera: Photo With Location,3.6,1183906,Maps & Navigation
+com.stpl.fasttrackbooking1,Fasttrack Cabs,3.8,1183542,Maps & Navigation
+com.greenlionsoft.free.madrid,Madrid Metro | Bus | Cercanias,4.4,1173587,Maps & Navigation
+com.loggi.client,Loggi,2.8,1173065,Maps & Navigation
+est.driver,EST: Driver™,4,1163489,Maps & Navigation
+co.infinum.ptvtruck,Truck Parking Europe,4.4,1163160,Maps & Navigation
+com.xatori.Plugshare,PlugShare,4.6,1159990,Maps & Navigation
+com.kakao.taxi.driver,카카오 T 택시 기사용,4.3,1149702,Maps & Navigation
+com.gocarvn.user,GrapViet - Cars; Bikes &Taxi Booking App,4.7,1147542,Maps & Navigation
+com.alfred.parkinglot,停車大聲公,4.5,1144875,Maps & Navigation
+com.deliveree.user,Deliveree - Delivery Logistics,4.9,1136727,Maps & Navigation
+ru.yandex.mobile.gasstations,Yandex.Fuel,3.4,1129690,Maps & Navigation
+com.ridecharge.android.taximagic,Curb - Request & Pay for Taxis,3.1,1127568,Maps & Navigation
+ru.taxovichkof.android,Taxovichkof,4.7,1127241,Maps & Navigation
+com.bykea.pk.partner,Bykea Partner,4.3,1113952,Maps & Navigation
+kz.itsolutions.businformator,Astana Bus Free,2.9,1111526,Maps & Navigation
+com.navitime.inbound.walk,Japan Travel – Route; Map, Guide, JR, taxi, Wi-fi,4.7,1110317,Maps & Navigation
+com.hketransport,HKeMobility,2.4,1110265,Maps & Navigation
+org.nssa_sube.android,Cuándo SUBO,3,1109682,Maps & Navigation
+com.mireo.aznav,AzNav Offline GPS navigation,4.6,1100217,Maps & Navigation
+com.eni.enjoy,enjoy vehicle sharing,2.3,1096767,Maps & Navigation
+com.fatattitude.buscheckersonda,Transantiago Bus Checker,4.4,1095431,Maps & Navigation
+com.mdv.VVSMobil,VVS Mobil,2.7,1089238,Maps & Navigation
+com.exlyo.mapmarker,Map Marker,4.7,1086751,Maps & Navigation
+com.wooks.subway,Korea; Metro Navi,4,1086536,Maps & Navigation
+com.cabs,13cabs,3.1,1086051,Maps & Navigation
+nexti.android.bustaiwan,BusTracker Taiwan,4.1,1083577,Maps & Navigation
+com.app.daewoo.miles,Daewoo Express Mobile,4.6,1081535,Maps & Navigation
+com.utrack.nationalexpress,National Express Coach,4.2,1077782,Maps & Navigation
+com.alopeyk.customer,AloPeyk,4.3,1075730,Maps & Navigation
+com.skn.zamong2,Most - 올인원 카라이프 플랫폼 (SK네트웍스 모스트),3.1,1075382,Maps & Navigation
+com.lketech.route.finder,Gps Route Finder,4.3,1074063,Maps & Navigation
+gps.brasil.mapas.directions.online,GPS Maps; Location, Directions, Traffic and Routes,4.1,1071058,Maps & Navigation
+com.asis.akillibilet,Asis Akıllı Bilet,2.8,1070452,Maps & Navigation
+com.andreycolupa.NumbFinder,Пробить номер,1.8,1068480,Maps & Navigation
+com.kakao.cp.driver,카카오 T 카풀 크루용 - 운전자; 드라이버, 기사, 파트너, 크루등록, 럭시,3.5,1066785,Maps & Navigation
+com.generalmagic.magicearth,Magic Earth Navigation & Maps,4.3,1064688,Maps & Navigation
+com.gettaxi.dbx.android,Gett Drivers,3.4,1060775,Maps & Navigation
+com.reverllc.rever,REVER - Motorcycle GPS; Route Planner & Discover,4.3,1060394,Maps & Navigation
+com.trailbehind.android.gaiagps.pro,Gaia GPS: Hiking; Offroad Maps,4.6,1057583,Maps & Navigation
+com.dublinbus.wearei3,Dublin Bus,3.6,1057369,Maps & Navigation
+com.HiApps.GBus,경기버스 - 실시간 도착 정보,3.5,1053077,Maps & Navigation
+civildigitalapp.srcei.cl,Civildigital-APP,2,1051906,Maps & Navigation
+cz.fhejl.pubtran,Pubtran,4.6,1047316,Maps & Navigation
+com.micropole.android.tcl_mobile,Lyon Public Transport,3.2,1044677,Maps & Navigation
+de.hafas.android.vbn,FahrPlaner,4.3,1041378,Maps & Navigation
+com.atos.spain.th,SpTH,3.7,1041049,Maps & Navigation
+com.navitime.local.cycle,BICYCLE NAVITIME,4.2,1039889,Maps & Navigation
+com.fulminesoftware.compass,Compass,4.5,1039551,Maps & Navigation
+com.insadco.billigtankenlite,Cheap Refuel,4.3,1037836,Maps & Navigation
+com.eaglefleet.redtaxi,Red Taxi,3.9,1030288,Maps & Navigation
+osacky.ridemeter,Meter for Uber and Lyft,4,1027368,Maps & Navigation
+it.infoblu,MY WAY Autostrade per l’Italia,3.3,1024806,Maps & Navigation
+com.cornermation.calltaxi,HKTaxi - Taxi Hailing App (HK),4.3,1021740,Maps & Navigation
+org.probusdev,Probus Rome: Live Bus & Routes,4.2,1020494,Maps & Navigation
+com.ticker.offroad.bike.stunt.driver,Mountain Biking Downhill - Offroad Bike Stunt 2021,4,1012431,Maps & Navigation
+com.grigerlab.transport.minsk,Minsk Transport - timetables,4.3,1010179,Maps & Navigation
+uk.co.mxdata.parismetro,Paris Metro – official metro map and train times,4.2,1009759,Maps & Navigation
+com.t7.busmap,BusMap - Navigation & Timing for Public Transit,4.5,1009224,Maps & Navigation
+com.binbirbit.ulasim.istanbul,İstanbul Ulaşım,3.3,1007413,Maps & Navigation
+com.liveearthmaps.livelocations.gpsnavigation.livestreetview,Live Earth Map Pro-Satellite View; World Map 3D,4.5,1005870,Maps & Navigation
+hu.webvalto.bkkfutar,BKK FUTÁR,3.7,1004447,Maps & Navigation
+map.ly.gps.navigation.route.planer,GPS Route Finder - GPS Location; Map Navigation,4.5,1003436,Maps & Navigation
+org.sleepnova.android.taxi,FindTaxi - Taxi Finder,4.8,1002448,Maps & Navigation
+com.bestparking,Best Parking - Find Parking,4.5,991042,Maps & Navigation
+com.zahidcataltas.mgrsharita,Mgrs & Utm Map,4.7,989850,Maps & Navigation
+ru.bm.transport,Мой умный город,3,988813,Maps & Navigation
+com.andromo.dev764019.app948602,Rastrear Celular pelo Numero,4.5,987497,Maps & Navigation
+com.vaesttrafik.vaesttrafik,Västtrafik To Go,4.4,981289,Maps & Navigation
+com.vietjetair.vjmobileapp,VietJet Air,2.4,980061,Maps & Navigation
+br.com.ladydriver.passenger,Lady Driver Passageira,3.3,973983,Maps & Navigation
+kentkart.mobile.antalyakart,Antalyakart Mobil,2.8,969023,Maps & Navigation
+br.com.autopass.voud,VouD,2.9,965338,Maps & Navigation
+taxo.metr,Taximeter for all,4.3,963730,Maps & Navigation
+com.pgz.police.plane.car.transporter.games,Police Car Transporter Plane: Car Driving Games,4.5,962568,Maps & Navigation
+com.joulespersecond.seattlebusbot,OneBusAway,4.2,960751,Maps & Navigation
+com.ventrachicago.riderapp,Ventra,3.6,958787,Maps & Navigation
+br.com.m2m.meuonibus,Meu Ônibus Fortaleza,2.9,956251,Maps & Navigation
+com.conjoinix.xssecure.trackmybus,Track My Bus,2.5,956104,Maps & Navigation
+com.a0soft.gphone.aCompassPlus,3D Compass Plus,4.5,951291,Maps & Navigation
+com.fakegps.joystick,FAKE GPS JOYSTICK,2.6,949128,Maps & Navigation
+com.voice.navigation.gps.maps.driving.directions.route,GPS Navigation - Maps; Driving Directions, Traffic,4.3,947360,Maps & Navigation
+com.skystar.tcbus,Taichung Bus (Real-time),4.3,946803,Maps & Navigation
+com.trenesargentinos.autorizaciones,Reserva tu tren,3.1,946518,Maps & Navigation
+com.hwacom.android.roadcam,高速公路/省道都市 ITSGood RoadCam 即時影像,4.2,945842,Maps & Navigation
+com.navitime.local.alkoo.simple,ウォーキングナビタイム-simple-,3.5,945158,Maps & Navigation
+com.markupartist.sthlmtraveling,STHLM Traveling - SL Planner,3.7,943806,Maps & Navigation
+mycompany.moscowmetro,Moscow metro map,4.1,936490,Maps & Navigation
+jp.co.mapion.android.app.maps,地図マピオン - 距離計測、海抜表示、境界線、カーナビに欠かせないマップコード表示が便利な地図アプリ,3.6,932073,Maps & Navigation
+com.gps.maps.gpsareameasurement.directions.route.finder.navigation.compass.number.location.tracker,GPS Area Measurement Calculator,4.3,925186,Maps & Navigation
+com.gks.flying.police.robot.bike.futuristic.city.wars,4x4 Prado Offroad Jeep Driving: Parking Games,3.7,925172,Maps & Navigation

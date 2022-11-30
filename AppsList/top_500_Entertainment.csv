@@ -1,0 +1,501 @@
+appID, appName,rating,max_installs,category
+com.google.android.play.games,Google Play Games,4.3,4605543029,Entertainment
+com.netflix.mediaclient,Netflix,4.4,1437250170,Entertainment
+com.miui.videoplayer,Mi Video - Watch & download videos for free,4,804115328,Entertainment
+in.startv.hotstar,Hotstar,3.9,523641463,Entertainment
+com.huawei.himovie.overseas,HUAWEI Video,3.9,450787692,Entertainment
+com.outfit7.talkingtom2free,Talking Tom Cat 2,4.4,390576230,Entertainment
+com.amazon.avod.thirdpartyclient,Amazon Prime Video,4.3,353354827,Entertainment
+com.jio.jioplay.tv,JioTV – News; Movies, Entertainment, LIVE TV,4.2,328894390,Entertainment
+com.google.android.apps.youtube.kids,YouTube Kids,4.3,266742066,Entertainment
+com.outfit7.talkinggingerfree,Talking Ginger,3.8,247683986,Entertainment
+com.bitstrips.imoji,Bitmoji,4.5,237943203,Entertainment
+com.outfit7.talkingben,Talking Ben the Dog,4.1,207022864,Entertainment
+com.telcel.contenedor,Telcel,3.5,186324348,Entertainment
+com.outfit7.talkingangelafree,Talking Angela,3.1,171038486,Entertainment
+com.graymatrix.did,ZEE5: Movies; TV Shows, Web Series, News,3.4,168510933,Entertainment
+com.digidust.elokence.akinator.freemium,Akinator,4.5,166972348,Entertainment
+com.imdb.mobile,IMDb: Your guide to movies; TV shows, celebrities,4.5,160679092,Entertainment
+tv.twitch.android.app,Twitch: Livestream Multiplayer Games & Esports,4.6,160476401,Entertainment
+com.tubemote.app,TubeMote,3.5,157964434,Entertainment
+com.sonyliv,SonyLIV: Originals; Hollywood, LIVE Sport, TV Show,4,154581594,Entertainment
+com.outfit7.gingersbirthdayfree,Talking Ginger 2,3.9,149694714,Entertainment
+com.outfit7.talkingnewsfree,Talking Tom & Ben News,4.4,147759420,Entertainment
+com.tv.v18.viola,Voot Select Originals; Bigg Boss, MTV, Colors TV,3.7,141528283,Entertainment
+tv.accedo.airtel.wynk,Airtel Xstream App: Movies; TV Shows,3.9,131041841,Entertainment
+com.funnypuri.client,Zili - Short Video App for India | Funny,4,128429886,Entertainment
+com.outfit7.talkingpierrefree,Talking Pierre the Parrot,4.3,125672710,Entertainment
+com.baviux.voicechanger,Voice changer with effects,4.4,124824424,Entertainment
+com.ismaker.android.simsimi,SimSimi,4.3,121412798,Entertainment
+com.disney.disneyplus,Disney+,4.3,117221310,Entertainment
+com.scee.psxandroid,PlayStation App,3.8,101688500,Entertainment
+com.google.android.youtube.tv,YouTube for Android TV,2.1,100969257,Entertainment
+com.outfit7.tomslovelettersfree,Tom's Love Letters,3.8,100456954,Entertainment
+com.vuclip.viu,Viu - Korean Dramas; Variety Shows, Originals,4.1,97986567,Entertainment
+com.tubitv,Tubi - Free Movies & TV Shows,4.7,97624033,Entertainment
+video.reface.app,Reface: Face swap videos and memes with your photo,4.6,93084226,Entertainment
+com.jio.media.ondemand,JioCinema: Movies TV Originals,3.9,89912858,Entertainment
+net.mbc.shahid,ﺷﺎﻫﺪ - Shahid,4,84780919,Entertainment
+me.zepeto.main,ZEPETO,4,83310629,Entertainment
+com.kwai.global.video.social.kwaigo,UVideo - Make Your Life Story into Video Status,4.2,83287866,Entertainment
+com.crack.screen.prank.bfun,Broken Screen Prank,4.5,82798314,Entertainment
+iflix.play,iflix - Movies & TV Series,4.1,82606389,Entertainment
+com.metropcs.metrozone,MetroZone,4.3,81152942,Entertainment
+hu.tonuzaba.android,Photo Warp,3.7,78178615,Entertainment
+com.netflix.ninja,Netflix ,2.4,76478223,Entertainment
+com.no.color,No.Pix - Color by Number; Pixel Art Coloring Book,4.7,72573219,Entertainment
+com.valvesoftware.android.steam.community,Steam,3.9,71982555,Entertainment
+com.microsoft.xboxone.smartglass,Xbox,4.5,71726616,Entertainment
+com.hulu.plus,Hulu: Watch TV shows; movies & new original series,4,70548303,Entertainment
+com.dla.android,Claro video,2.7,68019212,Entertainment
+com.naver.vapp,V LIVE,4.4,67125110,Entertainment
+com.dailymotion.dailymotion,Dailymotion - the home for videos that matter,4.3,64543253,Entertainment
+tv.pluto.android,Pluto TV - Free Live TV and Movies,4.1,64336306,Entertainment
+com.fakecallgame,Fake call - prank,4.4,64078782,Entertainment
+com.scoompa.facechanger,Face Changer,4.2,62849582,Entertainment
+com.amazon.amazonvideo.livingroom,Prime Video - Android TV,1.6,61173868,Entertainment
+com.mambet.tv,BOOYAH!,4.4,60468546,Entertainment
+com.adsk.sketchbook,SketchBook - draw and paint,4.2,60090094,Entertainment
+com.forshared.files,4shared,4.6,59421552,Entertainment
+com.huya.nimo,Nimo TV - Live Game Streaming,4.3,59375810,Entertainment
+com.nono.android,Nonolive - Live Streaming & Video Chat,4.4,58876328,Entertainment
+com.bt.bms,BookMyShow - Movie Tickets & Live Events,4.2,58872080,Entertainment
+com.globo.globotv,Globoplay,2.8,58277197,Entertainment
+com.detector.lie.game.prank,Lie Detector Test Prank,4.4,58150380,Entertainment
+com.drink.water.fun,Drink Your Phone - iDrink Drinking Games (joke),4.5,55924925,Entertainment
+com.tencent.qqlivei18n,WeTV - Cdrama; Kdrama & More,4.2,52936604,Entertainment
+com.fungamesforfree.colorfy,Colorfy: Free Coloring Games - Paint Color Book,4,52133611,Entertainment
+com.creative.sandbox.number.drawning.coloring,Color by Number - No.Draw,4.2,49712543,Entertainment
+com.directv.dvrscheduler,DIRECTV,3.3,48775047,Entertainment
+com.ryzmedia.tatasky,Tata Sky Mobile- Live TV; Movies, Sports, Recharge,4.2,48304267,Entertainment
+com.mobilplug.lovetest,love test,4.1,47044962,Entertainment
+com.crunchyroll.crunchyroid,Crunchyroll,3.5,46645374,Entertainment
+com.weieyu.yalla,Yalla - Free Voice Chat Rooms,4.2,45783135,Entertainment
+com.picsart.draw,PicsArt Color - Painting; Drawing & Sketch,3.9,44623669,Entertainment
+ru.ivi.client,IVI - ТВ-каналы; фильмы, новинки кино в HD,3.9,43947935,Entertainment
+com.androidrocker.voicechanger,Voice Changer,4.3,43825906,Entertainment
+com.lyxoto.master.forminecraftpe,Block Master for Minecraft PE,4.5,43772697,Entertainment
+sandbox.art.sandbox,Sandbox Pixel Coloring,4.5,43357036,Entertainment
+com.gotv.crackle.handset,Crackle,3.9,42128600,Entertainment
+com.balaji.alt,ALTBalaji - Watch Web Series; Originals & Movies,3.2,42061293,Entertainment
+com.viki.android,Viki: Stream Asian Drama; Movies and TV Shows,4.2,41903321,Entertainment
+com.vidio.android,Vidio - Watch Video; TV & Live Streaming,4.1,41744102,Entertainment
+com.davexp.dollify,Dollify,4.4,41473200,Entertainment
+madlipz.eigenuity.com,MadLipz - You're funnier than you think!,4.3,41368485,Entertainment
+ru.brothersappsandgames.smashdiyslimefidgetslimy,Smash Diy Slime - Fidget Slimy,4.1,41013622,Entertainment
+com.womboai.wombo,Wombo: Make your selfies sing,4.1,40298059,Entertainment
+com.appcraft.unicorn,UNICORN – Color by Number & Pixel Art Games,4.5,38883938,Entertainment
+com.zombodroid.MemeGenerator,Meme Generator Free,4.6,37901832,Entertainment
+com.appspot.swisscodemonkeys.bald,Make Me Bald Prank,2.8,37859129,Entertainment
+face.cartoon.picture.editor.emoji,Avatoon: Avatar Creator; Emoji Maker, Cartoon Face,4.7,37689182,Entertainment
+com.wwe.universe,WWE,4.5,37652997,Entertainment
+com.roku.remote,Roku - Official Remote Control,4.5,36091657,Entertainment
+com.metro.minus1,MetroPlay,4.2,35810190,Entertainment
+com.piviandco.agingbooth,AgingBooth,3,35788496,Entertainment
+net.flixster.android,Movies by Flixster; with Rotten Tomatoes,4.4,35571864,Entertainment
+com.motorola.dtv,Digital TV,3.7,34870007,Entertainment
+com.vodafone.vodafoneplay,Vi Movies and TV: Web Series; News, Movies, Shows,3.7,34000885,Entertainment
+com.apalon.mandala.coloring.book,Coloring Book for Me & Mandala,4.3,33995555,Entertainment
+com.lge.app1,LG TV Plus (will be discontinued),3.8,33825851,Entertainment
+com.scannerradio,Scanner Radio - Fire and Police Scanner,4.5,33715136,Entertainment
+mobi.ifunny,iFunny – fresh memes; gifs and videos,3.9,33690684,Entertainment
+com.iqiyi.i18n,iQIYI Video – Dramas & Movies,4.5,33648135,Entertainment
+br.com.telecineplay.android,Telecine: Seus filmes favoritos em streaming,4.3,33051596,Entertainment
+com.uplus.onphone,U+모바일tv-실시간TV;TV다시보기,최신영화,3.9,31994696,Entertainment
+com.electricfoal.buildingsformcpe,Buildings for Minecraft,4.5,31717558,Entertainment
+com.hbo.hbonow,HBO Max: Stream and Watch TV; Movies, and More,3.2,30847640,Entertainment
+kr.co.nowcom.mobile.afreeca,AfreecaTV,3.4,30685393,Entertainment
+com.starmakerinteractive.thevoice,StarMaker Lite: Singing & Music & Karaoke app,4.6,30526777,Entertainment
+com.rockstargames.gtavmanual,Grand Theft Auto V: The Manual,4,30049286,Entertainment
+com.oneplus.gamespace,OnePlus Games,3.7,29739705,Entertainment
+sg.cocofun,CocoFun - Video Lucu; WA Status, Meme & Live,4.4,29710592,Entertainment
+com.scoompa.facechanger2,Face Changer 2,4.2,29460587,Entertainment
+com.linecorp.linetv,LINE TV,4.3,29403435,Entertainment
+com.movile.playkids,PlayKids - Cartoons; Books and Educational Games,3.9,29318889,Entertainment
+com.vimeo.android.videoapp,Vimeo,4.1,28186395,Entertainment
+com.suntv.sunnxt,Sun NXT,4.3,27986194,Entertainment
+com.didilabs.kaavefali,Kaave - Coffee Cup Readings,4.7,27958478,Entertainment
+com.gta.grandtheftauto.cheats.five,Grand Gangster Cheats,3.6,27552996,Entertainment
+com.spb.tv.am,SPB TV World – TV; Movies and series online,3.8,27055710,Entertainment
+com.fatcat.weddingmakesalon,Wedding Makeup Salon,4,26137623,Entertainment
+es.treebit.decisionroulette,Decision Roulette,4.5,26097782,Entertainment
+com.ninexgen.karaokefull,Kakoke - sing karaoke; voice recorder, singing app,4.1,25943372,Entertainment
+com.piviandco.fatbooth,FatBooth - The Big Prank App,3.7,25725600,Entertainment
+bbc.iplayer.android,BBC iPlayer,3.9,25649503,Entertainment
+com.showtimeapp,Loco: Free Livestream Multiplayer Games & Esports,4.1,25604166,Entertainment
+air.com.vudu.air.DownloaderTablet,Vudu - Rent; Buy or Watch Movies with No Fee!,4.5,25506647,Entertainment
+info.earntalktime,Earn Talktime - Get Recharges; Vouchers, & more!,2.9,25335000,Entertainment
+air.com.officemax.magicmirror.ElfYourSelf,ElfYourself®,4.4,25272185,Entertainment
+tv.kidoodle.android,Kidoodle.TV - Safe Streaming™,3.8,25124597,Entertainment
+com.wallpaper.background.hd,NoxLucky - HD Live Wallpaper; Caller Show, 4D, 4K,4.5,25095594,Entertainment
+com.ciberdroix.ghostsandspirits,Ghost Prank,4.2,24775357,Entertainment
+videos.share.rozdhan,Roz Dhan: Earn Wallet cash; Read News & Play Games,3.9,24657349,Entertainment
+com.viu.phone,Viu: Korean Drama; Variety & Other Asian Content,3.8,23842122,Entertainment
+com.batanga.vix,VIX - CINE. TV. GRATIS.,4.4,23633403,Entertainment
+com.kauf.soundboard.baum.FartSoundBoard,Fart Sound Board: Funny Fart Sounds Prank App,3.9,23632061,Entertainment
+com.revanen.athkar,Auto- Athkar for muslims,4.8,23609082,Entertainment
+com.ninegag.android.app,9GAG: Funny gifs; pics, fresh memes & viral videos,4.6,22738688,Entertainment
+com.fun.share,YoYo - Voice Chat Room; Among Us, Clubhouse, Game,4.3,22465173,Entertainment
+com.dstvmobile.android,DStv,4.1,21724443,Entertainment
+com.fandango,Fandango Movie Tickets & Times,4.7,21523370,Entertainment
+ir.resaneh1.iptv,روبیکا,4.3,21402572,Entertainment
+com.babymariagames.puppypetdaycare,Puppy Pet Daycare - Pet Puppy salon For Caring,3.9,21284640,Entertainment
+cdi.videostreaming.app,Ullu,3.8,21008964,Entertainment
+com.picadelic.fxguru,FxGuru:  Movie FX Director,4.3,20843733,Entertainment
+com.kayenworks.mcpeaddons,Addons for Minecraft,4.5,20613007,Entertainment
+com.cool.birthday.callscreen,Cool Call Screen-Birthday Theme,3.8,20526037,Entertainment
+br.com.escolhatecnologia.vozdonarrador,Narrator's Voice,4.5,20506852,Entertainment
+com.redbox.android.activity,REDBOX: Rent; Stream, Buy New Movies, Free Live TV,4.6,20475551,Entertainment
+com.moviecity.app,FOX,3.4,20219672,Entertainment
+com.cgv.android.movieapp,CGV,3.9,20030012,Entertainment
+smart.tv.wifi.remote.control.samcontrol,Remote for Samsung TV | Smart & WiFi Direct,4.3,19983828,Entertainment
+gta.grandtheftauto.sanandreas.crime,GTSA Grand Cheats,3.5,19941242,Entertainment
+es.mrcl.app.juasapp,JuasApp - Prank Calls,4.2,19915088,Entertainment
+com.cuneytayyildiz.sackesmemakinesi,Hair Clipper Prank,3.8,19846293,Entertainment
+com.google.android.tv,Live Channels,2.4,19826302,Entertainment
+com.nmi.mtv.app.condor,Mobile TV,3.4,19813294,Entertainment
+com.lyxoto.mcbuilder.lite,Builder for Minecraft PE Free,4.4,19793440,Entertainment
+com.telly,Mahatat - Watch your favorite content,3.9,19755511,Entertainment
+com.motionportrait.ZombieBooth,ZombieBooth,4,19745472,Entertainment
+com.tru,YuppTV - LiveTV; Movies, Music, IPL Live, Cricket,3.6,19592216,Entertainment
+modernhouses.minecrafthome.mansionminecraft,Modern Houses for Minecraft  ★,4,19522789,Entertainment
+com.incorporateapps.fakegps.fre,Fake GPS GO Location Spoofer Free,3.7,19522184,Entertainment
+guns.for.minecraft,Guns for Minecraft,2.9,19511303,Entertainment
+ru.more.play,Okko HD - movies and series online,4.5,19384631,Entertainment
+com.wemesh.android,Rave – Watch Party,4.4,19121657,Entertainment
+com.avarmmg.net.loudestairhorn,Loudest Air Horn (Prank),4,19073030,Entertainment
+com.droid.developer.wifipassword,Wifi Password Hacker Prank,4.6,18831324,Entertainment
+com.plexapp.android,Plex: Stream Free Movies & Watch Live TV Shows Now,4.1,18769446,Entertainment
+com.gta.grandtheftauto.five.cheat,Global cheater guide: police; theft, cars,2.9,18626844,Entertainment
+aup.baixar.musicas.gratis,AUP Download free browser,4.1,18600153,Entertainment
+com.scoompa.voicechanger,Best Voice Changer,3.7,18558945,Entertainment
+com.cbs.app,Paramount+ | Watch Live Sports; News & Originals,3.6,18530810,Entertainment
+br.com.sbt.app,SBT Vídeos,3.3,18469904,Entertainment
+com.movile.android.appsvivo,Vivo +Apps,3.4,18299158,Entertainment
+com.megogo.application,MEGOGO - TV; movies, cartoons and audiobooks,4.4,18229104,Entertainment
+ru.kinopoisk,КиноПоиск: фильмы в HD и сериалы онлайн,4.5,18216128,Entertainment
+com.garena.gaslite,Garena,3.2,18056698,Entertainment
+jp.co.yahoo.gyao.android.app,GYAO! - 無料動画アプリ,4,18031087,Entertainment
+mx.naat.televisa.video,las estrellas,3.7,18005000,Entertainment
+com.rodri.maquinilla,Razor Prank (Hair Trimmer Joke),3.6,17955185,Entertainment
+com.kauf.talking.baum.TalkingJohnDogandSoundboard,Talking John Dog: Funny Dog,4.4,17761539,Entertainment
+com.fatcat.SuperModelGrowthDiary,Super Model Growth Diary,4.1,17696039,Entertainment
+com.showmax.app,Showmax,4.2,17557595,Entertainment
+com.tdcm.trueidapp,TrueID: HD Movie; Anime, Live TV,4.7,17540180,Entertainment
+mk.g6.crackyourscreen,Crack Your Screen Prank,4.1,17431677,Entertainment
+com.bydeluxe.d3.android.program.starz,STARZ,4.5,17420137,Entertainment
+com.maxstream,MAXstream- Live Sports; TV & Movies,3.3,17239615,Entertainment
+com.movefastcompany.bora,Hakuna: Live Stream; Meet and Chat, Make Friends,3.8,17231564,Entertainment
+com.mobvantage.CashForApps,Cash for Apps - Free Gift Cards,4.5,17034693,Entertainment
+com.facebook.games,Facebook Gaming: Watch; Play, and Connect,3.9,17011101,Entertainment
+com.eventbrite.attendee,Eventbrite - Discover popular events & nearby fun,4.5,16779752,Entertainment
+com.star.mobile.video,StarTimes ON - Live Football; TV, Movie & Drama,4.4,16745100,Entertainment
+com.tiawy.fakechat,Fake Chat Conversations - WhatsMessage,4.1,16604278,Entertainment
+com.att.tv,AT&T TV,3.9,16597919,Entertainment
+pl.ayground.coloringbook,Coloring Book (by playground),4.2,16581429,Entertainment
+com.ugroupmedia.pnp14,PNP–Portable North Pole™ Calls & Videos from Santa,4.6,16561395,Entertainment
+com.magicfluids.demo,Magic Fluids Free: simulation & live wallpaper,4.5,16538786,Entertainment
+com.applylabs.whatsmock.free,Fake Chat Maker - WhatsMock Prank chat,4.5,16412886,Entertainment
+air.Cinepolis,Cinépolis,3.2,16327388,Entertainment
+com.orange.owtv,TV d'Orange • TV; films & séries en live et replay,3.7,16208997,Entertainment
+com.erosnow,Eros Now - Movies; Originals, Music & TV Shows,2.8,16122539,Entertainment
+com.mstfbs.yesiluzayli,The green alien dance,3.6,16051314,Entertainment
+com.hbo.broadband,HBO GO ® Películas y series originales.,2.4,16020822,Entertainment
+com.furniture.modsmaps.maxminedev,Mod furniture. Furniture mods for Minecraft PE,4.2,15989708,Entertainment
+naveen.Transparent,Transparent Screen Launcher,3.6,15989075,Entertainment
+com.turkcell.ott,TV+,3.7,15898442,Entertainment
+com.nickonline.android.nickapp,Nick,3.4,15523099,Entertainment
+com.fidget.spinner.fun,Fidget Spinner - iSpinner,4.6,15471897,Entertainment
+com.gta.grandtheftauto.sanandreas.codes,All San Cheats Andreas,3.8,15458698,Entertainment
+com.craftblockstudio.modsforminecraftpe,Mods for Minecraft PE,4.6,15408920,Entertainment
+com.chic.colorlightsflashing,Color Lights Flashlight,4.2,15255858,Entertainment
+com.free.caller.screen.call.flash,Call Screen Themes - Caller Screen; Color Phone,4.6,15208272,Entertainment
+com.remotemyapp.vortex,Vortex Cloud Gaming,undefined,15152052,Entertainment
+fun.house.maps,fun house maps for minecraft,3.2,15009041,Entertainment
+com.mistplay.mistplay,MISTPLAY: Rewards For Playing Games,4.2,14873961,Entertainment
+com.yomobigroup.chat,Vskit - More funny videos,4.5,14863692,Entertainment
+com.massagetherapy.bestmassagevideos,Massage Videos,3.7,14842791,Entertainment
+vn.vtv.vtvgo,VTV Go - TV Mọi nơi; Mọi lúc,3.8,14793311,Entertainment
+com.canal.android.canal,myCANAL; vos programmes en live ou en replay,4.1,14707880,Entertainment
+com.depth.visual.wallpaper4d,4D Wallpaper 2020,4.2,14676585,Entertainment
+com.beansprites.rainbowicecreampopsiclesFREE,Rainbow Ice Cream & Popsicles,4.2,14654429,Entertainment
+com.playstation.remoteplay,PS Remote Play,3.4,14621600,Entertainment
+com.accordion.perfectme,Perfect Me - Body Retouch&Face Editor&Selfie Tune,4.5,14390003,Entertainment
+com.bluesky.best_ringtone.free2017,Free Ringtones 2021,4.6,14368874,Entertainment
+com.moonstudio.mapcoc,Maps of Clash of Clans 2021,4.1,14192995,Entertainment
+com.google.android.youtube.tvkids,YouTube Kids for Android TV,2.3,14132072,Entertainment
+com.cw.fullepisodes.android,The CW,4.4,14117679,Entertainment
+com.polysoftstudios.www.fingerprintlovetestscanner,Fingerprint Love Test Scanner Prank,3.7,14014176,Entertainment
+com.cashitapp.app.jokesphone,JokesPhone - Joke Calls,4.2,13880875,Entertainment
+com.jb.gokeyboard.theme.funredroses,Red Rose Keyboard 2021,4.2,13851859,Entertainment
+com.hkagnmert.deryaabla,Derya Abla - Kahve Falı,4.5,13844586,Entertainment
+com.pjmasks.web,PJ Masks™: HQ,4.1,13722095,Entertainment
+com.app.emotes.dances.fortnite,Dances from Fortnite (Emotes; Shop, Wallpapers),4.4,13717928,Entertainment
+lyricalvideostatusmaker.videostatusmaker.videostatus.lyrically.lyrical.ly.lyricalphotostatus.lyrical,Lyrical Photo Status,4.3,13697994,Entertainment
+com.cerdillac.storymaker,StoryLab - insta story art maker for Instagram,4.5,13676534,Entertainment
+com.xfinity.cloudtvr,Xfinity Stream,4.2,13637610,Entertainment
+com.goldenheavan.classicalrealpiano,Piano Keyboard,4.1,13568852,Entertainment
+com.handroid.cameragunfight,Camera GunFight,4.1,13564174,Entertainment
+com.hello.CakeCookingShop,Cake Cooking Shop,4.2,13536576,Entertainment
+com.Funimation.FunimationNow,Funimation,3.5,13441297,Entertainment
+com.quickplay.android.bellmediaplayer,Bell Fibe TV,4.1,13433129,Entertainment
+fr.m6.m6replay,6play; TV en direct et replay,4.2,13425646,Entertainment
+com.gamelead.street.archer.run,Street Archer Run,4,13311868,Entertainment
+com.kauf.mybabybabsyplaygroundfun,My Baby Babsy - Playground Fun,4.3,13250935,Entertainment
+com.sticker.sticker,Face Swap - P123 Photo Editor,4.2,13242277,Entertainment
+com.glowmusic.freetubeplayer,Glow Music - free music player,4.3,13161609,Entertainment
+play.tube.video.playtube.videotube.musictube,Play Tube & Video Tube,4.6,13084570,Entertainment
+com.crema.instant,Instant Buttons: The Best Soundboard App,1.4,13080971,Entertainment
+me.filmeshd.mega,MegaHDFilmes - Séries ; Filmes e Animes,4.3,13028218,Entertainment
+com.blim,blim tv | en vivo; series, novelas, futbol y más.,4.1,13019000,Entertainment
+com.decoration.furniture.newforminecraft,Furniture for Minecraft,3.8,13011846,Entertainment
+com.electricfrenchfries.htct.free,Human-to-Cat - Play with your cat!,3.3,12999182,Entertainment
+com.pilotocraft.monster.school.mcpe,Monster School for Minecraft PE,3.9,12988999,Entertainment
+com.appspot.swisscodemonkeys.warp,Funny Face Effects,3.7,12876038,Entertainment
+kr.co.mokey.mokeywallpaper_v3,HD Free Wallpaper(Backgrounds),3.9,12860484,Entertainment
+com.TWCableTV,Spectrum TV,4.2,12845344,Entertainment
+com.ais.mimo.AISPlay,AIS PLAY,4.2,12842121,Entertainment
+com.enhanced.skineditorstudio,Custom Skin Creator For Minecraft,4.5,12712117,Entertainment
+ru.cn.tv,ОНЛАЙН ТВ: телевизор бесплатно и программа передач,3.9,12702977,Entertainment
+com.fox.now,FOX NOW: Watch Live & On Demand TV & Stream Sports,3.5,12693149,Entertainment
+com.nbcuni.nbc,The NBC App - Stream Live TV and Episodes for Free,4,12678414,Entertainment
+net.cj.cjhv.gs.tving,티빙(TVING) - 실시간; TV프로그램, 영화,3.6,12657432,Entertainment
+com.fun.face.swap.juggler,Face Swap,3.2,12634514,Entertainment
+com.jmsys.earth3d,Earth 3D,3.5,12597678,Entertainment
+com.nintendo.znca,Nintendo Switch Online,3.6,12587456,Entertainment
+it.rainet,RaiPlay,3.7,12577832,Entertainment
+com.fplay.activity,FPT Play - K+; HBO, Serie A, TV...,4.4,12557097,Entertainment
+com.ryzenrise.storyhighlightmaker,Highlight Cover & Logo Maker for Instagram Story,4.1,12524713,Entertainment
+com.playstation.mobile2ndscreen,PS4 Second Screen,3.4,12458465,Entertainment
+com.bng.magiccall,MagicCall – Voice Changer App,3.9,12439073,Entertainment
+de.twokit.video.tv.cast.browser.samsung,TV Cast | Samsung TV - HD Movie Streaming,3.2,12438280,Entertainment
+net.telewebion,Telewebion,4.2,12377365,Entertainment
+com.blizzard.bma,Battle.net Authenticator,3.3,12288731,Entertainment
+mcpe.mods.modsforminecraft.lari,Mods Installer for Minecraft PE,3.9,12094945,Entertainment
+com.disney.datg.videoplatforms.android.abc,ABC – Live TV & Full Episodes,4,12087192,Entertainment
+com.pokkt.app.pocketmoney,Pocket Money:  Free Mobile Recharge & Wallet Cash,4.2,12005305,Entertainment
+com.ryzenrise.vaporcam,90s - Glitch VHS & Vaporwave Video Effects Editor,4.2,11954076,Entertainment
+com.beeiplay.princess_beauty_fashion_salon,Princess Makeup Salon - Girl Games,4.1,11945402,Entertainment
+com.science.yarnapp,Yarn - Chat Fiction,2.1,11842721,Entertainment
+de.tvspielfilm,TV SPIELFILM - TV-Programm,4.3,11841954,Entertainment
+br.com.net.netapp,Minha Claro Residencial (NET),3.4,11812268,Entertainment
+talking.toy.funny.couple,Talking Parrot Couple Free,4.4,11808492,Entertainment
+com.channel4.ondemand,All 4 – Watch Catch Up Episodes & Live UK TV Shows,4.3,11768987,Entertainment
+fr.tf1.mytf1,MYTF1 • TV en Direct et Replay,4.2,11657916,Entertainment
+air.com.bmapps.gossipgirlsdivasinhighschool,Gossip Girls Divas in Highschool,3.7,11627661,Entertainment
+tv.pps.mobile,愛奇藝隨刻 - 電視劇電影綜藝動漫影音線上看,3.6,11615410,Entertainment
+com.tyffon.ZombieBooth2,ZombieBooth 2,4.1,11600482,Entertainment
+com.funnykids.shows,Funny Tube Clips 2021,3.9,11585840,Entertainment
+com.disney.datg.videoplatforms.android.watchdc,DisneyNOW – Episodes & Live TV,4.3,11575818,Entertainment
+com.kitty.android,Kitty Live- Live Streaming Chat & Live Video Chat,4.4,11548696,Entertainment
+com.pokemontv,Pokémon TV,4.4,11494090,Entertainment
+com.discolight,Disco Light™ LED Flashlight,4.5,11485130,Entertainment
+com.sm.SlingGuide.Dish,DISH Anywhere,3.3,11425319,Entertainment
+com.style.sticker,HD Stickers packs for WhatsApp - WAStickersApps,4.6,11408405,Entertainment
+com.tozelabs.tvshowtime,TV Time - Track Shows & Movies,4.5,11374741,Entertainment
+com.digivive.offdeck,nexGTv Live TV News Cricket,3.9,11355612,Entertainment
+com.audio.voicechanger.music.editor,voice changer,4.2,11317349,Entertainment
+com.gta.grandtheftauto.five,G.T.E. Gangster Cheats and Stories,3.5,11302603,Entertainment
+yowhatss.yowatverla.yowaplus,YO Whats plus New Version 2020,4,11292118,Entertainment
+com.devsoft.android.ClapClapToFindPhone,Clap phone finder,3.8,11273317,Entertainment
+com.gostudio.singkaraoke.karaokevietnam,Sing Karaoke Online & Karaoke Record,3.9,11176695,Entertainment
+com.coccoc.trinhduyet,Cốc Cốc Browser - Fast; Secure & Convenient,4.4,11166222,Entertainment
+com.WallpaperApp.CarWallpapersHD,Car Wallpapers HD,4.2,11151348,Entertainment
+com.devtab.thaitvplusonline,Thailand TV - ดูทีวีออนไลน์,4.3,11121932,Entertainment
+com.nousguide.android.rbtv,Red Bull TV: Movies; TV Series, Live Events,4.3,11112608,Entertainment
+com.shinemusicplayer.androidgpmusic,Shine Music,4.3,11103906,Entertainment
+com.wavemining.emoji.elite,Elite Emoji,4.6,11084405,Entertainment
+com.ternopil.fingerpaintfree,Paint Free,4.1,11051994,Entertainment
+com.tva.z5,Weyyak وياك,4,11013124,Entertainment
+com.simplesoft.launchpad,DJ Electro Mix Pad,3.8,10998221,Entertainment
+com.piupiuapps.coloringglitterkawaii,Kawaii Coloring Book Glitter,4.4,10937188,Entertainment
+com.playfake.instafake.funsta,Funsta - Insta Fake Chat Post and Direct Prank,4.1,10872941,Entertainment
+com.appspot.swisscodemonkeys.old,Make me Old,3.4,10872511,Entertainment
+com.gnawbone.gunshotsounds,Gun Shot - Sounds,4.1,10849097,Entertainment
+com.ryzenrise.thumbnailmaker,Thumbnail Maker & Channel Art Maker,4.6,10846483,Entertainment
+com.discovery.kids.es,Discovery Kids Plus - dibujos animados para niños,4.1,10845624,Entertainment
+ru.otkritkiok.pozdravleniya,Good morning; wishes and Happy Birthday GIF Images,4.7,10762376,Entertainment
+com.km.life.babyboy,Talking Baby Boy,3.7,10760430,Entertainment
+com.prankdesk.ghostinphotoprank,Ghost in Photo Prank - Ghost Stickers,4,10749587,Entertainment
+wizzo.mbc.net,WIZZO Play Games & Win Prizes!,4.1,10740704,Entertainment
+com.number.draw.dot.to.dot.coloring,Dot to Dot to Coloring,4.1,10719422,Entertainment
+pawelz.Apps.Guns.Shoot.Sounds,Guns - Shot Sounds,3.9,10696948,Entertainment
+com.skmnc.gifticon,기프티콘,3.2,10664902,Entertainment
+com.WatchMoviesOnline,watch movies online free,3.8,10652287,Entertainment
+qtstudio.minecraft.modsforminecraftpe.world,World of Minecraft,4.2,10631170,Entertainment
+com.powernapps.acallfromsanta,A Call From Santa Claus! + Chat (Simulation),4.1,10624227,Entertainment
+com.Ch7.Android,Ch7HD,4.5,10619516,Entertainment
+com.freeinstructions.firediamtools,Guide For Free╦̵̵̿╤──Fire Unofficial Tips,4.2,10618877,Entertainment
+com.appgate.gorealra,SBS 고릴라,4.2,10581695,Entertainment
+com.starz.starzplay.android,STARZPLAY,3.7,10558425,Entertainment
+com.zing.tv3,Zing TV – Xem phim mới HD,3.5,10552340,Entertainment
+com.azteca.live,Azteca Live,3.9,10540936,Entertainment
+com.imbc.mini,MBC mini,3.1,10511229,Entertainment
+com.infolink.limeiptv,Лайм HD TV — бесплатное онлайн ТВ,4.2,10495623,Entertainment
+games.paveldogreat.fluidsimfree,Fluid Simulation Free,4.8,10465841,Entertainment
+com.haryanavi.dance.latest,Haryanavi Dance,3.8,10440133,Entertainment
+com.instagram.igtv,IGTV from Instagram - Watch IG Videos & Clips,4.2,10419632,Entertainment
+com.cricketwireless.thescoop,theSCOOP,3.9,10419631,Entertainment
+com.sling,SLING: Live TV; Shows & Movies,4.1,10377020,Entertainment
+com.kauf.talking.baum.TalkingDonaldDonkey,Talking Donald Donkey,4.4,10353621,Entertainment
+com.palmsecret.horoscope,Palm Secret - Palm Reader; Cartoon Photo, Fun,3.5,10336707,Entertainment
+com.jrj.loudsirenringtones,LOUD Siren Ringtones,4.3,10329220,Entertainment
+com.ss.android.article.topbuzzvideo,BuzzVideo（バズビデオ）- 一人リラックスタイム,4.1,10325028,Entertainment
+com.eijoy.snake.screen,Snake in Hand Joke - iSnake,4.6,10324633,Entertainment
+com.fakecallgirlfriendprank,Fake call girlfriend prank,4.4,10307367,Entertainment
+de.twokit.video.tv.cast.browser.lg,TV Cast | LG Smart TV - HD Video Streaming,2.8,10283013,Entertainment
+com.megalabs.megafon.tv,МегаФон ТВ: фильмы; ТВ, сериалы,4.3,10248887,Entertainment
+com.brokenscreen.prank.free,Broken Screen Prank 2,3.8,10231635,Entertainment
+it.fabbricadigitale.android.videomediaset,Mediaset Infinity,1.8,10229165,Entertainment
+com.tdcm.htv,TrueID Lite: Free Live TV App,4.4,10223439,Entertainment
+com.solidict.gnc2,GNÇ,3,10218200,Entertainment
+org.retropixel.GhostRadarDetector,Ghost Detector Radar Simulator,3.9,10191275,Entertainment
+com.google.android.apps.youtube.unplugged,YouTube TV: Live TV & more,3.7,10190974,Entertainment
+com.zdf.android.mediathek,ZDFmediathek & Live TV,4.3,10178590,Entertainment
+com.photo.suit.bodybuilder,Body Builder Photo Suit - Home Workout,4.1,10105508,Entertainment
+com.natenai.artofglow,Art Of Glow,4.1,10079430,Entertainment
+com.google.android.apps.youtube.vr,YouTube VR,3.6,10075588,Entertainment
+ahaflix.tv,aha - 100% Telugu Web Series and Movies,4.3,10069388,Entertainment
+ca.bell.wt.android.tunesappswidget,App Widget,3.7,10066812,Entertainment
+com.poly.art.coloring.color.by.number,LoPoly –  Puzzle art game,4,10056997,Entertainment
+com.bskyb.skygo,Sky Go,4.3,10053120,Entertainment
+diy.slime.simulator.asmr,ASMR Satisfying Slime - Relaxing Simulator Game,3.6,10016466,Entertainment
+com.hungama.movies,Hungama Play: Movies & Videos,3.4,10015310,Entertainment
+com.a3.sgt,ATRESplayer - Series; películas y TV online,4.1,10009769,Entertainment
+it.telecomitalia.cubovision,TIMVISION,3.7,9920044,Entertainment
+com.scoompa.talkingfriends,Face Changer Video,4,9896669,Entertainment
+com.ultrahd.videodownloader,Video Downloader,3.9,9835173,Entertainment
+planetevoyance.la_boule_du_voyant,Crystal Ball,4.1,9832041,Entertainment
+com.sumoing.recolor,Recolor: Adult Coloring Book - Color and Relax,3.6,9820958,Entertainment
+com.cinemex,Cinemex,3,9784808,Entertainment
+com.dramaton.squisher,Squishy Magic: 3D Art Coloring & DIY Toys Maker,4.6,9765778,Entertainment
+com.mandg.funny.rollingicon,Rolling icons - App and photo icons,4.3,9763103,Entertainment
+com.nightcoder.lovecalculator,Love Calculator,3.8,9758916,Entertainment
+com.fatcat.CookingPastaInTheKitchen,Cooking Pasta In Kitchen,3.8,9720344,Entertainment
+nickname.generator.free,💎 Free & Fire Name Style App - Nickname Generator,4.8,9714289,Entertainment
+com.anhlt.karaokeonline,Karaoke Online : Sing & Record,4.2,9713958,Entertainment
+com.rtlab.namegenerator,Symbols Creator - Nickname Generator for FF,4.2,9675587,Entertainment
+com.ruviapps.launchpadfree,DJ Music Pad,3.9,9673425,Entertainment
+com.piviandco.mixbooth,MixBooth,3.8,9661545,Entertainment
+com.lemondoo.milkthecowfree,Milk The Cow,4,9619661,Entertainment
+videosgraciosos.humorviralparawhatsapp,Funny Videos 2020,4.1,9582577,Entertainment
+com.gamepass,Xbox Game Pass,3.6,9537847,Entertainment
+chat.piano.noir.tiles.magic.ladybug,Piano Ladybug Noir,4.1,9487390,Entertainment
+minecraft.helloneighbor.map.niki,Maps Hello Neighbor for MCPE ★,3.6,9486990,Entertainment
+in.fulldive.shell,Fulldive VR - Virtual Reality,4.1,9485991,Entertainment
+fr.playsoft.teleloisirs,Programme TV par Télé Loisirs : Guide TV & Actu TV,4.3,9473236,Entertainment
+com.ncsoft.universeapp,UNIVERSE,3.9,9417689,Entertainment
+com.gxtxlabs.christmas.freesantavidocall,Live Santa Claus Video Call,3.7,9415629,Entertainment
+com.onemusic.freeyoutubemusic.musicplayer,One Music,4.4,9413810,Entertainment
+air.com.bmapps.kittycareandgrooming,Kitty Care and Grooming,4,9383946,Entertainment
+trade.mod.formcpe,Trade mods for Minecraft PE,3,9282454,Entertainment
+com.discovery.kids.pt,Discovery Kids Plus - Desenhos animados e jogos,4,9174712,Entertainment
+com.kauf.talking.babytwins,Talking Baby Twins - Babsy,4.2,9171228,Entertainment
+com.catbag.whatsappvideosdownload,Videos Engraçados pra WhatsApp,4.3,9123260,Entertainment
+videosgraciosos.vistoenforocoches,Entertainment Funny Videos,3.7,9119759,Entertainment
+com.rta.funnyvideo.fv,Funny Videos,3.8,9115884,Entertainment
+google.free.supermodel.peachygamesllc,Top Model - Dress Up and Makeup,4.2,9082464,Entertainment
+com.digiturkplay.mobil,Digiturk Play,2.6,9066796,Entertainment
+id.tix.android,TIX ID,4.7,9060413,Entertainment
+air.com.winkypinky.princesscastleroom,Princess Castle Room,4,9045676,Entertainment
+com.ryzenrise.mage,Mega Photo & Video Effects Editor -MAGE,3.8,9015343,Entertainment
+es.plus.yomvi,MOVISTAR+,2.9,8932483,Entertainment
+com.yandex.zen,Zen: personalized stories feed,4.3,8924361,Entertainment
+com.panasonic.pavc.viera.vieraremote2,Panasonic TV Remote 2,3.8,8908081,Entertainment
+com.portalmods.forminecraft,Portal mod for Minecraft,3,8889183,Entertainment
+com.mipamiapps.moviesunlimited.DHWTPKC307,Download Movies App,3,8886405,Entertainment
+com.Stenson.AnimateIt,Animate free!,3.6,8868385,Entertainment
+com.uproargames.memesoundboard2017,Meme Soundboard 2020,4.4,8839660,Entertainment
+com.yemenfon.mersal,مسجاتي: حالات للواتساب,4.7,8805142,Entertainment
+tv.molotov.app,Molotov - TV en streaming; direct, replay,4.2,8790269,Entertainment
+com.mitelelite,Mitele - Mediaset Spain VOD TV,2.8,8788511,Entertainment
+digit.solutions.dpandstatus,Best DP and Status,3.9,8687991,Entertainment
+com.textingstory.textingstory,TextingStory - Chat Story Maker,4.5,8622105,Entertainment
+com.palringo.android,WOLF - Live Audio Shows & Group Chat,4.2,8620780,Entertainment
+com.st.stunningfakegirls,Sexy Girl friend Calling Prank - Fake Call,4.2,8619081,Entertainment
+com.spinthewheeldecider,Spin The Wheel - Random Picker,4.6,8590339,Entertainment
+com.ninexgen.voice.changer,Voice changer sound effects,3.8,8553690,Entertainment
+com.nexttechgamesstudio.adult.glitter.color.by.number.paint.coloring.book.pages,Glitter Color: Adult Coloring Book By Number Pages,4.3,8532920,Entertainment
+fr.orange.cineday,Orange Cineday,4,8523751,Entertainment
+com.momento.cam,Moments Cartoon Caricature - selfie network cam,3.3,8520949,Entertainment
+com.beansprites.departmentsupermarketsimulator,Supermarket Grocery Superstore - Supermarket Games,4.2,8505760,Entertainment
+com.fakecallkidspolice,Fake call police - prank,4.2,8498678,Entertainment
+com.coloring.horse,Horse Coloring Book,4.2,8456274,Entertainment
+com.jagoapp.jagobd,Jagobd - Bangla TV(Official),4.1,8452844,Entertainment
+ru.idaprikol,АйДаПрикол — смешные фото и гифки каждый день,3.8,8452684,Entertainment
+com.orbemnetworks.americatv,América tvGO,3.9,8442019,Entertainment
+pe.movistar.go,Movistar Play Perú - TV; películas y series,3.7,8433974,Entertainment
+com.babyfish.policesiren,Police Siren Ringtones,4.2,8386345,Entertainment
+com.PUBG.Guide,Guide For PUBG MOBILE 2020,3.7,8281320,Entertainment
+com.yamilab.animalsounds,Animal sounds. Learn about animals and play.,4.5,8272664,Entertainment
+com.rbcd.countdownapp,Countdown App - Death? There’s an app for that.,3.1,8114093,Entertainment
+com.appkarma.app,appKarma Rewards & Gift Cards,4.1,8087010,Entertainment
+com.globo.muuandroidv1,Canais Globo (Globosat Play),3,8071908,Entertainment
+kr.co.kbs.kplayer,KBS my K,4.1,8052778,Entertainment
+com.tvf.tvfplay,TVFPlay - Watch & Download Original Web Series,4.5,8045338,Entertainment
+com.valvesoftware.steamlink,Steam Link,3.7,8028359,Entertainment
+sixclk.newpiki,Pikicast,3.8,8027753,Entertainment
+com.imbb.oversea.android,Partying - Group Voice Chat; Play with New Friends,4,8015969,Entertainment
+com.harman.ble.jbllink,JBL Portable: Formerly named JBL Connect,2.6,7975652,Entertainment
+com.buzzfeed.android,BuzzFeed - Quizzes; Celebrity & Trending News,4.1,7926243,Entertainment
+com.fta.rctitv,RCTI+ | Video; News, Radio, Talent Search & Games,4.3,7921697,Entertainment
+learn.to.draw.glow.flower,Learn to Draw Flower,4.2,7920076,Entertainment
+com.allocine.androidapp,AlloCine,4.1,7895550,Entertainment
+com.dogusdigital.puhutv,puhutv,3.4,7886643,Entertainment
+com.flash.yassineApp,Flash Light,3.8,7867982,Entertainment
+com.rrm.airhorn,Air Horn Prank (Loud Joke) 🔊,3.9,7850149,Entertainment
+com.meniapps.loudpolice.sirensound.policesiren.light,Loud Police Siren Sound - Police Siren Light,4.1,7835453,Entertainment
+com.liulou.tami,Sexy Indian Girls Video Chat - Random Video Online,4.1,7834623,Entertainment
+com.m2c.lie.detector.prank,Lie Detector Test Prank - Fingerprint Scanner,4.2,7828147,Entertainment
+com.bongo.bioscope,Bioscope LIVE TV,3.2,7815381,Entertainment
+com.inapp.incolor,InColor - Coloring Book for Adults,4.1,7774380,Entertainment
+com.zattoo.player,Zattoo - TV Streaming App,4.1,7764774,Entertainment
+com.parsifal.starz,ستارزبلاي STARZPLAY,3.4,7731925,Entertainment
+gun.mod.fmcpe,guns mod,3.2,7729026,Entertainment
+mobi.byss.voxelator,Voxly - Color by Number 3D - offline game,4.2,7715963,Entertainment
+com.spbtv.mobilinktv,Jazz TV: Watch PSL 6; News, Turkish Dramas, Sports,4.1,7712558,Entertainment
+all.video.downloader.hdfreevideodownloader,All Video Downloader 2020 Free HD Downloader,4.4,7708800,Entertainment
+com.ginchugames.babysitterbabydaycare,Babysitter Daycare Games & Newborn Care - DressUp,3.3,7701350,Entertainment
+air.com.bmapps.crazymommybeautysalon,Crazy Mommy Beauty Salon,4,7696301,Entertainment
+com.sky.editor.dpvideo,DP and Status Video For Whatsapp,4.7,7673330,Entertainment
+com.antoinehabert.actionverite,Naughty Games for Couples ❤️ - Best Couples Games!,4.7,7656472,Entertainment
+com.techroid.fakechat,Fake Chat Conversation - prank,4.3,7652677,Entertainment
+com.yodrstudio.coloringbynumbers,Coloring by numbers coloring books,4.1,7649362,Entertainment
+com.face.swap.face.switcher,Face Switch,3.6,7635491,Entertainment
+com.ringtones.androidringtone2019,Ringtone for Android™ 2021,4.4,7630666,Entertainment
+fr.francetv.pluzz,france•tv : direct et replay,4.3,7630187,Entertainment
+com.giago.imgsearch,Image Search,3.3,7578260,Entertainment
+net.joyplustech.android_mermaid1,Mermaid Secrets1- Mermaid  Princess Rescue Story,4.1,7577952,Entertainment
+br.com.netcombo.now,NOW  NET e Claro,4,7573381,Entertainment
+net.yeastudio.colorfil,ColorFil - Adult Coloring Book,4.1,7572581,Entertainment
+com.hasbro.furby,Furby,3.3,7556815,Entertainment
+com.iapgames.puppynewbornbaby,Puppy Newborn Baby,4,7549042,Entertainment
+com.ldf.tele7.view,Programme TV Télé 7 Jours,3.9,7546509,Entertainment
+com.appsogen.meme.creator,Meme Generator - Create funny memes,3.6,7523808,Entertainment
+com.fortunemaster.horoscope,Fortune Master Horoscope & Astrology,3.4,7466089,Entertainment
+com.pupulputulapps.bhojpurivideosongas,Bhojpuri Video Songs 2020 💃💃,3.8,7452424,Entertainment
+com.peacocktv.peacockandroid,Peacock TV – Stream TV; Movies, Live Sports & More,4.2,7452391,Entertainment
+com.video.mini,MeetU-Best Live Chat & Stranger Chat App; Meet Me,3.6,7447429,Entertainment
+ru.imult.mult,Moolt,3.1,7442091,Entertainment
+com.playland.eyeart,Eye Art: Perfect Makeup Artist,4.2,7414582,Entertainment
+online.appflame.app,App Flame - Play Games Earn Money,4.1,7407370,Entertainment
+com.horoastroline,Daily horoscope; palmistry, numerology - Astroline,3.1,7380666,Entertainment
+go.tv.hadi,hadi - interactive games,2.7,7364725,Entertainment
+com.piupiuapps.coloringglitterunicorns,Unicorn Coloring Book Glitter,4.3,7347528,Entertainment
+thevoice.sing.karaoke,The Voice - Sing Karaoke,4,7344132,Entertainment
+org.fortheloss.sticknodes,Stick Nodes: Stickman Animator,4.1,7340822,Entertainment
+com.piviandco.baldbooth,BaldBooth - The Bald Prank App,2.9,7326792,Entertainment
+com.audible.universal,Audible Suno,4.4,7320362,Entertainment
+mmcreations.hindi.old.classic.songs,Hindi Old Classic Songs Video,3.8,7312835,Entertainment
+com.ubisoft.uplay,Ubisoft Connect,4.3,7311340,Entertainment
+br.com.band.guiatv,BANDPLAY,2.9,7303092,Entertainment
+com.vmn.playplex,MTV Play,2.6,7289506,Entertainment
+com.mixaimaging.deformerfree,Face Animator - Photo Deformer,3.7,7278330,Entertainment
+air.net.chicworld.labradorpuppydaycare,Labrador Puppy Day Care,3.9,7264857,Entertainment
+com.showtime.standalone,SHOWTIME,3.2,7264310,Entertainment
+vn.vtv.vtvgotv,VTV Go for Smart TV,4.1,7264067,Entertainment
+qtstudio.minecraft.modsinstaller,Maps Master for Minecraft,5,7247118,Entertainment
+com.thechive,theCHIVE,2.9,7235773,Entertainment
+org.retropixel.CallSanta,Message from Santa! video & call (simulated),4.2,7225962,Entertainment
+launcher.theme.galaxy.note7,Launcher for Galaxy Note8,4.6,7223109,Entertainment
+com.amctv.thewalkingdead.deadyourself,The Walking Dead Dead Yourself,4.6,7213940,Entertainment

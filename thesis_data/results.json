@@ -1,0 +1,4995 @@
+{
+  "befunky.com": {
+    "website": "befunky.com",
+    "html": {
+      "size": 172877,
+      "info": {
+        "divs": 107,
+        "forms": 3,
+        "anchors": 99,
+        "href": 99,
+        "svg": 17,
+        "select": 0,
+        "input": 6,
+        "textArea": 0,
+        "button": 13
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://accounts.google.com/gsi/client",
+          "loc": 2647,
+          "size": 195341,
+          "contentLength": 195341,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.befunky.com/web/js/befunky.core.6da87e1499.js",
+          "loc": 3194,
+          "size": 513699,
+          "contentLength": 513657,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.befunky.com/web/js/scripts.38ec499c98.js",
+          "loc": 5300,
+          "size": 748349,
+          "contentLength": 748336,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.befunky.com/web/js/bundle.877d466802.js",
+          "loc": 30369,
+          "size": 3630811,
+          "contentLength": 3630800,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.befunky.com/web/js/dplV23_api.js",
+          "loc": 58,
+          "size": 4960,
+          "contentLength": 4960,
+          "internal": true,
+          "xmlHttpCalls": 3,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://js.stripe.com/v3/",
+          "loc": 2433,
+          "size": 407951,
+          "contentLength": 407943,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 87,
+        "size": 36971,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 38921,
+        "size": 4897819,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 3,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 5080,
+        "size": 603292,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 44088,
+        "size": 5538082,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 3,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://www.befunky.com/web/css/render-blocking.2b331fe810.css",
+          "anim_keyframes": 4,
+          "css_selectors": 1066,
+          "size": 97357,
+          "contentLength": 97357,
+          "internal": true
+        },
+        {
+          "url": "https://www.befunky.com/web/css/lazy.5d59a2b5c1.css",
+          "anim_keyframes": 2,
+          "css_selectors": 1837,
+          "size": 166892,
+          "contentLength": 166890,
+          "internal": true
+        },
+        {
+          "url": "https://accounts.google.com/gsi/style",
+          "anim_keyframes": 0,
+          "css_selectors": 7,
+          "size": 533,
+          "contentLength": 533,
+          "internal": false
+        }
+      ],
+      "inline_styles": 63,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 80,
+        "size": 8791
+      },
+      "internal": {
+        "anim": 6,
+        "css_selectors": 2903,
+        "size": 264249
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 7,
+        "size": 533
+      },
+      "total": {
+        "anim": 6,
+        "css_selectors": 2990,
+        "size": 273573
+      }
+    }
+  },
+  "cdiscount.com": {
+    "website": "cdiscount.com",
+    "html": {
+      "size": 611183,
+      "info": {
+        "divs": 1678,
+        "forms": 1,
+        "anchors": 2032,
+        "href": 2032,
+        "svg": 44,
+        "select": 0,
+        "input": 148,
+        "textArea": 0,
+        "button": 25
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://static.criteo.net/js/ld/publishertag.prebid.js",
+          "loc": 573,
+          "size": 90772,
+          "contentLength": 90772,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/WL/czRwd/fingerprint2.min.js",
+          "loc": 137,
+          "size": 34377,
+          "contentLength": 34376,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+          "loc": 860,
+          "size": 42035,
+          "contentLength": 42035,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+          "loc": 1441,
+          "size": 80610,
+          "contentLength": 80610,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/runtime.a68abbe37d02376d396a.js",
+          "loc": 29,
+          "size": 1573,
+          "contentLength": 1573,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/3913.dcbf97cfcfd97278033d.js",
+          "loc": 922,
+          "size": 103940,
+          "contentLength": 103938,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/2419.7efbad637ab740938c48.js",
+          "loc": 72,
+          "size": 11686,
+          "contentLength": 11686,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/8761.f8074997d6a47b74eedd.js",
+          "loc": 323,
+          "size": 55839,
+          "contentLength": 55832,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/BundleHomePage.0a37d5727b3bbf9be9d7.js",
+          "loc": 60,
+          "size": 11149,
+          "contentLength": 11149,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/cdsrwd/wl/rwd/block/recs.js?md5=78cff476c6e24fc1813dd601c57cb1f0",
+          "loc": 50,
+          "size": 4823,
+          "contentLength": 4823,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/pc/block/promobanner.js?md5=94b26174109f4c4cb09209413885b5ba",
+          "loc": 82,
+          "size": 6246,
+          "contentLength": 6246,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 1
+        },
+        {
+          "url": "https://cdn.hubvisor.io/wrapper/01D18JVSX1Y15YJ2ZPV1EMXC7D/hubvisor.js",
+          "loc": 4252,
+          "size": 577282,
+          "contentLength": 577271,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/external/tagcommander/external/blockthrough.1.0.js",
+          "loc": 99,
+          "size": 11393,
+          "contentLength": 11393,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022102001.js",
+          "loc": 9136,
+          "size": 387133,
+          "contentLength": 387133,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://bat.bing.com/p/action/5598425.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.nl/adsid/integrator.js?domain=www.cdiscount.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.com/adsid/integrator.js?domain=www.cdiscount.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.nl/adsid/integrator.js?domain=www.cdiscount.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.com/adsid/integrator.js?domain=www.cdiscount.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdiscount.com/.well-known/baleen/challenge.js",
+          "loc": 5,
+          "size": 329,
+          "contentLength": 329,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/external/tagcommander/privacy_v2_28.js",
+          "loc": 693,
+          "size": 123124,
+          "contentLength": 122366,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=AW-1049282852",
+          "loc": 4068,
+          "size": 187253,
+          "contentLength": 187253,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn.trustcommander.net/iab-tcfapi/tcfapi.js?v=005",
+          "loc": 630,
+          "size": 70943,
+          "contentLength": 70942,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/tracking/gpt-prebid.js?md5=ee37e81436565500a9461362e0d416a2",
+          "loc": 1,
+          "size": 108,
+          "contentLength": 108,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/tracking/cdtmv2.js?md5=b32d43144608202ad45788a13f1b3735",
+          "loc": 262,
+          "size": 28922,
+          "contentLength": 28922,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/external/s_code.js?md5=b694f8a6659fa5de8de130ed38e1d99a",
+          "loc": 1645,
+          "size": 131860,
+          "contentLength": 131814,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/external/tagcommander/tc_nav.js?md5=afb0474bce2123538ef5af0d0918fb01",
+          "loc": 576,
+          "size": 155068,
+          "contentLength": 154886,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 2
+        },
+        {
+          "url": "https://try.abtasty.com/21ac2112b4c60354513b9d0693500433.js",
+          "loc": 3450,
+          "size": 1117505,
+          "contentLength": 1117387,
+          "internal": false,
+          "xmlHttpCalls": 2,
+          "ajaxCalls": 5
+        },
+        {
+          "url": "https://ws.facil-iti.com/tag/faciliti-tag.min.js",
+          "loc": 24,
+          "size": 9422,
+          "contentLength": 4924,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/pc/fwk/extendtravel.js?md5=90de093b0deb2ae2c79a41f870f97689",
+          "loc": 7,
+          "size": 1060,
+          "contentLength": 1060,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 1
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/common/ui/jquery.ui.autocomplete.js?md5=000d1d2f6f0a7d68f448bd9c82c82e51",
+          "loc": 331,
+          "size": 32265,
+          "contentLength": 32265,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/common/ui/jquery.ui.datepicker.js?md5=c9cf2a0e23cede7c08321499bf7f78ba",
+          "loc": 332,
+          "size": 37611,
+          "contentLength": 37611,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/pc/block/fly.js?md5=20e45fdde675b28983c8c3b680376fd0",
+          "loc": 115,
+          "size": 10378,
+          "contentLength": 10372,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 2
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/pc/block/trip.js?md5=92dd78df39307ef60233a4468f8a11c7",
+          "loc": 134,
+          "size": 10035,
+          "contentLength": 10035,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/3124.538807004550d8d7fdf8.js",
+          "loc": 83,
+          "size": 6606,
+          "contentLength": 6606,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/6770.75429bd800252704ee0c.js",
+          "loc": 1819,
+          "size": 274638,
+          "contentLength": 274625,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/js/BundleHomePageDefer.1bcf696a4a617dceb3c1.js",
+          "loc": 3,
+          "size": 356,
+          "contentLength": 356,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://sc-static.net/scevent.min.js",
+          "loc": 362,
+          "size": 27639,
+          "contentLength": 27639,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://bat.bing.com/bat.js",
+          "loc": 429,
+          "size": 39008,
+          "contentLength": 39007,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://actorssl-5637.kxcdn.com/actor/701f06ab46a03b1ac6f9739607deb98a-848/action",
+          "loc": 994,
+          "size": 75222,
+          "contentLength": 75221,
+          "internal": false,
+          "xmlHttpCalls": 1,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.cdiscount.com/Js/external/tagcommander/external/content_square.11.40.1.min.js?md5=3f29fd4a77dd5eb37946adb2bbf1c4b",
+          "loc": 1544,
+          "size": 348134,
+          "contentLength": 348114,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/signals/plugins/identity.js?v=2.9.88",
+          "loc": 918,
+          "size": 65286,
+          "contentLength": 65286,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/en_US/fbevents.js",
+          "loc": 1675,
+          "size": 105267,
+          "contentLength": 105267,
+          "internal": false,
+          "xmlHttpCalls": 4,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 544,
+        "size": 46833,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 9328,
+        "size": 1401948,
+        "ajaxCalls": 6,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 28812,
+        "size": 2875377,
+        "ajaxCalls": 5,
+        "xmlHttpCalls": 7,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 38684,
+        "size": 4324158,
+        "ajaxCalls": 11,
+        "xmlHttpCalls": 7,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/8761.d023a909f11acc7b5c3f.css",
+          "anim_keyframes": 0,
+          "css_selectors": 945,
+          "size": 72152,
+          "contentLength": 72022,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/8151.ae3ad9a7280e19bdf90a.css",
+          "anim_keyframes": 0,
+          "css_selectors": 326,
+          "size": 26740,
+          "contentLength": 26740,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/907.f03b1aff96e455b4972e.css",
+          "anim_keyframes": 0,
+          "css_selectors": 373,
+          "size": 23202,
+          "contentLength": 23202,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/BundleHomePage.93b210dd5280f2513303.css",
+          "anim_keyframes": 0,
+          "css_selectors": 219,
+          "size": 19112,
+          "contentLength": 19112,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/Css/common/ui/jquery.ui.datepicker.css?LanguageCode=fr&amp;SiteId=100&amp;SecureLinks=True&amp;md5=5e8ff3f60abfe410c85f08bc9c661680",
+          "anim_keyframes": 0,
+          "css_selectors": 55,
+          "size": 5919,
+          "contentLength": 5593,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/Css/common/ui/jquery.ui.autocomplete.css?LanguageCode=fr&amp;SiteId=100&amp;SecureLinks=True&amp;md5=b6112be99871b1bfd8762c4f56a7952f",
+          "anim_keyframes": 0,
+          "css_selectors": 23,
+          "size": 2711,
+          "contentLength": 2557,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/Css/pc/block/travel.css?LanguageCode=fr&amp;SiteId=100&amp;SecureLinks=True&amp;md5=9a145387104c37531380f6be2546cbf6",
+          "anim_keyframes": 0,
+          "css_selectors": 147,
+          "size": 27257,
+          "contentLength": 26319,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/Css/pc/block/promobanner.css?LanguageCode=fr&amp;SiteId=100&amp;SecureLinks=True&amp;md5=b7a90ec88f395aa7a38595af2a8700d0",
+          "anim_keyframes": 0,
+          "css_selectors": 26,
+          "size": 2503,
+          "contentLength": 2369,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/Css/pc/master/fullrwd.css?LanguageCode=fr&amp;SiteId=100&amp;SecureLinks=True&amp;md5=8bd839d2401df1bdb34f1e99a483af76",
+          "anim_keyframes": 0,
+          "css_selectors": 36,
+          "size": 2435,
+          "contentLength": 2280,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/33.51cfdb936823288f6e88.css",
+          "anim_keyframes": 0,
+          "css_selectors": 412,
+          "size": 37261,
+          "contentLength": 37248,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/6770.f4630ffcb12d6d7dea34.css",
+          "anim_keyframes": 4,
+          "css_selectors": 266,
+          "size": 24932,
+          "contentLength": 24932,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/33.51cfdb936823288f6e88.css",
+          "anim_keyframes": 0,
+          "css_selectors": 412,
+          "size": 37261,
+          "contentLength": 37248,
+          "internal": true
+        },
+        {
+          "url": "https://www.cdiscount.com/pc-resources/css/6770.f4630ffcb12d6d7dea34.css",
+          "anim_keyframes": 4,
+          "css_selectors": 266,
+          "size": 24932,
+          "contentLength": 24932,
+          "internal": true
+        }
+      ],
+      "inline_styles": 451,
+      "embedded": {
+        "anim": 1,
+        "css_selectors": 509,
+        "size": 70378
+      },
+      "internal": {
+        "anim": 8,
+        "css_selectors": 3506,
+        "size": 306417
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 9,
+        "css_selectors": 4015,
+        "size": 376795
+      }
+    }
+  },
+  "badoo.com": {
+    "website": "badoo.com",
+    "html": {
+      "size": 243475,
+      "info": {
+        "divs": 348,
+        "forms": 0,
+        "anchors": 82,
+        "href": 82,
+        "svg": 40,
+        "select": 0,
+        "input": 2,
+        "textArea": 0,
+        "button": 0
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NRVTQM9",
+          "loc": 2527,
+          "size": 125646,
+          "contentLength": 125646,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://consent.badoo.com/unified/wrapperMessagingWithoutDetection.js",
+          "loc": 1029,
+          "size": 121889,
+          "contentLength": 121847,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://consent.badoo.com/unified/4.2.0/ccpa.8629e4dafabcef3f52d7.bundle.js",
+          "loc": 70,
+          "size": 10312,
+          "contentLength": 10312,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://consent.badoo.com/unified/4.2.0/gdpr-tcf.4d091c58d82dd296b172.bundle.js",
+          "loc": 662,
+          "size": 87862,
+          "contentLength": 87862,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://eu1.badoocdn.com/i/v2/-/-/desktopweb/remote-entry-new.239974d3c64b44da877e.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://eu1.badoocdn.com/i/v2/-/-/js/hon_v3/bundles/base-lite.7b10bae9627ebe96c535.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://eu1.badoocdn.com/i/v2/-/-/js/hon_v3/bundles/base-app.82cdc36217e677e55052.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 5154,
+        "size": 507113,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 1761,
+        "size": 220063,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 2527,
+        "size": 125646,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 9442,
+        "size": 852822,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://eu1.badoocdn.com/i/v2/-/-/js/hon_v3/assets/css/ltr/-/css/hotornot_v2/base.7b1cd20ab3508006cb0d.css",
+          "anim_keyframes": 0,
+          "css_selectors": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": true
+        },
+        {
+          "url": "https://eu1.badoocdn.com/i/v2/-/-/js/hon_v3/assets/css/ltr/-/css/hotornot_v2/page.encounters.d3d93754b30b9f4a550d.css",
+          "anim_keyframes": 18,
+          "css_selectors": 1088,
+          "size": 104719,
+          "contentLength": 104718,
+          "internal": true
+        }
+      ],
+      "inline_styles": 14,
+      "embedded": {
+        "anim": 4,
+        "css_selectors": 329,
+        "size": 22340
+      },
+      "internal": {
+        "anim": 18,
+        "css_selectors": 1088,
+        "size": 104719
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 22,
+        "css_selectors": 1417,
+        "size": 127059
+      }
+    }
+  },
+  "coreldrawdesign.com": {
+    "website": "coreldrawdesign.com",
+    "html": {
+      "size": 56060,
+      "info": {
+        "divs": 152,
+        "forms": 1,
+        "anchors": 64,
+        "href": 64,
+        "svg": 0,
+        "select": 0,
+        "input": 1,
+        "textArea": 0,
+        "button": 1
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202210170101/reactive_library_fy2021.js",
+          "loc": 3663,
+          "size": 153892,
+          "contentLength": 153892,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://buttons-config.sharethis.com/js/5c06d2844b87f60011595d5a.js",
+          "loc": 1,
+          "size": 498,
+          "contentLength": 498,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=UA-129620136-1",
+          "loc": 2423,
+          "size": 114678,
+          "contentLength": 114678,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8109260217051503",
+          "loc": 3202,
+          "size": 167793,
+          "contentLength": 167793,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.nl/adsid/integrator.js?domain=coreldrawdesign.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.com/adsid/integrator.js?domain=coreldrawdesign.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.nl/adsid/integrator.js?domain=coreldrawdesign.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.com/adsid/integrator.js?domain=coreldrawdesign.com",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://coreldrawdesign.com/js/jquery-3.3.1.min.js",
+          "loc": 658,
+          "size": 86927,
+          "contentLength": 86927,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://coreldrawdesign.com/js/materialize.min.js",
+          "loc": 981,
+          "size": 166226,
+          "contentLength": 166221,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js",
+          "loc": 3030,
+          "size": 447570,
+          "contentLength": 447561,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 5
+        },
+        {
+          "url": "https://cdn.ckeditor.com/4.14.0/standard/ckeditor.js",
+          "loc": 9240,
+          "size": 657189,
+          "contentLength": 657127,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://coreldrawdesign.com/js/owl.carousel.min.js",
+          "loc": 142,
+          "size": 44342,
+          "contentLength": 44342,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 59,
+        "size": 6588,
+        "ajaxCalls": 2,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 1785,
+        "size": 297923,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 22679,
+        "size": 1591850,
+        "ajaxCalls": 5,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 24523,
+        "size": 1896361,
+        "ajaxCalls": 7,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+          "anim_keyframes": 0,
+          "css_selectors": 2,
+          "size": 475,
+          "contentLength": 475,
+          "internal": false
+        },
+        {
+          "url": "https://use.fontawesome.com/releases/v5.5.0/css/all.css",
+          "anim_keyframes": 1,
+          "css_selectors": 1309,
+          "size": 51215,
+          "contentLength": 51215,
+          "internal": false
+        },
+        {
+          "url": "https://coreldrawdesign.com/css/materialize.min.css",
+          "anim_keyframes": 24,
+          "css_selectors": 1741,
+          "size": 141522,
+          "contentLength": 141507,
+          "internal": true
+        },
+        {
+          "url": "https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css",
+          "anim_keyframes": 0,
+          "css_selectors": 91,
+          "size": 15800,
+          "contentLength": 15800,
+          "internal": false
+        },
+        {
+          "url": "https://coreldrawdesign.com/css/style.css?v3",
+          "anim_keyframes": 0,
+          "css_selectors": 28,
+          "size": 1753,
+          "contentLength": 1625,
+          "internal": true
+        },
+        {
+          "url": "https://coreldrawdesign.com/css/owl.carousel.min.css",
+          "anim_keyframes": 1,
+          "css_selectors": 36,
+          "size": 3351,
+          "contentLength": 3351,
+          "internal": true
+        },
+        {
+          "url": "https://coreldrawdesign.com/css/owl.theme.default.min.css",
+          "anim_keyframes": 0,
+          "css_selectors": 9,
+          "size": 1013,
+          "contentLength": 1013,
+          "internal": true
+        }
+      ],
+      "inline_styles": 129,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 3,
+        "size": 261
+      },
+      "internal": {
+        "anim": 25,
+        "css_selectors": 1814,
+        "size": 147639
+      },
+      "external": {
+        "anim": 1,
+        "css_selectors": 1402,
+        "size": 67490
+      },
+      "total": {
+        "anim": 26,
+        "css_selectors": 3219,
+        "size": 215390
+      }
+    }
+  },
+  "diler.io": {
+    "website": "diler.io",
+    "html": {
+      "size": 14780,
+      "info": {
+        "divs": 13,
+        "forms": 0,
+        "anchors": 5,
+        "href": 5,
+        "svg": 16,
+        "select": 0,
+        "input": 0,
+        "textArea": 0,
+        "button": 2
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://diler.io/wp-includes/js/wp-emoji-release.min.js?ver=6.0.3",
+          "loc": 42,
+          "size": 18617,
+          "contentLength": 18617,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://diler.io/wp-includes/blocks/navigation/view.min.js?ver=009e29110e016c14bac4ba0ecc809fcd",
+          "loc": 5,
+          "size": 1144,
+          "contentLength": 1144,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 23,
+        "size": 3198,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 47,
+        "size": 19761,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 0,
+        "size": 0,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 70,
+        "size": 22959,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://diler.io/wp-includes/blocks/navigation/style.min.css?ver=6.0.3",
+          "anim_keyframes": 1,
+          "css_selectors": 89,
+          "size": 15342,
+          "contentLength": 15342,
+          "internal": true
+        },
+        {
+          "url": "https://diler.io/wp-content/themes/twentytwentytwo/style.css?ver=1.2",
+          "anim_keyframes": 0,
+          "css_selectors": 11,
+          "size": 5602,
+          "contentLength": 5598,
+          "internal": true
+        }
+      ],
+      "inline_styles": 20,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 246,
+        "size": 32074
+      },
+      "internal": {
+        "anim": 1,
+        "css_selectors": 100,
+        "size": 20944
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 1,
+        "css_selectors": 346,
+        "size": 53018
+      }
+    }
+  },
+  "flirty.chat": {
+    "website": "flirty.chat",
+    "html": {
+      "size": 13380,
+      "info": {
+        "divs": 67,
+        "forms": 0,
+        "anchors": 36,
+        "href": 36,
+        "svg": 0,
+        "select": 0,
+        "input": 0,
+        "textArea": 0,
+        "button": 0
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://mc.yandex.ru/metrika/tag.js",
+          "loc": 4059,
+          "size": 213880,
+          "contentLength": 213878,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M2V55TZ",
+          "loc": 2447,
+          "size": 119622,
+          "contentLength": 119622,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5fe44cae0a4c4f415951d5f8",
+          "loc": 647,
+          "size": 89476,
+          "contentLength": 89476,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://flirty.chat/js/webflow.js",
+          "loc": 366,
+          "size": 47051,
+          "contentLength": 47049,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://faminta.com/mrtigrashell/js",
+          "loc": 96,
+          "size": 14050,
+          "contentLength": 13992,
+          "internal": false,
+          "xmlHttpCalls": 2,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 17,
+        "size": 1018,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 366,
+        "size": 47051,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 8369,
+        "size": 487258,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 2,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 8752,
+        "size": 535327,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 2,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://flirty.chat/css/normalize.css",
+          "anim_keyframes": 0,
+          "css_selectors": 40,
+          "size": 7772,
+          "contentLength": 7772,
+          "internal": true
+        },
+        {
+          "url": "https://flirty.chat/css/webflow.css",
+          "anim_keyframes": 1,
+          "css_selectors": 336,
+          "size": 39109,
+          "contentLength": 39105,
+          "internal": true
+        },
+        {
+          "url": "https://flirty.chat/css/flirtychat.webflow.css",
+          "anim_keyframes": 0,
+          "css_selectors": 253,
+          "size": 35672,
+          "contentLength": 35672,
+          "internal": true
+        }
+      ],
+      "inline_styles": 2,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 1,
+        "size": 74
+      },
+      "internal": {
+        "anim": 1,
+        "css_selectors": 629,
+        "size": 82553
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 1,
+        "css_selectors": 630,
+        "size": 82627
+      }
+    }
+  },
+  "freegameshub.net": {
+    "website": "freegameshub.net",
+    "html": {
+      "size": 1361501,
+      "info": {
+        "divs": 8393,
+        "forms": 0,
+        "anchors": 2797,
+        "href": 2797,
+        "svg": 0,
+        "select": 0,
+        "input": 0,
+        "textArea": 0,
+        "button": 4
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://code.getmdl.io/1.3.0/material.min.js",
+          "loc": 274,
+          "size": 62491,
+          "contentLength": 62491,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://code.jquery.com/jquery-3.4.1.min.js",
+          "loc": 640,
+          "size": 88145,
+          "contentLength": 88145,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 19,
+        "size": 1162,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 0,
+        "size": 0,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 914,
+        "size": 150636,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 933,
+        "size": 151798,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+          "anim_keyframes": 0,
+          "css_selectors": 2,
+          "size": 475,
+          "contentLength": 475,
+          "internal": false
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Gothic+A1",
+          "anim_keyframes": 0,
+          "css_selectors": 1,
+          "size": 187,
+          "contentLength": 187,
+          "internal": false
+        },
+        {
+          "url": "https://code.getmdl.io/1.3.0/material.indigo-pink.min.css",
+          "anim_keyframes": 24,
+          "css_selectors": 1503,
+          "size": 141295,
+          "contentLength": 141291,
+          "internal": false
+        },
+        {
+          "url": "https://freegameshub.net/resources/style.css",
+          "anim_keyframes": 0,
+          "css_selectors": 58,
+          "size": 4696,
+          "contentLength": 4481,
+          "internal": true
+        }
+      ],
+      "inline_styles": 5587,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 19,
+        "size": 1628
+      },
+      "internal": {
+        "anim": 0,
+        "css_selectors": 58,
+        "size": 4696
+      },
+      "external": {
+        "anim": 24,
+        "css_selectors": 1506,
+        "size": 141957
+      },
+      "total": {
+        "anim": 24,
+        "css_selectors": 1583,
+        "size": 148281
+      }
+    }
+  },
+  "jamesedition.net": {
+    "website": "jamesedition.net",
+    "html": {
+      "size": 18789,
+      "info": {
+        "divs": 25,
+        "forms": 0,
+        "anchors": 37,
+        "href": 37,
+        "svg": 8,
+        "select": 0,
+        "input": 0,
+        "textArea": 0,
+        "button": 0
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "http://jamesedition.net/wp-includes/js/wp-emoji-release.min.js?ver=5.9.5",
+          "loc": 42,
+          "size": 18617,
+          "contentLength": 18617,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "http://jamesedition.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
+          "loc": 648,
+          "size": 89684,
+          "contentLength": 89684,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "http://jamesedition.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+          "loc": 60,
+          "size": 11224,
+          "contentLength": 11224,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "http://jamesedition.net/wp-content/themes/camaraderie/vendor/benlumia007/backdrop-core/assets/js/navigation.js?ver=1.0.0",
+          "loc": 0,
+          "size": 279,
+          "contentLength": 279,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "http://jamesedition.net/wp-content/themes/camaraderie/public/js/app.js?ver=1.0.0",
+          "loc": 0,
+          "size": 279,
+          "contentLength": 279,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 13,
+        "size": 3835,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 750,
+        "size": 120083,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 0,
+        "size": 0,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 763,
+        "size": 123918,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "http://jamesedition.net/wp-includes/css/dist/block-library/style.min.css?ver=5.9.5",
+          "anim_keyframes": 1,
+          "css_selectors": 732,
+          "size": 94889,
+          "contentLength": 94886,
+          "internal": true
+        },
+        {
+          "url": "http://jamesedition.net/wp-content/themes/camaraderie/vendor/benlumia007/backdrop-core/assets/font-awesome/css/all.css?ver=1.0.0",
+          "anim_keyframes": 0,
+          "css_selectors": 0,
+          "size": 279,
+          "contentLength": 279,
+          "internal": true
+        },
+        {
+          "url": "http://jamesedition.net/wp-content/themes/camaraderie/vendor/benlumia007/backdrop-core/assets/fonts/custom-fonts.css?ver=1.0.0",
+          "anim_keyframes": 0,
+          "css_selectors": 0,
+          "size": 279,
+          "contentLength": 279,
+          "internal": true
+        },
+        {
+          "url": "http://jamesedition.net/wp-content/themes/camaraderie/public/css/screen.css?ver=1.0.0",
+          "anim_keyframes": 0,
+          "css_selectors": 0,
+          "size": 279,
+          "contentLength": 279,
+          "internal": true
+        }
+      ],
+      "inline_styles": 8,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 93,
+        "size": 12136
+      },
+      "internal": {
+        "anim": 1,
+        "css_selectors": 732,
+        "size": 95726
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 1,
+        "css_selectors": 825,
+        "size": 107862
+      }
+    }
+  },
+  "miclaro.claro.com.ar": {
+    "website": "miclaro.claro.com.ar",
+    "html": {
+      "size": 8996,
+      "info": {
+        "divs": 65,
+        "forms": 0,
+        "anchors": 7,
+        "href": 7,
+        "svg": 0,
+        "select": 0,
+        "input": 0,
+        "textArea": 0,
+        "button": 1
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.google-analytics.com/gtm/optimize.js?id=OPT-P37R8TL",
+          "loc": 2486,
+          "size": 111948,
+          "contentLength": 111948,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PXSFHZX",
+          "loc": 3794,
+          "size": 317122,
+          "contentLength": 317073,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js",
+          "loc": 1042,
+          "size": 91434,
+          "contentLength": 91387,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/webpack-fb76148cfcfb42ca18eb.js",
+          "loc": 29,
+          "size": 1472,
+          "contentLength": 1472,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/framework-2191d16384373197bc0a.js",
+          "loc": 1665,
+          "size": 131031,
+          "contentLength": 131031,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/main-8d15616dad332ac01c02.js",
+          "loc": 732,
+          "size": 77355,
+          "contentLength": 77355,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/pages/_app-8f349ebe16ef465b50fa.js",
+          "loc": 14,
+          "size": 1258,
+          "contentLength": 1258,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/35-73a3672810a41538f3c0.js",
+          "loc": 163,
+          "size": 19598,
+          "contentLength": 19598,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/858-cd4feb51a0af9ef35f5d.js",
+          "loc": 24,
+          "size": 21226,
+          "contentLength": 21226,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/chunks/pages/index-b4984d4af97dfe99fd7e.js",
+          "loc": 84,
+          "size": 25501,
+          "contentLength": 25501,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/J42XlgNmGoCwg05XzDAKl/_buildManifest.js",
+          "loc": 0,
+          "size": 1325,
+          "contentLength": 1325,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/J42XlgNmGoCwg05XzDAKl/_ssgManifest.js",
+          "loc": 0,
+          "size": 1325,
+          "contentLength": 1325,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/js/service-worker-loader.js",
+          "loc": 3,
+          "size": 310,
+          "contentLength": 310,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/js/jquery-3.5.1.min.js",
+          "loc": 647,
+          "size": 89476,
+          "contentLength": 89476,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/js/pwacompat.min.js",
+          "loc": 103,
+          "size": 6154,
+          "contentLength": 6154,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/js/bootstrap-modal.js",
+          "loc": 6,
+          "size": 13118,
+          "contentLength": 13118,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/js/main.js",
+          "loc": 8,
+          "size": 798,
+          "contentLength": 798,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 38,
+        "size": 6167,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 4520,
+        "size": 481381,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 7400,
+        "size": 479300,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 11958,
+        "size": 966848,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/css/56777d1581ff71e9974e.css",
+          "anim_keyframes": 0,
+          "css_selectors": 4,
+          "size": 1325,
+          "contentLength": 1325,
+          "internal": true
+        },
+        {
+          "url": "https://miclaro.claro.com.ar/_next/static/css/5e60073160ee2afec44b.css",
+          "anim_keyframes": 2,
+          "css_selectors": 349,
+          "size": 23162,
+          "contentLength": 23162,
+          "internal": true
+        }
+      ],
+      "inline_styles": 9,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "internal": {
+        "anim": 2,
+        "css_selectors": 353,
+        "size": 24487
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 2,
+        "css_selectors": 353,
+        "size": 24487
+      }
+    }
+  },
+  "mobile.twitter.com": {
+    "website": "mobile.twitter.com",
+    "html": {
+      "size": 165121,
+      "info": {
+        "divs": 1036,
+        "forms": 0,
+        "anchors": 71,
+        "href": 71,
+        "svg": 65,
+        "select": 0,
+        "input": 0,
+        "textArea": 0,
+        "button": 0
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb10.js",
+          "loc": 7823,
+          "size": 791195,
+          "contentLength": 790299,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://abs.twimg.com/responsive-web/client-web/i18n/en.81d6b5f10.js",
+          "loc": 29,
+          "size": 362942,
+          "contentLength": 360195,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://abs.twimg.com/responsive-web/client-web/main.cd3db0c10.js",
+          "loc": 12489,
+          "size": 2325689,
+          "contentLength": 2325666,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 66,
+        "size": 126588,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 20341,
+        "size": 3479826,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 0,
+        "size": 0,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 20407,
+        "size": 3606414,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [],
+      "inline_styles": 207,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 87,
+        "size": 8806
+      },
+      "internal": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 0,
+        "css_selectors": 87,
+        "size": 8806
+      }
+    }
+  },
+  "offidocs.com": {
+    "website": "offidocs.com",
+    "html": {
+      "size": 46268,
+      "info": {
+        "divs": 123,
+        "forms": 2,
+        "anchors": 125,
+        "href": 125,
+        "svg": 7,
+        "select": 1,
+        "input": 9,
+        "textArea": 0,
+        "button": 6
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://offidocs.com/media/system/dum.js.pagespeed.jm.gl7Q42KEgu.js",
+          "loc": 1,
+          "size": 19,
+          "contentLength": 19,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/js/jquery.noconflict.js.pagespeed.jm.bcwCrx_8Ak.js",
+          "loc": 3,
+          "size": 140,
+          "contentLength": 140,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://offidocs.com/community/postscribe.min.js",
+          "loc": 172,
+          "size": 18567,
+          "contentLength": 18567,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 188,
+        "size": 12490,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 1,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 176,
+        "size": 18726,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 0,
+        "size": 0,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 364,
+        "size": 31216,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 1,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://offidocs.com/templates/system/css/A.general.css.pagespeed.cf.kiQhSkw7jn.css",
+          "anim_keyframes": 0,
+          "css_selectors": 27,
+          "size": 2570,
+          "contentLength": 2570,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/plugins/system/jat3/jat3/base-themes/default/css/A.addons.css+layout.css,,qv==2+template.css+css3.css,Mcc.SvElQSIFzA.css.pagespeed.cf.UnZhJQTDS8.css",
+          "anim_keyframes": 0,
+          "css_selectors": 452,
+          "size": 24470,
+          "contentLength": 24470,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout.css.pagespeed.cf.97Bl_gQT9D.css",
+          "anim_keyframes": 0,
+          "css_selectors": 36,
+          "size": 1833,
+          "contentLength": 1833,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.template-3-new01.css,,qv==100+modules.css,Mcc.CmIIpL674J.css.pagespeed.cf.Jx6i8y_Wmb.css",
+          "anim_keyframes": 0,
+          "css_selectors": 404,
+          "size": 24962,
+          "contentLength": 24948,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout-mobile-2b.css.pagespeed.cf.-eEvcctWdz.css",
+          "anim_keyframes": 0,
+          "css_selectors": 75,
+          "size": 5628,
+          "contentLength": 5628,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout-tablet-2b.css.pagespeed.cf.ylNVV2bap7.css",
+          "anim_keyframes": 0,
+          "css_selectors": 34,
+          "size": 1895,
+          "contentLength": 1895,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout-normal-2c.css.pagespeed.cf._No9gLz0ps.css",
+          "anim_keyframes": 0,
+          "css_selectors": 34,
+          "size": 1881,
+          "contentLength": 1881,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.template-3-new01.css,,qv==100+css3.css,Mcc.goIqBjFP03.css.pagespeed.cf.WBrMLHNphL.css",
+          "anim_keyframes": 0,
+          "css_selectors": 413,
+          "size": 26365,
+          "contentLength": 26351,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/menu/A.mega.css.pagespeed.cf.2qJntGkSy_.css",
+          "anim_keyframes": 0,
+          "css_selectors": 54,
+          "size": 5668,
+          "contentLength": 5668,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/system/css/A.general.css.pagespeed.cf.kiQhSkw7jn.css",
+          "anim_keyframes": 0,
+          "css_selectors": 27,
+          "size": 2570,
+          "contentLength": 2570,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/plugins/system/jat3/jat3/base-themes/default/css/A.addons.css+layout.css,,qv==2+template.css+css3.css,Mcc.SvElQSIFzA.css.pagespeed.cf.UnZhJQTDS8.css",
+          "anim_keyframes": 0,
+          "css_selectors": 452,
+          "size": 24470,
+          "contentLength": 24470,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout.css.pagespeed.cf.97Bl_gQT9D.css",
+          "anim_keyframes": 0,
+          "css_selectors": 36,
+          "size": 1833,
+          "contentLength": 1833,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.template-3-new01.css,,qv==100+modules.css,Mcc.CmIIpL674J.css.pagespeed.cf.Jx6i8y_Wmb.css",
+          "anim_keyframes": 0,
+          "css_selectors": 404,
+          "size": 24962,
+          "contentLength": 24948,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout-mobile-2b.css.pagespeed.cf.-eEvcctWdz.css",
+          "anim_keyframes": 0,
+          "css_selectors": 75,
+          "size": 5628,
+          "contentLength": 5628,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout-tablet-2b.css.pagespeed.cf.ylNVV2bap7.css",
+          "anim_keyframes": 0,
+          "css_selectors": 34,
+          "size": 1895,
+          "contentLength": 1895,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.layout-normal-2c.css.pagespeed.cf._No9gLz0ps.css",
+          "anim_keyframes": 0,
+          "css_selectors": 34,
+          "size": 1881,
+          "contentLength": 1881,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/A.template-3-new01.css,,qv==100+css3.css,Mcc.goIqBjFP03.css.pagespeed.cf.WBrMLHNphL.css",
+          "anim_keyframes": 0,
+          "css_selectors": 413,
+          "size": 26365,
+          "contentLength": 26351,
+          "internal": true
+        },
+        {
+          "url": "https://offidocs.com/templates/ja_elastica/css/menu/A.mega.css.pagespeed.cf.2qJntGkSy_.css",
+          "anim_keyframes": 0,
+          "css_selectors": 54,
+          "size": 5668,
+          "contentLength": 5668,
+          "internal": true
+        }
+      ],
+      "inline_styles": 95,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 836,
+        "size": 54920
+      },
+      "internal": {
+        "anim": 0,
+        "css_selectors": 3058,
+        "size": 190544
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 0,
+        "css_selectors": 3894,
+        "size": 245464
+      }
+    }
+  },
+  "onet.pl": {
+    "website": "onet.pl",
+    "html": {
+      "size": 227003,
+      "info": {
+        "divs": 332,
+        "forms": 1,
+        "anchors": 352,
+        "href": 352,
+        "svg": 15,
+        "select": 0,
+        "input": 1,
+        "textArea": 0,
+        "button": 1
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://static.criteo.net/js/ld/publishertag.prebid.117.js",
+          "loc": 568,
+          "size": 89113,
+          "contentLength": 89113,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/en_US/fbevents.js",
+          "loc": 1675,
+          "size": 105267,
+          "contentLength": 105267,
+          "internal": false,
+          "xmlHttpCalls": 4,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+          "loc": 860,
+          "size": 42035,
+          "contentLength": 42035,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-P85SF2J",
+          "loc": 3456,
+          "size": 203294,
+          "contentLength": 203276,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://onet.hit.gemius.pl/xgemius.js",
+          "loc": 837,
+          "size": 65602,
+          "contentLength": 65602,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+          "loc": 1044,
+          "size": 91460,
+          "contentLength": 91413,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/3438-ddf13b560c8c9fa7.js",
+          "loc": 1268,
+          "size": 119552,
+          "contentLength": 119552,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/9331-5c4fdbb5c18787f7.js",
+          "loc": 54,
+          "size": 5991,
+          "contentLength": 5991,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/126-4096089857defb85.js",
+          "loc": 179,
+          "size": 22818,
+          "contentLength": 22818,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/3253-9e9a3cc9e93073cc.js",
+          "loc": 148,
+          "size": 25375,
+          "contentLength": 25375,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/9074-77c70b425ec0e32c.js",
+          "loc": 402,
+          "size": 47873,
+          "contentLength": 47873,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/2276-c0d4cf0412f3128b.js",
+          "loc": 77,
+          "size": 14946,
+          "contentLength": 14937,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/5609-5fcb5e0732a1fad6.js",
+          "loc": 192,
+          "size": 27546,
+          "contentLength": 27546,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/1805-6f8aa23ef21fa2a9.js",
+          "loc": 106,
+          "size": 11542,
+          "contentLength": 11541,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/2632-ca3dbeacb87a7b3e.js",
+          "loc": 234,
+          "size": 61167,
+          "contentLength": 61160,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/9473.90697b01836dfeb9.js",
+          "loc": 100,
+          "size": 16275,
+          "contentLength": 16275,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/9554.fdd24a2b65a432cc.js",
+          "loc": 83,
+          "size": 18118,
+          "contentLength": 18118,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/4130.eba8cb4a078a0161.js",
+          "loc": 58,
+          "size": 16124,
+          "contentLength": 16123,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/6906.4084f97dc66381c2.js",
+          "loc": 83,
+          "size": 12242,
+          "contentLength": 12224,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/3602.b29268ef7653c729.js",
+          "loc": 77,
+          "size": 9902,
+          "contentLength": 9902,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/4959.2e48d5e1d1c1136f.js",
+          "loc": 88,
+          "size": 23232,
+          "contentLength": 23229,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/7214.8ac1f6b71910a1b3.js",
+          "loc": 10,
+          "size": 2617,
+          "contentLength": 2617,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/9955.2cf3d8b244fed39f.js",
+          "loc": 8,
+          "size": 947,
+          "contentLength": 947,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/2892.b8f94615c440f019.js",
+          "loc": 8,
+          "size": 1554,
+          "contentLength": 1554,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/6740.dc38df2792025317.js",
+          "loc": 8,
+          "size": 869,
+          "contentLength": 869,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/6070.d4a149b27c0d4d9f.js",
+          "loc": 8,
+          "size": 1000,
+          "contentLength": 1000,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/1788.65dda4ca990cb15e.js",
+          "loc": 8,
+          "size": 3610,
+          "contentLength": 3610,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/4678.3ce639edeecb9209.js",
+          "loc": 8,
+          "size": 699,
+          "contentLength": 699,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/2701.875532d75c223b15.js",
+          "loc": 12,
+          "size": 1227,
+          "contentLength": 1227,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/9773.3a9f4db99c48b4da.js",
+          "loc": 47,
+          "size": 11132,
+          "contentLength": 11131,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/webpack-3b4524ca268536f2.js",
+          "loc": 64,
+          "size": 10229,
+          "contentLength": 10229,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/framework-ebb493f39c522d88.js",
+          "loc": 176,
+          "size": 22318,
+          "contentLength": 22318,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/main-123a83373baf61ce.js",
+          "loc": 1101,
+          "size": 120886,
+          "contentLength": 120886,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/pages/_app-3288f323024ba0f8.js",
+          "loc": 762,
+          "size": 85290,
+          "contentLength": 85290,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/chunks/pages/index-f45b5c0a9b0d5b17.js",
+          "loc": 71,
+          "size": 8499,
+          "contentLength": 8499,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/Sj_j8Tvjio7MBs9_FkvBj/_buildManifest.js",
+          "loc": 1,
+          "size": 2574,
+          "contentLength": 2574,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/Sj_j8Tvjio7MBs9_FkvBj/_ssgManifest.js",
+          "loc": 1,
+          "size": 91,
+          "contentLength": 91,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://sgqcvfjvr.onet.pl/YnVpbGQvezlza2x0MjAzfWRsQXBpL2RsLmxpYntOTWFzXzIwM30ubWluLmpz",
+          "loc": 2309,
+          "size": 311423,
+          "contentLength": 311414,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://artemis-cdn.ocdn.eu/artemis/0.5.1/artemis.min.js?fa8f07e515b3b91ec6c30e4fe5c88735",
+          "loc": 185,
+          "size": 16140,
+          "contentLength": 16140,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+          "loc": 1441,
+          "size": 80610,
+          "contentLength": 80610,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022102001.js",
+          "loc": 9136,
+          "size": 387133,
+          "contentLength": 387133,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://ocdn.eu/adp/prebid/prod/6.15/prebid.js?v=24",
+          "loc": 2746,
+          "size": 391115,
+          "contentLength": 391115,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://c.amazon-adsystem.com/aax2/apstag.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.nl/adsid/integrator.js?domain=www.onet.pl",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://adservice.google.com/adsid/integrator.js?domain=www.onet.pl",
+          "loc": 1,
+          "size": 107,
+          "contentLength": 107,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s-eu-1.pushpushgo.com/scripts/634e5ba97835b7fa572cd9c4/sentry.js",
+          "loc": 627,
+          "size": 71458,
+          "contentLength": 71458,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s-eu-1.pushpushgo.com/scripts/634e5ba97835b7fa572cd9c4/plugin-push.js",
+          "loc": 473,
+          "size": 27139,
+          "contentLength": 27139,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s-eu-1.pushpushgo.com/scripts/634e5ba97835b7fa572cd9c4/plugin-beacon.js",
+          "loc": 101,
+          "size": 11061,
+          "contentLength": 11061,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://ocdn.eu/paywall-cdn/paywall.slim.min.js?v=3",
+          "loc": 555,
+          "size": 115627,
+          "contentLength": 115540,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://pulsembed.eu/pulsembed.js",
+          "loc": 73,
+          "size": 7251,
+          "contentLength": 7251,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn.brandmetrics.com/tag/55264f219caf410499e18628624d80a9/GLOWNA.js",
+          "loc": 53,
+          "size": 5688,
+          "contentLength": 5688,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s-eu-1.pushpushgo.com/js/60c0a82cd1fc3a4aedfab705.js",
+          "loc": 806,
+          "size": 79729,
+          "contentLength": 79729,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 2680,
+        "size": 240522,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 9634,
+        "size": 1174944,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 23875,
+        "size": 1682890,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 4,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 36189,
+        "size": 3098356,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 4,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://static.onet.pl/_next/static/css/f2cf545551edd581.css",
+          "anim_keyframes": 0,
+          "css_selectors": 108,
+          "size": 9024,
+          "contentLength": 8896,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/f2cf545551edd581.css",
+          "anim_keyframes": 0,
+          "css_selectors": 108,
+          "size": 9024,
+          "contentLength": 8896,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/e6bdeecbd4025c0f.css",
+          "anim_keyframes": 5,
+          "css_selectors": 413,
+          "size": 38033,
+          "contentLength": 38020,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/e6bdeecbd4025c0f.css",
+          "anim_keyframes": 5,
+          "css_selectors": 413,
+          "size": 38033,
+          "contentLength": 38020,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/8a3bcccf1dd7101e.css",
+          "anim_keyframes": 10,
+          "css_selectors": 242,
+          "size": 19561,
+          "contentLength": 19561,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/8a3bcccf1dd7101e.css",
+          "anim_keyframes": 10,
+          "css_selectors": 242,
+          "size": 19561,
+          "contentLength": 19561,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/df85d247834a96f8.css",
+          "anim_keyframes": 0,
+          "css_selectors": 13,
+          "size": 1710,
+          "contentLength": 1710,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/df85d247834a96f8.css",
+          "anim_keyframes": 0,
+          "css_selectors": 13,
+          "size": 1710,
+          "contentLength": 1710,
+          "internal": true
+        },
+        {
+          "url": "https://static.onet.pl/_next/static/css/f2ce12785d415e6f.css",
+          "anim_keyframes": 0,
+          "css_selectors": 21,
+          "size": 1303,
+          "contentLength": 1303,
+          "internal": true
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Google%20Sans%20Display%3A400%2C500",
+          "anim_keyframes": 0,
+          "css_selectors": 2,
+          "size": 509,
+          "contentLength": 509,
+          "internal": false
+        }
+      ],
+      "inline_styles": 92,
+      "embedded": {
+        "anim": 15,
+        "css_selectors": 681,
+        "size": 68376
+      },
+      "internal": {
+        "anim": 30,
+        "css_selectors": 1573,
+        "size": 137959
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 2,
+        "size": 509
+      },
+      "total": {
+        "anim": 45,
+        "css_selectors": 2256,
+        "size": 206844
+      }
+    }
+  },
+  "pinterest.com": {
+    "website": "pinterest.com",
+    "html": {
+      "size": 44050,
+      "info": {
+        "divs": 515,
+        "forms": 0,
+        "anchors": 20,
+        "href": 20,
+        "svg": 7,
+        "select": 0,
+        "input": 1,
+        "textArea": 0,
+        "button": 3
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://s.pinimg.com/webapp/runtime-217b3e3e4fd8f7bf.mjs",
+          "loc": 69,
+          "size": 37480,
+          "contentLength": 19438,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/polyfills-8e6094537011230b.mjs",
+          "loc": 26,
+          "size": 18367,
+          "contentLength": 9697,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/locale-en_US-lite-js-ec0964e29688452e.mjs",
+          "loc": 2,
+          "size": 487,
+          "contentLength": 261,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/vendor-react-135363361ed201cb.mjs",
+          "loc": 504,
+          "size": 231486,
+          "contentLength": 120788,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/83119-bf2846aecaf22668.mjs",
+          "loc": 265,
+          "size": 134157,
+          "contentLength": 69909,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/67631-fd050582776b9311.mjs",
+          "loc": 302,
+          "size": 131892,
+          "contentLength": 68609,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/92604-68bfdaae70d60167.mjs",
+          "loc": 39,
+          "size": 18510,
+          "contentLength": 9612,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/31551-bb31e72711125079.mjs",
+          "loc": 63,
+          "size": 23531,
+          "contentLength": 12289,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/76775-fc56cfb59e3e3691.mjs",
+          "loc": 37,
+          "size": 17027,
+          "contentLength": 8881,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/21151-2aa45cc094f2ea5d.mjs",
+          "loc": 18,
+          "size": 13417,
+          "contentLength": 6965,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/79386-62250759e352a860.mjs",
+          "loc": 17,
+          "size": 5527,
+          "contentLength": 2893,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/27950-1a840d813bb3fd84.mjs",
+          "loc": 40,
+          "size": 19728,
+          "contentLength": 10299,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/85680-a3afb8658c78eaad.mjs",
+          "loc": 26,
+          "size": 11594,
+          "contentLength": 6075,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/95814-e9673aff1adea6af.mjs",
+          "loc": 21,
+          "size": 7991,
+          "contentLength": 4117,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/43896-24ab7078a170cdc5.mjs",
+          "loc": 60,
+          "size": 32444,
+          "contentLength": 16925,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/8053-24bf645fe13bdb1e.mjs",
+          "loc": 45,
+          "size": 17672,
+          "contentLength": 9250,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/76532-b355d52d50b0718b.mjs",
+          "loc": 29,
+          "size": 14788,
+          "contentLength": 7786,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/88273-66807416b9ce4450.mjs",
+          "loc": 22,
+          "size": 8774,
+          "contentLength": 4541,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/98462-1740fb0a7fe58cd7.mjs",
+          "loc": 58,
+          "size": 27065,
+          "contentLength": 14180,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/19183-136cc455c0d12905.mjs",
+          "loc": 47,
+          "size": 21027,
+          "contentLength": 10952,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/82088-95a9a3e1e30ef013.mjs",
+          "loc": 197,
+          "size": 92204,
+          "contentLength": 48020,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/51023-37d9979d95b3986b.mjs",
+          "loc": 14,
+          "size": 9658,
+          "contentLength": 5012,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/57636-d65ea66260442568.mjs",
+          "loc": 20,
+          "size": 9921,
+          "contentLength": 5207,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/53882-048e9b08ec5fdd94.mjs",
+          "loc": 137,
+          "size": 55736,
+          "contentLength": 28962,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/66937-077882d979cd6daf.mjs",
+          "loc": 48,
+          "size": 24432,
+          "contentLength": 12631,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/264-4bf33dcf7ea194f2.mjs",
+          "loc": 45,
+          "size": 21188,
+          "contentLength": 11120,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/www/index-authdesktop-462ec724488ba8ed.mjs",
+          "loc": 203,
+          "size": 99786,
+          "contentLength": 52033,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/81983-c9faf1e4f6b4f19a.mjs",
+          "loc": 18,
+          "size": 7831,
+          "contentLength": 4105,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/30102-bb54e7877b7b1130.mjs",
+          "loc": 22,
+          "size": 11169,
+          "contentLength": 5830,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/29635-ca6da01994210b89.mjs",
+          "loc": 3,
+          "size": 721,
+          "contentLength": 374,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/13439-5ff5d4fe094c4e91.mjs",
+          "loc": 17,
+          "size": 8558,
+          "contentLength": 4448,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/79246-1adc7738995defa4.mjs",
+          "loc": 24,
+          "size": 10377,
+          "contentLength": 5481,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/60014-f6b47178d053d720.mjs",
+          "loc": 30,
+          "size": 11694,
+          "contentLength": 6184,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/www/_client-authdesktop-59c616c61d86acb3.mjs",
+          "loc": 611,
+          "size": 296483,
+          "contentLength": 154867,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/28478-f3fa18b8940394e4.mjs",
+          "loc": 39,
+          "size": 18956,
+          "contentLength": 9788,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/61074-eeaaeefcbd4bab72.mjs",
+          "loc": 21,
+          "size": 8006,
+          "contentLength": 4188,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/www/pin/[id]-authdesktop-fa4529c5c6550249.mjs",
+          "loc": 1105,
+          "size": 496124,
+          "contentLength": 258865,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/www/search/[scope]-authdesktop-c82893ae900f70ed.mjs",
+          "loc": 464,
+          "size": 208344,
+          "contentLength": 108835,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/15115-93ce5ba9aae832e9.mjs",
+          "loc": 35,
+          "size": 14610,
+          "contentLength": 7596,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/66113-b392581fa64863c5.mjs",
+          "loc": 37,
+          "size": 17449,
+          "contentLength": 9102,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/26067-b25fa8c35de63340.mjs",
+          "loc": 18,
+          "size": 7369,
+          "contentLength": 3751,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/72826-de0010208a84de33.mjs",
+          "loc": 40,
+          "size": 17143,
+          "contentLength": 8999,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/40367-6aadb6ac37158653.mjs",
+          "loc": 27,
+          "size": 10727,
+          "contentLength": 5559,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/37234-b952f1245d4a1529.mjs",
+          "loc": 29,
+          "size": 14271,
+          "contentLength": 7458,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/www/[username]-mobile-a3673077ac6a3a3f.mjs",
+          "loc": 3,
+          "size": 813,
+          "contentLength": 422,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://accounts.google.com/gsi/client",
+          "loc": 2647,
+          "size": 195341,
+          "contentLength": 195341,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/locale-en_US-lite-js-ec0964e29688452e.mjs",
+          "loc": 2,
+          "size": 487,
+          "contentLength": 261,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://radar.cedexis.com/1/14290/radar.js",
+          "loc": 1187,
+          "size": 44897,
+          "contentLength": 44897,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 38,
+        "size": 375603,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 4899,
+        "size": 2267021,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 3834,
+        "size": 240238,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 8771,
+        "size": 2882862,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://s.pinimg.com/webapp/www/_client-authdesktop-62e375bb8ae548db.css",
+          "anim_keyframes": 0,
+          "css_selectors": 65,
+          "size": 30578,
+          "contentLength": 15739,
+          "internal": true
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/www/pin/[id]-authdesktop-62bbd4d7c8e22f17.css",
+          "anim_keyframes": 0,
+          "css_selectors": 1,
+          "size": 270,
+          "contentLength": 149,
+          "internal": true
+        },
+        {
+          "url": "https://s.pinimg.com/webapp/PinSaveButtonCommon-415b2f5366b440f1.css",
+          "anim_keyframes": 0,
+          "css_selectors": 0,
+          "size": 478,
+          "contentLength": 241,
+          "internal": true
+        },
+        {
+          "url": "https://accounts.google.com/gsi/style",
+          "anim_keyframes": 0,
+          "css_selectors": 7,
+          "size": 533,
+          "contentLength": 533,
+          "internal": false
+        }
+      ],
+      "inline_styles": 261,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 146,
+        "size": 14431
+      },
+      "internal": {
+        "anim": 0,
+        "css_selectors": 66,
+        "size": 31326
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 7,
+        "size": 533
+      },
+      "total": {
+        "anim": 0,
+        "css_selectors": 219,
+        "size": 46290
+      }
+    }
+  },
+  "pwa.snagajob.com": {
+    "website": "pwa.snagajob.com",
+    "html": {
+      "size": 33945,
+      "info": {
+        "divs": 90,
+        "forms": 0,
+        "anchors": 47,
+        "href": 47,
+        "svg": 5,
+        "select": 0,
+        "input": 4,
+        "textArea": 0,
+        "button": 3
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://assets.adobedtm.com/launch-EN2294097629d546ae941d7ed94e11c293.min.js",
+          "loc": 2932,
+          "size": 408048,
+          "contentLength": 408048,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://refer.snagajob.com/core.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement.min.js",
+          "loc": 327,
+          "size": 33557,
+          "contentLength": 33557,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/extensions/EP171e731c9ba34f1c950c36d26e3efd61/AppMeasurement_Module_ActivityMap.min.js",
+          "loc": 33,
+          "size": 3301,
+          "contentLength": 3301,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/signals/plugins/identity.js?v=2.9.88",
+          "loc": 918,
+          "size": 65286,
+          "contentLength": 65286,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/en_US/fbevents.js",
+          "loc": 1675,
+          "size": 105267,
+          "contentLength": 105267,
+          "internal": false,
+          "xmlHttpCalls": 4,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://service.force.com/embeddedservice/menu/fab.min.js",
+          "loc": 45,
+          "size": 4869,
+          "contentLength": 4869,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/launch-EN2294097629d546ae941d7ed94e11c293.min.js",
+          "loc": 2932,
+          "size": 408048,
+          "contentLength": 408048,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://bat.bing.com/bat.js",
+          "loc": 429,
+          "size": 39008,
+          "contentLength": 39007,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://bat.bing.com/bat.js",
+          "loc": 429,
+          "size": 39008,
+          "contentLength": 39007,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://bat.bing.com/p/action/5665927.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/en_US/fbevents.js",
+          "loc": 1675,
+          "size": 105267,
+          "contentLength": 105267,
+          "internal": false,
+          "xmlHttpCalls": 4,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://refer.snagajob.com/core.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://pwa.snagajob.com/runtime.8a22f855b9396c04.js",
+          "loc": 45,
+          "size": 4831,
+          "contentLength": 4831,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://pwa.snagajob.com/polyfills.008b47b1e0b5b565.js",
+          "loc": 426,
+          "size": 45496,
+          "contentLength": 45496,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://pwa.snagajob.com/main.593ba00e37aeb81b.js",
+          "loc": 13030,
+          "size": 2409550,
+          "contentLength": 2409550,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://service.force.com/embeddedservice/5.0/utils/common.min.js",
+          "loc": 75,
+          "size": 4933,
+          "contentLength": 4933,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://service.force.com/embeddedservice/5.0/utils/inert.min.js",
+          "loc": 114,
+          "size": 8294,
+          "contentLength": 8294,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 90,
+        "size": 3455,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 13501,
+        "size": 2459877,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 11584,
+        "size": 1224886,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 8,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 25175,
+        "size": 3688218,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 8,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://pwa.snagajob.com/styles.1ac6d870c9c5d832.css",
+          "anim_keyframes": 10,
+          "css_selectors": 2341,
+          "size": 250181,
+          "contentLength": 250181,
+          "internal": true
+        }
+      ],
+      "inline_styles": 4,
+      "embedded": {
+        "anim": 3,
+        "css_selectors": 590,
+        "size": 68750
+      },
+      "internal": {
+        "anim": 10,
+        "css_selectors": 2341,
+        "size": 250181
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 13,
+        "css_selectors": 2931,
+        "size": 318931
+      }
+    }
+  },
+  "realcity.io": {
+    "website": "realcity.io",
+    "html": {
+      "size": 13089,
+      "info": {
+        "divs": 77,
+        "forms": 0,
+        "anchors": 7,
+        "href": 7,
+        "svg": 9,
+        "select": 0,
+        "input": 0,
+        "textArea": 0,
+        "button": 4
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://realcity.io/cdn-cgi/apps/head/aywm3HX9srXJX69EIP7tFwRE3a4.js",
+          "loc": 18,
+          "size": 6597,
+          "contentLength": 6597,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://use.fontawesome.com/releases/v5.0.6/js/all.js",
+          "loc": 337,
+          "size": 672449,
+          "contentLength": 672449,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://realcity.io/bundle.8ca63694423c3b802c11.js",
+          "loc": 8,
+          "size": 2014,
+          "contentLength": 2014,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 8,
+        "size": 443,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 26,
+        "size": 8611,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 1457,
+        "size": 722679,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 1491,
+        "size": 731733,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+          "anim_keyframes": 2,
+          "css_selectors": 1515,
+          "size": 121200,
+          "contentLength": 121200,
+          "internal": false
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Nunito",
+          "anim_keyframes": 0,
+          "css_selectors": 1,
+          "size": 196,
+          "contentLength": 196,
+          "internal": false
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro",
+          "anim_keyframes": 0,
+          "css_selectors": 1,
+          "size": 206,
+          "contentLength": 206,
+          "internal": false
+        },
+        {
+          "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+          "anim_keyframes": 0,
+          "css_selectors": 2,
+          "size": 475,
+          "contentLength": 475,
+          "internal": false
+        }
+      ],
+      "inline_styles": 0,
+      "embedded": {
+        "anim": 2,
+        "css_selectors": 214,
+        "size": 18370
+      },
+      "internal": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "external": {
+        "anim": 2,
+        "css_selectors": 1519,
+        "size": 122077
+      },
+      "total": {
+        "anim": 4,
+        "css_selectors": 1733,
+        "size": 140447
+      }
+    }
+  },
+  "sharechat.com": {
+    "website": "sharechat.com",
+    "html": {
+      "size": 205168,
+      "info": {
+        "divs": 997,
+        "forms": 1,
+        "anchors": 75,
+        "href": 75,
+        "svg": 128,
+        "select": 0,
+        "input": 1,
+        "textArea": 0,
+        "button": 86
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://sb.scorecardresearch.com/cs/32247496/beacon.js",
+          "loc": 62,
+          "size": 3690,
+          "contentLength": 3690,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://polyfill.io/v3/polyfill.min.js?features=Promise",
+          "loc": 255,
+          "size": 22548,
+          "contentLength": 22548,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NRK367D",
+          "loc": 2562,
+          "size": 129617,
+          "contentLength": 129617,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://sharechat.com/app.35ea6c234bad0332e2a3.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://sharechat.com/main.5a11402ba8f73ae0074e.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://sharechat.com/meta.465e77b9fe9ce2b24000.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://sharechat.com/vendor.f940b990d87f7c91d174.js",
+          "loc": 2524,
+          "size": 229771,
+          "contentLength": 229761,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 15,
+        "size": 2473,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 2524,
+        "size": 229801,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 3999,
+        "size": 206085,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 6538,
+        "size": 438359,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://sharechat.com/app.6753148ee75c224c08db.css",
+          "anim_keyframes": 0,
+          "css_selectors": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": true
+        },
+        {
+          "url": "https://sharechat.com/app.6753148ee75c224c08db.css",
+          "anim_keyframes": 0,
+          "css_selectors": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": true
+        }
+      ],
+      "inline_styles": 177,
+      "embedded": {
+        "anim": 0,
+        "css_selectors": 239,
+        "size": 13271
+      },
+      "internal": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 20
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 0,
+        "css_selectors": 239,
+        "size": 13291
+      }
+    }
+  },
+  "smartfren.com": {
+    "website": "smartfren.com",
+    "html": {
+      "size": 112143,
+      "info": {
+        "divs": 461,
+        "forms": 2,
+        "anchors": 160,
+        "href": 160,
+        "svg": 10,
+        "select": 0,
+        "input": 16,
+        "textArea": 0,
+        "button": 9
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://cdn-akamai.mookie1.com/adv/default.js",
+          "loc": 0,
+          "size": 0,
+          "contentLength": 0,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn-akamai.mookie1.com/adv/mapping.js",
+          "loc": 111,
+          "size": 8630,
+          "contentLength": 8630,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/en_US/fbevents.js",
+          "loc": 1675,
+          "size": 105267,
+          "contentLength": 105267,
+          "internal": false,
+          "xmlHttpCalls": 4,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.ads-twitter.com/uwt.js",
+          "loc": 664,
+          "size": 57596,
+          "contentLength": 57596,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+          "loc": 860,
+          "size": 42035,
+          "contentLength": 42035,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M2KRRWR",
+          "loc": 5101,
+          "size": 321531,
+          "contentLength": 321531,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js?ver=5.6",
+          "loc": 647,
+          "size": 89476,
+          "contentLength": 89476,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+          "loc": 60,
+          "size": 11224,
+          "contentLength": 11224,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/translatepress-multilingual/assets/js/trp-frontend-compatibility.js?ver=1.9.2",
+          "loc": 7,
+          "size": 777,
+          "contentLength": 777,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://analytics.tiktok.com/i18n/pixel/identify.js",
+          "loc": 286,
+          "size": 116889,
+          "contentLength": 116771,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/helpie-faq/assets/main.bundle.js?ver=1.4.3",
+          "loc": 58,
+          "size": 9675,
+          "contentLength": 9674,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70",
+          "loc": 53,
+          "size": 9545,
+          "contentLength": 9545,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4",
+          "loc": 19,
+          "size": 1834,
+          "contentLength": 1834,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.5.1",
+          "loc": 6,
+          "size": 2139,
+          "contentLength": 2139,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.5.1",
+          "loc": 13,
+          "size": 2938,
+          "contentLength": 2938,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/themes/ucms/js/bootstrap.bundle.min.js?ver=4.5.3",
+          "loc": 479,
+          "size": 83507,
+          "contentLength": 83507,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/themes/ucms/dist/custom.js?ver=1.1",
+          "loc": 790,
+          "size": 183104,
+          "contentLength": 183104,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/themes/ucms/js/jquery.validate.min.js?ver=1.1",
+          "loc": 94,
+          "size": 24415,
+          "contentLength": 24414,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/themes/ucms/js/mysf.js?ver=1.1",
+          "loc": 214,
+          "size": 14597,
+          "contentLength": 14597,
+          "internal": true,
+          "xmlHttpCalls": 1,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=4.6.6",
+          "loc": 15,
+          "size": 4522,
+          "contentLength": 4522,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/siteorigin-panels/js/styling.min.js?ver=2.14.0",
+          "loc": 12,
+          "size": 1319,
+          "contentLength": 1319,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn-akamai.mookie1.com/LB/LightningBolt.js",
+          "loc": 323,
+          "size": 24248,
+          "contentLength": 24248,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 173,
+        "size": 12075,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 1820,
+        "size": 349596,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 1,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 10787,
+        "size": 815902,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 4,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 12780,
+        "size": 1177573,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 5,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://www.smartfren.com/app/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=1.9.2",
+          "anim_keyframes": 0,
+          "css_selectors": 16,
+          "size": 2528,
+          "contentLength": 2528,
+          "internal": true
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=4.6.6",
+          "anim_keyframes": 0,
+          "css_selectors": 63,
+          "size": 6811,
+          "contentLength": 6811,
+          "internal": true
+        },
+        {
+          "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css?ver=1.1",
+          "anim_keyframes": 6,
+          "css_selectors": 2113,
+          "size": 160392,
+          "contentLength": 160392,
+          "internal": false
+        },
+        {
+          "url": "https://www.smartfren.com/app/themes/ucms/assets/vendors/fontawesome/css/all.min.css?ver=5.12.1",
+          "anim_keyframes": 2,
+          "css_selectors": 1460,
+          "size": 57333,
+          "contentLength": 57333,
+          "internal": true
+        },
+        {
+          "url": "https://www.smartfren.com/app/themes/ucms/dist/style.css?ver=1.0.0",
+          "anim_keyframes": 2,
+          "css_selectors": 1173,
+          "size": 97837,
+          "contentLength": 97834,
+          "internal": true
+        },
+        {
+          "url": "https://www.smartfren.com/app/themes/ucms/dist/custom.css?ver=5.6",
+          "anim_keyframes": 18,
+          "css_selectors": 3148,
+          "size": 280888,
+          "contentLength": 280874,
+          "internal": true
+        },
+        {
+          "url": "https://www.smartfren.com/app/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.14.0",
+          "anim_keyframes": 0,
+          "css_selectors": 15,
+          "size": 1311,
+          "contentLength": 1311,
+          "internal": true
+        }
+      ],
+      "inline_styles": 69,
+      "embedded": {
+        "anim": 1,
+        "css_selectors": 205,
+        "size": 26533
+      },
+      "internal": {
+        "anim": 22,
+        "css_selectors": 5875,
+        "size": 446708
+      },
+      "external": {
+        "anim": 6,
+        "css_selectors": 2113,
+        "size": 160392
+      },
+      "total": {
+        "anim": 29,
+        "css_selectors": 8193,
+        "size": 633633
+      }
+    }
+  },
+  "stg.xfinity.com": {
+    "website": "stg.xfinity.com",
+    "html": {
+      "size": 75606,
+      "info": {
+        "divs": 186,
+        "forms": 2,
+        "anchors": 159,
+        "href": 159,
+        "svg": 21,
+        "select": 0,
+        "input": 2,
+        "textArea": 0,
+        "button": 25
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://cdn.stg.comcast.com/-/media/Common/adrum/adrumext4a8dd0f950e3f613a821c330eb081cdc.js",
+          "loc": 1051,
+          "size": 52241,
+          "contentLength": 52241,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn.stg.comcast.com/-/media/Common/adrum/adrum20202928.js",
+          "loc": 1937,
+          "size": 104887,
+          "contentLength": 104887,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://stg.xfinity.com/xfinity-learn-ui/269.4a591b4fd5bed3f89e14.js",
+          "loc": 13346,
+          "size": 1664031,
+          "contentLength": 1655576,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://stg.xfinity.com/xfinity-learn-ui/main.70b3a0db699518410ca3.js",
+          "loc": 6379,
+          "size": 1395295,
+          "contentLength": 1395138,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/launch-b1e98b81687d-staging.min.js",
+          "loc": 3690,
+          "size": 571322,
+          "contentLength": 571322,
+          "internal": false,
+          "xmlHttpCalls": 1,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://static.cimcontent.net/data-layer/nonprod?appID=resi_shop_2",
+          "loc": 725,
+          "size": 101989,
+          "contentLength": 101989,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.stg.xfinity.com/akam/13/400f6ca9",
+          "loc": 0,
+          "size": 9,
+          "contentLength": 9,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement.min.js",
+          "loc": 327,
+          "size": 33462,
+          "contentLength": 33462,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement_Module_ActivityMap.min.js",
+          "loc": 33,
+          "size": 3303,
+          "contentLength": 3303,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement_Module_AudienceManagement.min.js",
+          "loc": 131,
+          "size": 25115,
+          "contentLength": 25115,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn-prod.securiti.ai/consent/auto_blocking/4b9bbe2a-9c5d-4512-bb76-768a8ea32bc0/cc730d05-9ec1-4ce6-9756-57f0eb653650.js",
+          "loc": 86,
+          "size": 35271,
+          "contentLength": 35271,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn-prod.securiti.ai/consent/cookie-consent-sdk.js",
+          "loc": 1040,
+          "size": 188935,
+          "contentLength": 188935,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCcd7330ed47584cd388b974fce097dc55-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCb6a2864acd8d42d0b58f4f08890ee53c-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC625569b919a64006aab80887af3359d2-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC37c960ab9bab46fbbceb74a4f50b238f-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCcbc84982663d4533b6434bfa975f6925-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCbd59c48c0b0440c5a9e0fba9bfb743c7-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC62ee81a4e76c456e84f4423cf4427b46-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC402eed9b7a3a455db89157d76a282d72-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCa943ba338121477a8922b2b6a49eae08-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCd4fc8387391a4be1b89284d7c67c29dc-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC3de8b7fb312c492db0289a7b5193ccf0-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCda369e40955b40eba2978b9a03e82a8a-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC6499f7f09e114d8f8e05cc72f4e44d81-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC601a7b0be12c43ce8b4d4e57be2fcff0-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCd8229e603e2c4959a384d03289f5be25-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC6ce9bb0844b745868e0104b228c0f2c2-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RC115d0c0a77034a2392e239889ccd17ee-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCc700b8deef7645c5b0531694eb13b57f-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://assets.adobedtm.com/331fbea29f79/a5b25a446515/2d3a5b92147c/RCfffe7992431a4e14a35ec6362598d352-source.min.js",
+          "loc": 0,
+          "size": 10,
+          "contentLength": 10,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://polaris.staging.xfinity.com/polaris.learnnav.wc.js",
+          "loc": 1144,
+          "size": 129441,
+          "contentLength": 129441,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 216,
+        "size": 166901,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 1,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 23857,
+        "size": 3345904,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 6032,
+        "size": 959587,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 1,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 30105,
+        "size": 4472392,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 2,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://stg.xfinity.com/xfinity-learn-ui/269.cd3bf735db85e1201c68.css",
+          "anim_keyframes": 20,
+          "css_selectors": 2844,
+          "size": 223761,
+          "contentLength": 223761,
+          "internal": true
+        },
+        {
+          "url": "https://stg.xfinity.com/xfinity-learn-ui/main.cd3bf735db85e1201c68.css",
+          "anim_keyframes": 20,
+          "css_selectors": 1072,
+          "size": 114480,
+          "contentLength": 114480,
+          "internal": true
+        },
+        {
+          "url": "https://cdn.stg.comcast.com/cmp/css/cookie-consent.css",
+          "anim_keyframes": 2,
+          "css_selectors": 475,
+          "size": 55562,
+          "contentLength": 55562,
+          "internal": true
+        }
+      ],
+      "inline_styles": 39,
+      "embedded": {
+        "anim": 3,
+        "css_selectors": 1012,
+        "size": 120853
+      },
+      "internal": {
+        "anim": 42,
+        "css_selectors": 4391,
+        "size": 393803
+      },
+      "external": {
+        "anim": 0,
+        "css_selectors": 0,
+        "size": 0
+      },
+      "total": {
+        "anim": 45,
+        "css_selectors": 5403,
+        "size": 514656
+      }
+    }
+  },
+  "voyage-prive.nl": {
+    "website": "voyage-prive.nl",
+    "html": {
+      "size": 110673,
+      "info": {
+        "divs": 518,
+        "forms": 1,
+        "anchors": 106,
+        "href": 106,
+        "svg": 2,
+        "select": 0,
+        "input": 9,
+        "textArea": 0,
+        "button": 130
+      }
+    },
+    "js": {
+      "scripts": [
+        {
+          "url": "https://via.batch.com/3.3.1/sdk.min.js",
+          "loc": 682,
+          "size": 168490,
+          "contentLength": 168480,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://actorssl-5637.kxcdn.com/actor/1dfa6189a41f9ab89676c048b0e1cf62-654/action",
+          "loc": 850,
+          "size": 81428,
+          "contentLength": 81428,
+          "internal": false,
+          "xmlHttpCalls": 1,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/nl_NL/sdk.js?hash=ddbe6eef238884521312ab4423c911be",
+          "loc": 4597,
+          "size": 312877,
+          "contentLength": 312877,
+          "internal": false,
+          "xmlHttpCalls": 3,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/en_US/fbevents.js",
+          "loc": 1675,
+          "size": 105267,
+          "contentLength": 105267,
+          "internal": false,
+          "xmlHttpCalls": 4,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://via.batch.com/v3/bootstrap.min.js",
+          "loc": 36,
+          "size": 7442,
+          "contentLength": 7442,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://cdn.branch.io/branch-latest.min.js",
+          "loc": 91,
+          "size": 39818,
+          "contentLength": 20853,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://www.google-analytics.com/analytics.js",
+          "loc": 1120,
+          "size": 50230,
+          "contentLength": 50230,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://vnl1.voyage-prive.nl/rive7659.js",
+          "loc": 547,
+          "size": 36639,
+          "contentLength": 36639,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/tracking.nl_NL.js?v=4c3f5718c3e6ddb082435505836983a4",
+          "loc": 273,
+          "size": 16489,
+          "contentLength": 16489,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/trackingExternal.nl_NL.js?v=1d18b4a2afa038156d14d95d36b65e18",
+          "loc": 6196,
+          "size": 410506,
+          "contentLength": 410497,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://connect.facebook.net/nl_NL/sdk.js",
+          "loc": 26,
+          "size": 3093,
+          "contentLength": 3093,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/nl_NL/appleid.auth.js",
+          "loc": 109,
+          "size": 44001,
+          "contentLength": 43997,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://code.jquery.com/jquery-3.5.1.min.js",
+          "loc": 647,
+          "size": 89476,
+          "contentLength": 89476,
+          "internal": false,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/s/statics/libs/jquery-3.5.1.min.js",
+          "loc": 647,
+          "size": 89476,
+          "contentLength": 89476,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/global.nl_NL.js?v=eda04f913de423bdfb3c38c2c7eb2090",
+          "loc": 3182,
+          "size": 210693,
+          "contentLength": 210446,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 3
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/singlePageApp.nl_NL.js?v=d93d5eaf2a9c4a8f8a16f8ec22b4d80d",
+          "loc": 18,
+          "size": 794,
+          "contentLength": 794,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/commonVendor.bundle.nl_NL.js?v=42404e0e5e1ce2969eeda992467633c8",
+          "loc": 3896,
+          "size": 372500,
+          "contentLength": 372217,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/common.bundle.nl_NL.js?v=4db95a756d252e9d74d6f1b49ed4e320",
+          "loc": 561,
+          "size": 99889,
+          "contentLength": 99881,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/appVendor.bundle.nl_NL.js?v=7d07c8d6fa1c1451f89527a724b430d4",
+          "loc": 15862,
+          "size": 1885180,
+          "contentLength": 1884869,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        },
+        {
+          "url": "https://voyage-prive.nl/assets/js/app.bundle.nl_NL.js?v=fc54e531c73ad730b5c821bf4aabd282",
+          "loc": 4758,
+          "size": 1074381,
+          "contentLength": 1074265,
+          "internal": true,
+          "xmlHttpCalls": 0,
+          "ajaxCalls": 0
+        }
+      ],
+      "embedded": {
+        "loc": 126,
+        "size": 41513,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "internal": {
+        "loc": 35940,
+        "size": 4196547,
+        "ajaxCalls": 3,
+        "xmlHttpCalls": 0,
+        "eventListeners": 0
+      },
+      "external": {
+        "loc": 10953,
+        "size": 952352,
+        "ajaxCalls": 0,
+        "xmlHttpCalls": 8,
+        "eventListeners": 0
+      },
+      "total": {
+        "loc": 47019,
+        "size": 5190412,
+        "ajaxCalls": 3,
+        "xmlHttpCalls": 8,
+        "eventListeners": 0
+      }
+    },
+    "css": {
+      "links": [
+        {
+          "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic&amp;subset=latin,latin-ext",
+          "anim_keyframes": 0,
+          "css_selectors": 7,
+          "size": 1471,
+          "contentLength": 1471,
+          "internal": false
+        },
+        {
+          "url": "https://voyage-prive.nl/s/scss/common.css?v=f5429f64793a1733ef7585ea14a6c9d8",
+          "anim_keyframes": 6,
+          "css_selectors": 2289,
+          "size": 179906,
+          "contentLength": 179906,
+          "internal": true
+        },
+        {
+          "url": "https://voyage-prive.nl/s/scss/sdv.css?v=dc5b03e34d80b0d42600b5ca9848c245",
+          "anim_keyframes": 4,
+          "css_selectors": 2588,
+          "size": 279470,
+          "contentLength": 279470,
+          "internal": true
+        },
+        {
+          "url": "https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css",
+          "anim_keyframes": 4,
+          "css_selectors": 110,
+          "size": 30570,
+          "contentLength": 30570,
+          "internal": false
+        }
+      ],
+      "inline_styles": 157,
+      "embedded": {
+        "anim": 15,
+        "css_selectors": 265,
+        "size": 27279
+      },
+      "internal": {
+        "anim": 10,
+        "css_selectors": 4877,
+        "size": 459376
+      },
+      "external": {
+        "anim": 4,
+        "css_selectors": 117,
+        "size": 32041
+      },
+      "total": {
+        "anim": 29,
+        "css_selectors": 5259,
+        "size": 518696
+      }
+    }
+  }
+}

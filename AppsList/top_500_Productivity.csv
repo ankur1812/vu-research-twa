@@ -1,0 +1,501 @@
+appID, appName,rating,max_installs,category
+com.google.android.apps.docs,Google Drive,4.3,7028265259,Productivity
+com.google.android.calendar,Google Calendar,4.3,2651720962,Productivity
+com.microsoft.skydrive,Microsoft OneDrive,4.5,2056017889,Productivity
+com.microsoft.office.word,Microsoft Word: Write; Edit & Share Docs on the Go,4.4,1651577965,Productivity
+com.samsung.android.email.provider,Samsung Email,4.3,1616141394,Productivity
+com.microsoft.office.excel,Microsoft Excel: View; Edit, & Create Spreadsheets,4.4,1521046735,Productivity
+com.microsoft.office.powerpoint,Microsoft PowerPoint: Slideshows and Presentations,4.3,1506590187,Productivity
+com.sec.app.samsungprintservice,Samsung Print Service Plugin,4.1,1446535469,Productivity
+com.google.android.keep,Google Keep - Notes and Lists,4.3,1241023726,Productivity
+com.google.android.apps.docs.editors.docs,Google Docs,4.3,1138899116,Productivity
+com.dropbox.android,Dropbox: Cloud Storage; Photo Backup, File Manager,4.2,1062119808,Productivity
+com.policydm,Samsung Security Policy Update,4.2,1047187089,Productivity
+com.samsung.android.app.notes,Samsung Notes,4.7,1020174726,Productivity
+com.google.android.apps.docs.editors.sheets,Google Sheets,4,985261388,Productivity
+com.google.android.apps.docs.editors.slides,Google Slides,4.2,899535623,Productivity
+com.hp.android.printservice,HP Print Service Plugin,4.4,877836018,Productivity
+com.touchtype.swiftkey,Microsoft SwiftKey Keyboard,4.3,853403545,Productivity
+com.microsoft.office.onenote,Microsoft OneNote: Save Ideas and Organize Notes,4.3,748155646,Productivity
+com.adobe.reader,Adobe Acrobat Reader: PDF Viewer; Editor & Creator,4.6,604257328,Productivity
+com.sec.pcw,Samsung Link (Terminated),4.1,539007518,Productivity
+com.microsoft.office.outlook,Microsoft Outlook: Secure email; calendars & files,4.6,512539534,Productivity
+com.google.android.apps.googleassistant,Google Assistant - Get things done; hands-free,4.1,495747294,Productivity
+com.microsoft.appmanager,Your Phone Companion - Link to Windows,4,481929427,Productivity
+com.motorola.ccc.notification,Motorola Notifications,4.1,397002859,Productivity
+com.jio.myjio,MyJio: For Everything Jio,4.2,395736952,Productivity
+cn.wps.moffice_eng,WPS Office - Free Office Suite for Word;PDF,Excel,4.6,381092446,Productivity
+com.microsoft.office.officehubrow,Microsoft Office: Word; Excel, PowerPoint & More,4.3,374936237,Productivity
+com.evernote,Evernote - Notes Organizer & Daily Planner,3.9,335257689,Productivity
+com.google.android.apps.subscriptions.red,Google One,4.3,276119841,Productivity
+com.intsig.camscanner,CamScanner - Scanner to scan PDF,4.7,268472107,Productivity
+com.xiaomi.calendar,Mi Calendar,4.1,229424043,Productivity
+com.myairtelapp,Airtel Thanks – Recharge; Bill Pay, UPI & Bank,4.3,204188016,Productivity
+com.samsung.android.spdfnote,Write on PDF,3.8,194221907,Productivity
+com.samsung.android.spdclient,Samsung Security Policy Update,4.3,179657276,Productivity
+com.rsupport.mvagent,Mobizen Screen Recorder,4.3,171179337,Productivity
+com.socialnmobile.dictapps.notepad.color.note,ColorNote Notepad Notes,4.8,168035112,Productivity
+com.asus.calculator,Calculator - unit converter,4.6,133035018,Productivity
+com.teacapps.barcodescanner,QR & Barcode Reader,4.6,131181655,Productivity
+com.vcast.mediamanager,Verizon Cloud,4.4,127352573,Productivity
+mega.privacy.android.app,MEGA,3.6,114852613,Productivity
+com.ecareme.asuswebstorage,ASUS WebStorage - Cloud Drive,4,112624334,Productivity
+com.att.myWireless,myAT&T,3.4,101938399,Productivity
+com.transsion.carlcare,Carlcare,4.3,98659228,Productivity
+com.asus.asusincallui,ASUS Calling Screen,4.2,96884758,Productivity
+com.instabridge.android,Free WiFi Passwords & Hotspots by Instabridge,4.3,95290985,Productivity
+com.asus.task,Do It Later: Tasks & To-Dos,4.3,94969190,Productivity
+com.privacystar.android.metro,Metro Name ID,4.1,92308150,Productivity
+com.downlood.sav.whmedia,Status Saver - Download for Whatsapp,4.4,89041085,Productivity
+io.wifimap.wifimap,Free WiFi Passwords; Offline maps & VPN. WiFi Map®,4.4,84214709,Productivity
+com.mventus.selfcare.activity,Vi™ App,4,78553050,Productivity
+com.teamviewer.teamviewer.market.mobile,TeamViewer Remote Control,3.9,78181326,Productivity
+com.hp.printercontrol,HP Smart,4.2,69274562,Productivity
+com.alphainventor.filemanager,File Manager,4.7,68350547,Productivity
+com.avg.cleaner,AVG Cleaner – Junk Cleaner; Memory & RAM Booster,4.7,64606343,Productivity
+com.infraware.office.link,Polaris Office - Free Docs; Sheets, Slides + PDF,3.9,63848395,Productivity
+com.alarmclock.xtreme.free,Alarm Clock Xtreme: Alarm; Reminders, Timer (Free),4.3,62060010,Productivity
+at.nk.tools.iTranslate,iTranslate Translator & Dictionary,3.8,62028950,Productivity
+cn.wps.moffice_i18n,WPS Office Lite,4.3,61495971,Productivity
+com.sonymobile.getmore,Xperia™ Tips Service,3.9,59901433,Productivity
+com.htc.filemanager,HTC File Manager,4.3,59306793,Productivity
+com.microsoft.translator,Microsoft Translator,4.6,58770097,Productivity
+com.dencreak.dlcalculator,ClevCalc - Calculator,4.6,57189368,Productivity
+com.sonymobile.getmore.client,Xperia™ Tips,4.3,57188913,Productivity
+com.wsandroid.suite,Mobile Security: VPN Proxy & Anti Theft Safe WiFi,4.5,57122701,Productivity
+la.droid.qr,QR Droid,4.3,55005356,Productivity
+com.apalon.myclockfree,Alarm Clock for Me free,4.4,54760466,Productivity
+ridmik.keyboard,Ridmik Keyboard,4.3,53562861,Productivity
+com.coffeebeanventures.easyvoicerecorder,Easy Voice Recorder,4.7,52002552,Productivity
+com.htc.android.mail,HTC Mail,4,50676763,Productivity
+com.htc.calendar,HTC Calendar,4.1,42154759,Productivity
+com.teamviewer.quicksupport.market,TeamViewer QuickSupport,3.4,41644049,Productivity
+com.securityandprivacy.android.verizon.vms,Digital Secure,4.1,39820673,Productivity
+com.htc.lucy,HTC Scribble,4.2,39554738,Productivity
+lg.uplusbox,U+Box (cloud),3.9,37965398,Productivity
+qrcodereader.barcodescanner.scan.qrscanner,FREE QR Scanner: Barcode Scanner & QR Code Scanner,4.8,37391553,Productivity
+com.nll.acr,Call Recorder - ACR,3.5,37321503,Productivity
+com.luckydeveloper.apkshare,Apk Share Bluetooth - Send/Backup/Uninstall/Manage,4.3,36258932,Productivity
+call.sms.flash.alert,Flash Alert : Call & Sms,4.5,35459669,Productivity
+com.google.android.apps.enterprise.dmagent,Google Apps Device Policy,4.1,34709898,Productivity
+com.callpod.android_apps.keeper,Keeper Password Manager,4.5,34127675,Productivity
+com.digilocker.android,DigiLocker,4.4,33729225,Productivity
+com.microsoft.office.officelens,Microsoft Lens - PDF Scanner,4.8,33555570,Productivity
+com.nqmobile.antivirus20,Mobile Security & Antivirus Free,4.6,33413924,Productivity
+in.gov.umang.negd.g2c,UMANG,4,33341112,Productivity
+com.nic.mparivahan,mParivahan,4.4,32782657,Productivity
+com.todoist,Todoist: To-Do List; Tasks & Reminders,4.5,32140864,Productivity
+com.kitkatandroid.keyboard,Keyboard - Emoji; Emoticons,4.5,31322442,Productivity
+com.advancedprocessmanager,Assistant for Android,4.4,31294447,Productivity
+com.chrome.beta,Chrome Beta,4.3,31042500,Productivity
+co.solovpn,Solo VPN - One Tap Free Proxy,4.2,30486801,Productivity
+com.tracfone.wifiutility,Wi-Fi Utility,4.1,30468935,Productivity
+com.nhn.android.ndrive,NAVER MYBOX,3.6,30322708,Productivity
+com.callerid.block,Caller ID - Phone Dialer; Call Blocker,4.2,29601867,Productivity
+flashlight.led.clock,Flashlight,4.4,28887485,Productivity
+uk.co.nickfines.RealCalc,RealCalc Scientific Calculator,4.5,27539027,Productivity
+jp.co.johospace.jorte,Calendar; Personal Planner & Diary - Jorte,4,27444199,Productivity
+mobi.infolife.taskmanager,Advanced Task Manager,4,27155798,Productivity
+com.workpail.inkpad.notepad.notes,Inkpad Notepad & To do list,4.7,26964436,Productivity
+com.anydo,Any.do - To do list; planner & calendar,4.4,26024874,Productivity
+com.apple.qrcode.reader,QR code reader,4.7,25891370,Productivity
+com.autodesk.autocadws,AutoCAD - DWG Viewer & Editor,3.7,25731792,Productivity
+com.smsrobot.callrecorder,Call Recorder - Automatic Call Recorder - callX,4.2,25715879,Productivity
+org.mopria.printplugin,Mopria Print Service,4.4,25358120,Productivity
+com.winzip.android,WinZip – Zip UnZip Tool,3.5,25330876,Productivity
+com.iclean.master.boost,iClean - Booster; Super Virus Cleaner, Master,4.8,25297093,Productivity
+ru.mail.cloud,Cloud: Free Photo Storage. Video & Photo Backup,4.6,24857835,Productivity
+com.wetransfer.app.live,Collect by WeTransfer,4.4,24561188,Productivity
+com.peake.hindicalender,2021 Calendar,4.2,24536109,Productivity
+com.samsung.android.galaxycontinuity,Samsung Flow,3.8,24047599,Productivity
+com.degoo.android,Degoo: 100 GB Cloud Storage,4.4,23795711,Productivity
+ru.yandex.disk,Yandex.Disk,4.7,23099636,Productivity
+droom.sleepIfUCan,Alarmy - Morning Alarm Clock,4.6,22920906,Productivity
+com.lampe.torcher.flashlight,Flashlight: LED Light,4.3,22865855,Productivity
+br.gov.dataprev.meuinss,Meu INSS – Central de Serviços,3.3,22812160,Productivity
+com.micromaxinfo.analytics,Micromax Diagnostics,3.7,22622529,Productivity
+com.rsupport.rsperm.af.a23th,Plugin:AOT v23,3.1,22534164,Productivity
+com.flashalerts3.oncallsmsforall,Flash notification on Call & all messages,4.6,22350955,Productivity
+com.tenqube.notisave,Notisave,3.8,22226979,Productivity
+com.grammarly.android.keyboard,Grammarly - Grammar Keyboard,4.1,21820762,Productivity
+com.jrummy.root.browserfree,File Explorer Root Browser,3.9,21789270,Productivity
+cc.forestapp,Forest: Stay focused,4.7,21750659,Productivity
+com.netqin.mobileguard,Booster & Cleaner - Keeps phone fast; Power saving,4.6,21585756,Productivity
+de.yuzhi.supervpn,SuperNet VPN- Free Unlimited Proxy; Secure Browser,3.5,21571408,Productivity
+com.emeint.android.myservices,Ana Vodafone,4.1,20656029,Productivity
+com.tracfone.preload.accountservices,Device Pulse,3.8,20559828,Productivity
+imoblife.toolbox.full,All-In-One Toolbox: Cleaner; Speed& Widget,4.5,20464961,Productivity
+com.speedsoftware.explorer,Explorer,4,20388886,Productivity
+com.cv.docscanner,Document Scanner - (Made in India) PDF Creator,4.5,20363332,Productivity
+com.vidmar.pti,Image to PDF Converter | Free JPG to PDF,4.4,20338267,Productivity
+org.whiteglow.keepmynotes,Keep My Notes - Notepad; Memo and Checklist,4.4,20264593,Productivity
+com.tricolorcat.calculator,Calculator,4.1,19692146,Productivity
+com.emojifamily.emoji.keyboard.font.twitteremoji,Emoji keyboard - Cute Emoji,4.1,19673577,Productivity
+com.xodo.pdf.reader,Xodo PDF Reader & Editor,4.6,19377108,Productivity
+com.estmob.android.sendanywhere,Send Anywhere (File Transfer),4.8,19150417,Productivity
+com.claro.pe.miclaro,Mi Claro Perú,2.8,17969551,Productivity
+com.ultra.applock,Ultra AppLock-Ultra AppLock protects your privacy.,4.4,17933526,Productivity
+com.smsrobot.callu,Call Recorder - Automatic Call Recorder Pro,4.3,17606274,Productivity
+mobi.infolife.uninstaller,Easy Uninstaller App Uninstall,4.2,17596094,Productivity
+jio.cloud.drive,JioCloud - Free Cloud Storage,4.3,17028526,Productivity
+com.martianmode.applock,AppLocker | Lock Apps - Fingerprint; PIN, Pattern,4.3,16713967,Productivity
+us.gospeed.speedvpn,SpeedVPN Free VPN Proxy,4.4,16316162,Productivity
+com.trello,Trello: Organize anything with anyone; anywhere!,4.5,16185481,Productivity
+com.security.antivirus.clean,Antivirus; Virus Cleaner, Super Clean - iSecurity,4.4,16087419,Productivity
+com.cyou.privacysecurity,LOCX Applock Lock Apps & Photo,4.4,15924665,Productivity
+com.generalmobile.assistant,General Mobile Assistant,4.2,15698780,Productivity
+com.pakdata.easyurdu,Easy Urdu Keyboard 2021 - اردو - Urdu on Photos,4.4,15657392,Productivity
+com.cam.scanner.camscanner.documentscanner,Scanner Go- PDF Scanner; PDF Creator, Scanner App,4.3,15352038,Productivity
+com.a0soft.gphone.aDataOnOff,2 Battery - Battery Saver,4.2,15208446,Productivity
+ru.andrey.notepad,Notepad,4,14953654,Productivity
+com.kpt.xploree.app,Xploree AI Keyboard – GIFs; Stickers, Smart Themes,4.2,14810108,Productivity
+com.tracfone.wifiutility2,Wi-Fi Utility,4,14746401,Productivity
+com.trustedapp.pdfreaderpdfviewer,PDF Reader - PDF Viewer,4.5,14679303,Productivity
+com.crazyapps.mobilelocationtracker,GPS Location Finder,4,14660450,Productivity
+org.wordpress.android,WordPress,4.4,14597288,Productivity
+com.att.mobiletransfer,AT&T Mobile Transfer,4.6,14510759,Productivity
+tr.com.turkcell.akillidepo,lifebox,4.6,14305575,Productivity
+com.entel.movil,Mi Entel Perú - Activa y controla tu línea,2.4,14083670,Productivity
+com.appshare.shrethis.appshare,Share Apps - APK Transfer; App Sharing & Backup,4.1,14049262,Productivity
+com.ibragunduz.applockpro,AppLock Pro - App Lock & Privacy Guard for Apps,4.5,13822305,Productivity
+shareit.lite,SHAREit Lite - Share & File Transfer App; Share it,4.3,13798910,Productivity
+com.mediafire.android,MediaFire,3.8,13755596,Productivity
+sa.gov.moi,Absher | أبشر,4.6,13754695,Productivity
+ar.com.basejuegos.simplealarm,Simple Alarm Clock Free,4.5,13590935,Productivity
+com.tf.thinkdroid.viewer,Hancom Office Viewer,2.7,13537475,Productivity
+com.splendapps.splendo,To Do List,4.8,13411907,Productivity
+in.bsnl.portal.bsnlportal,My BSNL App,2.9,13290636,Productivity
+com.documentreader.documentapp.filereader,All Document Reader: PDF; excel, word, Documents,4.3,13281830,Productivity
+com.sec.print.mobileprint,Samsung Mobile Print,3.6,13269970,Productivity
+camscanner.documentscanner.pdfreader,Scanner App - Scan PDF Documents; PDF Scanner,4.4,13249376,Productivity
+net.omobio.robisc,My Robi,4.3,13096309,Productivity
+com.ascal.pdfreader.pdfviewer,PDF Reader & PDF Viewer - eBook Reader; PDF Editor,4.3,13046092,Productivity
+com.etisalat,My Etisalat,4.5,13028832,Productivity
+com.zentertain.flashlight3,Best Flashlight,4.3,12762363,Productivity
+com.brother.printservice,Brother Print Service Plugin,3.6,12686035,Productivity
+ridmik.keyboard.classic,Ridmik Classic Keyboard,4.3,12497971,Productivity
+com.jb.gokeyboard.langpack.es,Spanish Language - GO Keyboard,4.1,12441580,Productivity
+com.adobe.fas,Adobe Fill & Sign: Easy PDF Doc & Form Filler.,4.2,12268650,Productivity
+document.scanner.scan.pdf.image.text,Document Scanner - Free Scan PDF & Image to Text,4.3,12173553,Productivity
+saveit.whatsappstatussaver.whatsappsaver,All Status Saver for WhatsApp - Status Downloader,4.5,12107874,Productivity
+imoblife.memorybooster.lite,Memory Booster - Super Cleaner & Max Booster,4.5,12066783,Productivity
+com.steroid.launcher,Steroid Launcher,3.7,11976551,Productivity
+tdp.app.col,Mi Movistar Perú,3.2,11749981,Productivity
+com.stc,mystc KSA,4.5,11723575,Productivity
+net.flashsoft.flashvpn.activity,FlashVPN Free VPN Proxy,4.6,11557195,Productivity
+com.gau.go.launcherex.gowidget.clockwidget,GO Clock Widget,3.9,11499831,Productivity
+com.fancyapp.qrcode.barcode.scanner.reader,Extreme QR code reader & QR code scanner app,4.3,11451558,Productivity
+com.lastpass.lpandroid,LastPass Password Manager,3,11336969,Productivity
+com.microsoft.todos,Microsoft To Do: List; Task & Reminder,4.6,11106302,Productivity
+com.atomczak.notepat,Notepad Free,4.5,10983115,Productivity
+org.withouthat.acalendar,aCalendar - a calendar app for Android,4.1,10901365,Productivity
+com.mtn1app,MyMTN,4,10880371,Productivity
+com.psafe.cleaner,dfndr performance: clean; boost, speed & space,4.7,10876009,Productivity
+com.jrzheng.supervpnpayment,SuperVPN Pro,4.5,10822092,Productivity
+com.adaffix.publisher.tr.android,Kim Ariyor? Caller ID & Block,4.3,10659701,Productivity
+com.wix.android,Spaces: Connect with Your Favorite Business.,4.3,10640622,Productivity
+com.gau.go.launcherex.gowidget.calendarwidget,GO Calendar Widget,3.6,10602473,Productivity
+com.archos.filemanager,Archos File Manager,4.1,10547153,Productivity
+com.SouthernPacificOceanFisher.VoiceToText_memo,Voice Notes,4.2,10518838,Productivity
+com.hamropatro,Hamro Patro : The Best Nepali Patro 🇳🇵,4.4,10496673,Productivity
+com.q4u.vewdeletedmessage,WhatsDeleted: Recover Deleted Messages,3.9,10362082,Productivity
+com.bazinga.cacheclean,Clear Cache - Optimize & Clear Junk,4.3,10278436,Productivity
+com.rhythm.hexise.uninst,Uninstaller,4,10080026,Productivity
+com.google.android.apps.m4b,Google My Maps,3.8,10053576,Productivity
+com.symcoding.widget.stickynotes,Sticky Notes + Widget,4,10012253,Productivity
+com.verizon.contenttransfer,Content Transfer,4.5,9932148,Productivity
+com.wdc.wd2go,My Cloud,3.9,9874319,Productivity
+com.orange.mobinilandme,My Orange Egypt,4,9858179,Productivity
+com.nhn.android.calendar,Naver Calendar,4.1,9849954,Productivity
+org.openintents.filemanager,OI File Manager,4.2,9831725,Productivity
+com.google.android.apps.tasks,Google Tasks: Any Task; Any Goal. Get Things Done,4.5,9807583,Productivity
+com.gstarmc.android,DWG FastView-CAD Viewer & Editor,4.5,9779567,Productivity
+me.bluemail.mail,Email Blue Mail - Calendar & Tasks,4.6,9718050,Productivity
+jp.Appsys.PanecalST,Calculator,4.1,9529472,Productivity
+com.worldclass.status.downloader,Status Saver,3.9,9519988,Productivity
+com.myvodafoneapp,My Vodafone,3.7,9476174,Productivity
+com.officedocument.word.docx.document.viewer,Word Office - Docx; Excel, Slide, Office Document,3.4,9388420,Productivity
+com.domobile.aut.bbeam,AppLock Theme Beam,4.1,9295303,Productivity
+com.solotech.apps.document.viewer.reader.scaner.pdfreader,Document Reader : Documents Viewer - PDF Creator,4.4,9256436,Productivity
+com.gingersoftware.android.keyboard,Ginger Keyboard - Emoji; GIFs, Themes & Games,4.4,9093230,Productivity
+idm.full.free,IDM Download Manager ★★★★★,4,9070245,Productivity
+yqtrack.app,ALL-IN-ONE PACKAGE TRACKING,4.8,8973413,Productivity
+com.wsandroid.suite.tmobile,McAfee® Security for T-Mobile,4.4,8971681,Productivity
+com.digibites.calendar,DigiCal Calendar Agenda,4.4,8902936,Productivity
+com.flyperinc.flychat,Flychat,3.5,8847393,Productivity
+com.lwi.android.flapps,Floating Apps Free (multitasking),4.1,8827822,Productivity
+org.pocketworkstation.pckeyboard,Hacker's Keyboard,4.2,8817937,Productivity
+com.gau.go.launcherex.gowidget.notewidget,GO Note Widget,3.8,8743187,Productivity
+com.galaxyapps.routefinder,Route Finder,4.3,8696767,Productivity
+jp.ne.kutu.Panecal,Panecal Scientific Calculator,4.6,8686219,Productivity
+com.fooview.android.fooview,fooView - FV Float Viewer; File, Video, Explorer,4.5,8683807,Productivity
+com.appgenix.bizcal,Business Calendar 2 - Agenda; Planner & Widgets,4.7,8674158,Productivity
+tm.app.worldClock,World Clock & Widget,4.5,8635572,Productivity
+com.renard.ocr,Text Fairy (OCR Text Scanner),4.6,8604162,Productivity
+hindicalender.panchang.horoscope.calendar,2021 ka Calendar,4.4,8551233,Productivity
+com.syntellia.fleksy.keyboard,Fleksy Free keyboard Themes with Emojis Swipe-type,4.2,8435053,Productivity
+com.ojassoft.astrology,Kundli Software: Astrology & Horoscope; Chat/ Call,4.3,8377848,Productivity
+com.ticktalk.pdfconverter,PDF Converter (doc ppt xls txt word png jpg wps),4,8367693,Productivity
+net.omobio.airtelsc,My Airtel - Bangladesh,4.3,8350799,Productivity
+com.aitype.android.lang.ar,Arabic for ai.type keyboard,4.5,8349437,Productivity
+dcmobile.thinkyeah.recyclebin,RecycleMaster: RecycleBin; File Recovery, Undelete,2.8,8344448,Productivity
+com.docusign.ink,DocuSign - Upload & Sign Docs,4.6,8275723,Productivity
+com.meltingsource.DocsViewer,Docs Viewer,4.2,8194356,Productivity
+kr.go.minwon.m,정부24(구 민원24),1.6,8187894,Productivity
+cleanmaster.phone.memory.booster.cleaner,Cleaner - Phone Booster,4.4,8103562,Productivity
+kdev.restoredelete.photos,Restore Deleted Photos - Picture Recovery,3.4,8103510,Productivity
+com.rim.mobilefusion.client,BlackBerry UEM Client,3.8,8076518,Productivity
+np.com.njs.autophotos,US 2x2" Photo Editor - Passport Size Photo at Home,4.6,8071052,Productivity
+the.pdfviewer3,PDF Viewer & Book Reader,4.2,8035269,Productivity
+works.jubilee.timetree,TimeTree - Free Shared Calendar,4.5,8028921,Productivity
+com.appeteria.battery100alarm,Battery 100% Alarm,4.2,7934356,Productivity
+ar.gob.argentinagobar,Mi Argentina,3.3,7919873,Productivity
+com.prezi.android,Prezi Viewer,3.9,7862900,Productivity
+org.ebookdroid,EBookDroid - PDF & DJVU Reader,4.4,7801761,Productivity
+com.peace.TextScanner,Text Scanner [OCR],4.6,7782555,Productivity
+app.greyshirts.firewall,NoRoot Firewall,4.2,7772802,Productivity
+mobi.freeapps.flashlight.free,Flashlight (free & without popup ads),4.7,7618055,Productivity
+com.ifttt.ifttt,IFTTT,3.6,7571120,Productivity
+com.docxreader.docx.reader,Docx Reader - Docx Viewer Offline,3.9,7532870,Productivity
+com.aconvert.jpg2pdf,JPG to PDF Converter,4.4,7481699,Productivity
+com.sandisk.mz,SanDisk Memory Zone,4.2,7454356,Productivity
+com.supervpn.vpn.free.proxy,VPN Proxy - Super Speed VPN Unblock Master,4.5,7437522,Productivity
+com.dencreak.esmemo,ClevNote - Notepad; Checklist,4.6,7412220,Productivity
+com.itbenefit.android.calendar,Calendar Widget Month + Agenda,4.3,7401852,Productivity
+com.office.reader.all.docs.viewer,All Documents Viewer: Office Suite Doc Reader,4.3,7313797,Productivity
+com.sensopia.magicplan,magicplan,4.4,7301765,Productivity
+com.betafish.adblocksbrowser,AdBlock for Samsung Internet,3.6,7215140,Productivity
+com.rs.explorer.filemanager,RS File : File Manager & Explorer EX,4.4,7195767,Productivity
+com.genie9.gcloudbackup,G Cloud Backup,4.4,7175237,Productivity
+com.flufflydelusions.app.enotesclassiclite,Classic Notes Lite - Notepad,4,7107870,Productivity
+com.notebloc.app,Notebloc Scanner App - Scan; save & share as PDF,4.6,7070387,Productivity
+jp.co.yahoo.android.ybackup,Yahoo!かんたんバックアップ-電話帳や写真を自動で保存,4.4,7037754,Productivity
+artline.com.galaxy,Flashlight LED - Universe,4.8,7008534,Productivity
+com.s.cleaner,AVG Cleaner Lite,4.6,7002661,Productivity
+com.viettran.INKredible,INKredible - Handwriting Note,3.8,6990971,Productivity
+at.tomtasche.reader,LibreOffice & OpenOffice document reader | ODF,4,6975196,Productivity
+and.mms.ezhuthani,Ezhuthani  - Tamil Keyboard - Voice Keyboard,4.5,6954019,Productivity
+la.droid.qr.priva,QR Droid Private™,4.4,6950088,Productivity
+com.globile.mycontactbackup,MCBackup - My Contacts Backup,4.1,6944049,Productivity
+com.foxit.mobile.pdf.lite,Foxit PDF Editor,4.2,6876585,Productivity
+de.dhl.paket,Post & DHL,4.2,6870663,Productivity
+com.dentwireless.dentapp,DENT: eSIM data plans & data top-up for all phones,3.4,6857689,Productivity
+it.ideasolutions.amerigo,Amerigo,4.5,6851320,Productivity
+com.smsrobot.call.recorder.callsbox,Call Recorder - CallsBox,4.3,6837990,Productivity
+netgenius.bizcal,Business Calendar,4.3,6735001,Productivity
+com.entertain.androxls,AndroXLS editor for XLS sheets,2.9,6727483,Productivity
+es.aeat.pin24h,Cl@ve PIN,3.2,6716677,Productivity
+com.ape.camera.docscan,PDF Document Scanner Classic,4,6704465,Productivity
+me.wiman.androidApp,WiFi passwords and Free WiFi from Wiman,4.1,6675403,Productivity
+pl.solidexplorer2,Solid Explorer File Manager,4.4,6626366,Productivity
+mobi.browser.flashfox,FlashFox - Flash Browser,2.5,6618273,Productivity
+swifty.recoverdeletedata,Recover Deleted All Files; Photos and Contacts,3.3,6616530,Productivity
+com.rhmsoft.edit,QuickEdit Text Editor - Writer & Code Editor,4.4,6604132,Productivity
+canvasm.myo2,Mein o2,4.5,6574773,Productivity
+me.gira.widget.countdown,Countdown Widget,4.4,6536550,Productivity
+com.modlauncher.modforminecraft.xenthir,Master Mods for minecraft PE - mod mcpe Addons,3.8,6473939,Productivity
+com.sssgov.sssmobileapp,SSS Mobile,4.4,6466321,Productivity
+com.jb.gokeyboard.langpack.ru,Russian Language - GO Keyboard,4.2,6437848,Productivity
+com.byteexperts.texteditor,Text Editor,3.7,6435559,Productivity
+com.lookandfeel.qrcodescanner,QR & Barcode Scanner,4.3,6407610,Productivity
+com.heartfull.forms,FormsApp,4.2,6406538,Productivity
+com.dewmobile.kuaiya.web,Zapya WebShare - File Sharing in Web Browser,4.2,6403478,Productivity
+free.vpn.proxy.unblock.android.easy.app,VPN Easy,2.7,6401251,Productivity
+kdev.restore.deleted.photos,Recover Deleted Pictures - Restore Deleted Photos,4,6364305,Productivity
+com.photofy.android,Photofy Content Creation Platform,4.5,6358619,Productivity
+com.rcreations.ipcamviewerBasic,IP Cam Viewer Basic,3.7,6313202,Productivity
+com.fractal360.go.launcherex.theme.gfl,New Launcher 2021,4.4,6311575,Productivity
+com.tokasiki.android.voicerecorder,Voice Recorder,3.8,6264021,Productivity
+com.xfinity.digitalhome,Xfinity,3.5,6261266,Productivity
+np.com.nepalipatro,Nepali Patro : Nepali Calendar 2078,4.4,6246528,Productivity
+com.vestel.cloud,Vestel Cloud,3.6,6207407,Productivity
+com.rsupport.mobizen.cn,Mobizen Mirroring,3.1,6098211,Productivity
+com.ooredoo.selfcare,My Ooredoo Myanmar,4.4,6077768,Productivity
+park.hotm.email.app,Universal Email App,4.1,6060424,Productivity
+com.kaspersky.qrscanner,QR Code Reader and Scanner: App for Android,4.5,6048734,Productivity
+com.yoti.mobile.android.live,Yoti - your digital identity,3.2,6018733,Productivity
+com.mobile_infographics_tools.mydrive,Storage Analyzer & Disk Usage,4.5,6007314,Productivity
+com.pixatel.apps.notepad,Ultimate Notepad - #1 Notes App with Cloud Sync,4.2,5999449,Productivity
+com.asurion.android.protech.att,AT&T ProTech,4,5989226,Productivity
+com.steadfastinnovation.android.projectpapyrus,Squid - Take Notes & Markup PDFs,4.3,5986426,Productivity
+all.in.one.calculator,All-In-One Calculator,4.6,5985775,Productivity
+com.telmex.mitelmex,Telmex,2.4,5959879,Productivity
+com.ichangemycity.swachhbharat,Swachhata-MoHUA,2.9,5931443,Productivity
+com.clarodrive.android,Claro drive,4.5,5922646,Productivity
+com.aloha.browser,Aloha Browser Turbo - private browser + free VPN,4.4,5905998,Productivity
+com.telus.myaccount,My TELUS,4.1,5826743,Productivity
+com.statussaver.statusdownloader.videodownload.statussaverapp,Status Saver : Status Downloader for videos,3.9,5812318,Productivity
+com.vmons.app.alarm,Alarm clock,4.4,5771773,Productivity
+com.cometdocs.pdftoword,PDF to Word Converter,2.9,5759502,Productivity
+org.korosoft.simplenotepad.android,Notepad,4.5,5733978,Productivity
+com.crazysoftech.crazyflashlight,Crazy Flashlight LED Brightest,3.9,5715811,Productivity
+com.steppschuh.remotecontrolcollection,Remote Control Collection,4,5678932,Productivity
+co.pamobile.gamelauncher,Game Launcher Tuner for Boosting Performance,4.4,5659952,Productivity
+com.rhythm.hexise.task,Task Manager (Task Killer),3.8,5648307,Productivity
+bazinga.historyclean,Easy Cleaner - Clear Cache,4.4,5642916,Productivity
+com.cutestudio.pdf.camera.scanner,PDF Cam Scanner - Camera Scanner to PDF,4.8,5607769,Productivity
+file.manager.filemanager.browser.files,Share App: File Transfer; Share Files, Share Apps,4.2,5593973,Productivity
+com.microsoft.mobile.polymer,Microsoft Kaizala – Chat; Call & Work,4.6,5569534,Productivity
+com.sabaidea.aparat,Aparat,4.4,5558103,Productivity
+com.akapps.statussaver,Status Video Download – Story WA - Status Saver,4.2,5546639,Productivity
+com.followstat,iMetric: Profile Followers Analytics for Instagram,4.1,5542777,Productivity
+com.touchtype.swiftkey.beta,Microsoft SwiftKey Beta,4.3,5531751,Productivity
+com.google.android.apps.enterprise.cpanel,Google Admin,4,5520103,Productivity
+com.datacomprojects.scanandtranslate,Scan & Translate+ Text Grabber,4.2,5518374,Productivity
+io.clubhouse.clubhouse,Clubhouse,2.9,5517103,Productivity
+com.att.deviceunlock,AT&T Device Unlock,3.8,5486000,Productivity
+com.delitestudio.filetransferfree,File Transfer,2.9,5465403,Productivity
+com.granita.contacticloudsync,Sync for iCloud Contacts,4.4,5439872,Productivity
+com.tekxperiastudios.pdfexporter,E2PDF - Backup Restore SMS;Call,Contact,TrueCaller,4.2,5427378,Productivity
+net.doc.scanner,Doc Scanner - Phone PDF Creator,4.3,5390693,Productivity
+com.gmail.jmartindev.timetune,TimeTune - Optimize Your Time; Productivity & Life,4.4,5362642,Productivity
+jp.co.yahoo.android.ycalendar,Yahoo!カレンダー 無料スケジュールアプリで管理,4.7,5284677,Productivity
+com.rocketshipapps.adblockfast,Adblock Fast,3.9,5235048,Productivity
+ro.vodafone.mcare.android,My Vodafone Romania,2.5,5214641,Productivity
+kaagaz.scanner.docs.pdf,Kaagaz Scanner - Camera Scanner; PDF Reader & Scan,4.5,5211326,Productivity
+cz.psencik.com.android.contacts,True Contacts,4.2,5192206,Productivity
+com.shell.sitibv.motorist,Shell,2.9,5178035,Productivity
+co.speechnotes.speechnotes,Speechnotes - Speech To Text Notepad,4,5172132,Productivity
+com.koushikdutta.inkwire,Inkwire Screen Share + Assist,3.6,5157826,Productivity
+com.desoline.android.pdfreader,PDF Reader & Proxy,4.2,5142829,Productivity
+pdf.document.scanner,PDF Document Scanner,4,5140769,Productivity
+com.pushbullet.android,Pushbullet: SMS on PC and more,4.5,5134632,Productivity
+com.ultimategamestudio.mcpecenter.modmaker,Mod Maker for Minecraft PE,3.6,5117431,Productivity
+kl.ime.oh,Multiling O Keyboard + emoji,4.1,5104643,Productivity
+com.realvnc.viewer.android,VNC Viewer - Remote Desktop,4.6,5082029,Productivity
+com.blue.swan.pdfreader,PDF Reader Viewer 2021,4.2,5058890,Productivity
+com.macland.qrscanner,QR & Barcode Scanner,4.2,5048031,Productivity
+com.free.vpn.tunnel.secure,VPN Super - Speed Fast Unlimited VPN Tunnel App,4.5,5040914,Productivity
+com.acer.android.home,Acer Liquid Home,3.5,5017046,Productivity
+com.innover.imagetopdf,Image to PDF Converter | Free | Offline - DLM PDF,4.4,5003393,Productivity
+com.jbs.util.takescreen,Touchshot (Screenshot),4,4982932,Productivity
+com.andropenoffice,AndrOpen Office,3.9,4978435,Productivity
+com.orange.meditel.mediteletmoi,Orange et moi Maroc,4.2,4976665,Productivity
+com.smartwho.SmartQuickSettings,Smart Quick Settings,4.3,4950724,Productivity
+com.apalon.optimizer,Booster Kit,4.5,4944298,Productivity
+com.kmo.pdf.editor,WPS PDF Pro - All-powerful PDF Reader & Manager,3.9,4936092,Productivity
+com.ToDoReminder.gen,To Do Reminder with Alarm,4.5,4932352,Productivity
+net.doo.snap,SwiftScan - PDF Document Scanner,4.4,4921807,Productivity
+com.rhythm.hexise.inst,Installer - Install APK,3.6,4909915,Productivity
+com.gallery.photo.gallerypro,Gallery,4.1,4899492,Productivity
+com.microsoft.sharepoint,Microsoft SharePoint,4.5,4890595,Productivity
+br.com.correios.preatendimento,Correios,3.6,4843728,Productivity
+docments.reader.documentmanager.free,All Document Manager-Read All Office Documents,4.6,4832209,Productivity
+idm.video.free,☆ IDM Video Download Manager ☆,4.1,4799737,Productivity
+com.nhn.android.navermemo,네이버 메모 – Naver Memo,4.5,4780966,Productivity
+com.whatsapplock.gallerylock.ninexsoftech,Gallery Lock,4.1,4727020,Productivity
+com.onecwearable.keyboard,1C Big Keyboard,4.2,4719791,Productivity
+com.cozi.androidfree,Cozi Family Organizer,4.4,4700795,Productivity
+com.timleg.egoTimerLight,To-Do Calendar Planner,4.3,4697502,Productivity
+com.dashlane,Dashlane Password Manager,4.6,4687147,Productivity
+com.voyagerx.scanner,vFlat Scan - PDF Scanner; OCR,4.4,4675499,Productivity
+com.speechtotext.speak.voice.chat.write.converter.notes,Speech To Text Converter - Voice Typing App,4.2,4666703,Productivity
+com.roamingsquirrel.android.calculator,TechCalc Scientific Calculator,4.6,4664626,Productivity
+com.ea.image.text,Image To Text,3.4,4660706,Productivity
+jp.co.canon.oip.android.opal,Canon PRINT Business,4.1,4620512,Productivity
+org.freevpn,Free VPN by FreeVPN.org,4.3,4593055,Productivity
+co.blocksite,BlockSite - Stay Focused & Control Your Time,4,4579247,Productivity
+com.wallwisher.Padlet,Padlet,3.7,4554720,Productivity
+nithra.hindi.calendar,Hindi Calendar 2021 - हिंदी कैलेंडर 2021,4.5,4534262,Productivity
+com.bizsolution.keyboard,Phum Keyboard,4.4,4507671,Productivity
+fancyclean.boost.antivirus.junkcleaner,Fancy Cleaner 2021 - Antivirus; Booster, Cleaner,4.7,4478485,Productivity
+com.dlink.mydlink,mydlink Lite,3,4476164,Productivity
+com.blackberry.infrastructure,BlackBerry Hub+ Services,4.3,4469953,Productivity
+com.gau.go.launcherex.gowidget.timer,Timer,3.9,4458055,Productivity
+com.simplemobiletools.calendar,Simple Calendar - Easy Schedule & Agenda Planner,4.6,4449226,Productivity
+com.amazon.drive,Amazon Drive,4.1,4421378,Productivity
+prox.lab.calclock,Sectograph. Planner & Time manager on clock widget,4.6,4417776,Productivity
+pro.capture.screenshot,Screen Master: Screenshot & Longshot; Photo Markup,4.6,4416908,Productivity
+jp.fuukiemonster.webmemo,Save as Web Archive,4.4,4401284,Productivity
+tech.hexa,VPN by Ultra VPN - Secure Proxy & Unlimited VPN,3.6,4378078,Productivity
+com.modelmakertools.simplemindfree,SimpleMind Lite - Intuitive Mind Mapping,4.2,4375531,Productivity
+com.cardsapp.android,Cards - Mobile Wallet,4.5,4324057,Productivity
+com.govpk.citizensportal,Pakistan Citizen Portal,3.7,4296664,Productivity
+com.minecraft.pe.addons.mods,Mods. for. Minecraft PE - mcpe,3.7,4285810,Productivity
+com.qhfka0093.cutememo,Cute Note - DDay Todo,4.5,4271369,Productivity
+com.kafuiutils,Smart Kit 360,4.3,4269359,Productivity
+org.isoron.uhabits,Loop Habit Tracker,4.7,4258996,Productivity
+au.gov.dhs.centrelinkexpressplus,Express Plus Centrelink,3.8,4256436,Productivity
+com.aitype.android.f,ai.type Free Emoji Keyboard 2020,4.5,4249191,Productivity
+com.rsupport.mobizen.cn.k.sec,Mobizen Mirroring for SAMSUNG 4.x,3.3,4248566,Productivity
+com.clusterdev.hindikeyboard,Hindi Keyboard,4.5,4230510,Productivity
+com.Etisalat.ETIDA,My Etisalat UAE,4.2,4225127,Productivity
+net.tahutek.rajaongkir,RajaOngkir: Ongkos Kirim Lengkap dan Cek Resi,4.4,4207620,Productivity
+com.arabic.keyboard.arabic.language.keyboard.app,Arabic keyboard: Arabic Language Keyboard,4.3,4197903,Productivity
+com.dynamixsoftware.printhand,PrintHand Mobile Print,3.6,4196825,Productivity
+com.bigtexapps.android.notepad,Notepad,4.1,4158732,Productivity
+com.ticktalk.scannerdocument,PDF Scanner - Scan documents; photos, ID, passport,4.3,4148839,Productivity
+com.mobiistar.warranty,My Mobiistar - India,3.8,4108998,Productivity
+com.doodle.android,Doodle - Easy Scheduling,4.5,4092788,Productivity
+opofficial.pdfmaker,PDF Maker,3.7,4091392,Productivity
+com.bayer.cs.scouting,SCOUTING - Automate field diagnosis,3.8,4083324,Productivity
+com.aliendev.khmersmartkeyboard,Khmer Smart Keyboard,4.5,4081177,Productivity
+com.picsel.tgv.app.smartoffice,SmartOffice - View & Edit MS Office files & PDFs,4,4080421,Productivity
+com.surveymonkey,SurveyMonkey,4,4080340,Productivity
+com.cometdocs.pdfconverterultimate,PDF Converter,3.7,4078619,Productivity
+com.tasks.android,Tasks: Todo list; Task List, Reminder,4.7,4077659,Productivity
+pl.nenter.app.flashlightgalaxys,Flashlight Galaxy,4.7,4063505,Productivity
+com.pdfreaderviewer.pdfeditor,PDF reader - Image to PDF converter ; PDF viewer,4.2,4039348,Productivity
+com.anod.calendar,Simple Calendar Widget,3.2,4031213,Productivity
+com.teamviewer.host.market,TeamViewer Host,3.8,4024281,Productivity
+com.koushikdutta.vysor,Vysor - Android control on PC,3.1,4015998,Productivity
+com.okta.android.auth,Okta Verify,3.8,4011214,Productivity
+com.gion.android.GnMemoG,메모G_사진 메모; 비밀 노트, 할일 정리,4.1,4004652,Productivity
+smartroid.pronouncewhoiscalling,Announce Who Is Calling: Hands-Free 2020,4.5,4001326,Productivity
+com.emojismartneonkeyboard,Emoji Smart Neon keyboard,4.2,3988754,Productivity
+com.lrhsoft.shiftercalendar,Work Shift Calendar,4.7,3988434,Productivity
+notion.id,Notion - Notes; Tasks, Wikis,4.3,3979158,Productivity
+com.appbasic.celltracker,Location Tracker - Maps GPS Track & Location Trace,3.9,3972767,Productivity
+com.blackberry.blackberrylauncher,BlackBerry Launcher,4.1,3967174,Productivity
+com.devuni.flashlight.fastlight,TF: Fast Light,3.7,3966390,Productivity
+com.oneandone.controlcenter,1&1 Control-Center,4.4,3945707,Productivity
+com.lab465.SmoreApp,S’more - Earn Cash Rewards,4.4,3943827,Productivity
+com.amdroidalarmclock.amdroid,Alarm Clock for Heavy Sleepers — Loud + Smart Math,4.5,3937078,Productivity
+com.forsync,4Sync,3.9,3935910,Productivity
+com.hp.eprint.ppl.client,HP ePrint Enterprise (service),3.3,3930484,Productivity
+com.burockgames.timeclocker,StayFree - Screen Time Tracker & Limit App Usage,4.6,3925739,Productivity
+mobi.infolife.gamebooster,Game Booster & Launcher,3.9,3914722,Productivity
+com.taiwanmobile.pt.customerservice,台灣大哥大行動客服,3.8,3914341,Productivity
+com.mahalaxmi.marathi.pro,Mahalaxmi Dindarshika 2021,4.3,3908776,Productivity
+com.stoamigo.storage,AXEL – File Share; Transfer & Access,4.1,3905881,Productivity
+net.lepeng.superboxss,Super aTool Box-cache battery,4.3,3898419,Productivity
+easynotes.notes.notepad.notebook.privatenotes.note,Easy Notes - Notepad; Notebook, Free Notes App,4.7,3897177,Productivity
+com.ufoneselfcare,My Ufone,3.4,3893149,Productivity
+net.kreosoft.android.mynotes,My Notes - Notepad,4.6,3888129,Productivity
+com.clusterdev.tamilkeyboard,Tamil Keyboard,4.5,3873045,Productivity
+com.soomapps.qrandbarcodescanner,QR Code Scanner for Android - WeScan,4.4,3861619,Productivity
+com.blackberry.calendar,BlackBerry Hub+ Calendar,3.7,3843391,Productivity
+com.superelement.pomodoro,Focus To-Do: Pomodoro Timer & To Do List,4.6,3829486,Productivity
+com.sharpcast.sugarsync,SugarSync,3.6,3823624,Productivity
+com.easilydo.mail,Email - Lightning Fast & Secure Mail,4.6,3783005,Productivity
+com.dbd.pdfcreator,PDF Creator,3.7,3781656,Productivity
+com.minecraft.mcpeaddons,AddsOn for MCPE (Pocket Edition),3.5,3772291,Productivity
+com.statusdp.whatsappstatussaver,Status Saver For WhatsApp,4.1,3761890,Productivity
+com.wanam,Language Enabler,4.1,3754764,Productivity
+com.netgear.netgearup,NETGEAR Nighthawk – WiFi Router App,3.6,3746653,Productivity
+com.smartwho.SmartFileManager,Smart File Manager,4.4,3741253,Productivity
+qa.vodafone.myvodafone,My Vodafone (Qatar),3.8,3738211,Productivity
+com.ticktick.task,TickTick: ToDo List Planner; Reminder & Calendar,4.6,3732904,Productivity
+com.glority.everlens,Mobile Scanner - PDF Scanner App; Scan to PDF,4.1,3721527,Productivity
+com.splendapps.adler,Notepad,4.6,3711775,Productivity
+the.joevlc,JoeVLC Video Player,3.9,3682443,Productivity
+net.alph4.photowidget,Simple Photo Widget,4.2,3673796,Productivity
+uk.tapmedia.qrreader,QR Reader for Android,3.8,3645385,Productivity
+com.cenker.yardimci.app,CEYD-A Türkçe Geliştirilebilir Asistan - Ücretsiz,4.5,3623271,Productivity
+com.jotterpad.x,JotterPad - Writer; Screenplay, Novel,4.2,3606537,Productivity
+com.printeron.android.printplugin,PrinterOn Print Service,4.3,3605641,Productivity
+com.kibo.mobi.chelsea.fc.official.keyboard,Chelsea FC Official Keyboard,4.5,3590483,Productivity
+com.cunotic.recharge,اشحن! شحن برقم الهوية,4.3,3585032,Productivity
+com.avira.optimizer,Avira Optimizer - Cleaner and Battery Saver,4.4,3584629,Productivity
+org.dayup.gtask,GTasks: Todo List & Task List,3.6,3547353,Productivity
+photo.pdf.maker,Camera Scanner,4.2,3545981,Productivity
+com.iphoneringtone.ringtoneiphone,Ringtone for Iphone,4.3,3530805,Productivity
+com.pdfviewer.pdfreader,PDF File Reader,4.3,3526838,Productivity
+com.weebly.android,Weebly by Square,4.4,3516253,Productivity
+com.dayakomputer.Kalender,Kalender,4.6,3480766,Productivity
+my.mobi.android.apps4u.sdcardmanager,SD Card Manager (File Manager),3.8,3477916,Productivity
+com.skuld.calendario,Calendar - Agenda; Tasks and Events,4.5,3476189,Productivity
+com.hm.soft.talking.clock,সময় বলা ঘড়ি - talking time clock,4.3,3465413,Productivity
+com.xidau.translator,Translate All: Translation Voice Text & Dictionary,4,3459519,Productivity
+com.mervsy.notes,Notes,3.6,3444884,Productivity
+com.lwfd.indonesiavpn,Indonesia VPN - Plugin for OpenVPN,3.4,3444603,Productivity

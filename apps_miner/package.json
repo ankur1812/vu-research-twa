@@ -1,0 +1,16 @@
+{
+  "name": "apps_miner",
+  "version": "1.0.0",
+  "description": "Mine top apps data from kaggle",
+  "main": "app_miner.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankur1812",
+  "license": "ISC"
+}

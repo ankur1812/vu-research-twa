@@ -1,0 +1,501 @@
+appID, appName,rating,max_installs,category
+com.android.chrome,Google Chrome: Fast & Secure,4.1,8925640788,Communication
+com.google.android.gm,Gmail,4.2,8756574289,Communication
+com.whatsapp,WhatsApp Messenger,4,6265637751,Communication
+com.facebook.orca,Messenger – Text and Video Chat for Free,4,5054312355,Communication
+com.google.android.talk,Hangouts,4,5019518222,Communication
+com.sec.spp.push,Samsung Push Service,4.2,4186667750,Communication
+com.google.android.apps.tachyon,Google Duo - High Quality Video Calls,4.5,4022259636,Communication
+com.sec.android.app.sbrowser,Samsung Internet Browser,4.4,2167405314,Communication
+com.google.android.apps.messaging,Messages,4.4,1931517750,Communication
+com.google.android.ims,Carrier Services,4.3,1793502218,Communication
+com.skype.raider,Skype - free IM & video calls,4.3,1769991234,Communication
+com.dsi.ant.service.socket,ANT Radio Service,4,1494252350,Communication
+com.viber.voip,Viber Messenger - Free Video Calls & Group Chats,4.4,979421586,Communication
+com.UCMobile.intl,UC Browser-Secure; Free & Fast Video Downloader,4.4,964831762,Communication
+com.imo.android.imoim,imo free video calls and chat,4.1,926726001,Communication
+org.telegram.messenger,Telegram,4.5,885977963,Communication
+com.google.android.contacts,Contacts,4.3,885927111,Communication
+jp.naver.line.android,LINE: Free Calls & Messages,4.1,861495092,Communication
+com.facebook.mlite,Messenger Lite: Free Calls & Messages,3.9,810116851,Communication
+com.truecaller,Truecaller: ID & spam block,4.5,769820540,Communication
+com.opera.mini.native,Opera Mini - fast web browser,4.3,551153058,Communication
+com.google.android.gm.lite,Gmail Go,4.3,482430648,Communication
+com.whatsapp.w4b,WhatsApp Business,3.9,448188601,Communication
+com.uc.browser.en,UC Mini-Download Video Status & Movies,4,371730598,Communication
+com.tencent.mm,WeChat,3.6,355091178,Communication
+org.mozilla.firefox,Firefox Browser: fast; private & safe web browser,4.4,308244554,Communication
+com.transsion.phoenix,Phoenix Browser -Video Download; Private & Fast,4.4,279943129,Communication
+com.yahoo.mobile.client.android.mail,Yahoo Mail – Organized Email,4.5,278296041,Communication
+com.opera.browser,Opera Browser: Fast & Private,4.6,265907147,Communication
+com.discord,Discord - Talk; Video Chat & Hang Out with Friends,4.4,243895196,Communication
+com.imo.android.imoimbeta,imo beta free calls and text,4.1,222857987,Communication
+com.samsung.android.privateshare,Private Share,4,220723926,Communication
+com.kakao.talk,KakaoTalk: Free Calls & Text,4.1,216360130,Communication
+com.google.audio.hearing.visualization.accessibility.scribe,Live Transcribe & Sound Notifications,4.1,207044251,Communication
+com.azarlive.android,Azar - Video Chat,4.1,199778723,Communication
+kik.android,Kik,3.9,170834074,Communication
+com.jb.gosms,GO SMS Pro - Messenger; Free Themes, Emoji,4.4,151504314,Communication
+com.zing.zalo,Zalo - Video Call,4.3,131529357,Communication
+com.jio.join,JioCall,3.3,125896236,Communication
+com.callapp.contacts,CallApp: Caller ID; Call Blocker & Call Recorder,4.3,117110469,Communication
+com.sh.smart.caller,SmartCaller-Intelligence Caller,4.3,106365754,Communication
+com.asus.contacts,ZenUI Dialer & Contacts,4.4,101681020,Communication
+com.dstukalov.walocalstoragestickers,Personal stickers for WhatsApp,4,100789095,Communication
+com.verizon.messaging.vzmsgs,Verizon Messages,4.3,96643922,Communication
+com.loudtalks,Zello PTT Walkie Talkie,4.4,92326076,Communication
+ru.mail.mailapp,Mail.ru - Email App,4.5,91437925,Communication
+com.cloudmosa.puffinFree,Puffin Web Browser,3.3,86803717,Communication
+org.thoughtcrime.securesms,Signal Private Messenger,4.4,85032168,Communication
+mobi.mgeek.TunnyBrowser,Dolphin Browser - Fast; Private & Adblock🐬,4.1,84333729,Communication
+app.source.getcontact,Getcontact,4.2,81948080,Communication
+com.psiphon3.subscription,Psiphon Pro - The Internet Freedom VPN,4.3,81517220,Communication
+com.bingo.livetalk,Live Talk - free video chat,4,78398783,Communication
+com.motorola.slpc,Motorola Modality Services,4.1,73617693,Communication
+com.enflick.android.TextNow,TextNow: Free Texting & Calling App,4.4,71980038,Communication
+com.opera.mini.native.beta,Opera Mini browser beta,4.3,67753636,Communication
+com.psiphon3,Psiphon,4.3,66121747,Communication
+com.turkcell.bip,BiP – Messaging; Voice and Video Calling,4.4,65714084,Communication
+com.jiochat.jiochatapp,JioChat: HD Video Call,4.1,64723539,Communication
+ru.mail,free video calls and chat,4.4,60413367,Communication
+com.michatapp.im,MiChat - Free Chats & Meet New People,4.3,57386166,Communication
+im.thebot.messenger,BOTIM - Unblocked Video Call and Voice Call,4.3,53351679,Communication
+il.co.smedia.callrecorder.yoni,Call Recorder Automatic,3.9,53283129,Communication
+com.icq.mobile.client,ICQ New Messenger App: Video Calls & Chat Rooms,4.4,53194596,Communication
+com.google.android.accessibility.soundamplifier,Sound Amplifier,4.1,50877292,Communication
+com.brave.browser,Brave Private Browser: Secure; fast web browser,4.6,49987965,Communication
+gogolook.callgogolook2,Whoscall – The caller ID and block App,4.4,49521509,Communication
+com.eyecon.global,Eyecon: Caller ID; Calls and Phone Contacts,4.5,48796190,Communication
+com.ucturbo,UC Browser Turbo- Fast Download; Secure, Ad Block,4.3,47722864,Communication
+com.drilens.wamr,WAMR - Recover deleted messages & status download,4.5,46280481,Communication
+com.skt.prod.dialer,T전화 - 스팸차단; AI, NUGU, 상호검색, 콜라영상통화, baro(로밍), 자동녹음,4.7,46259032,Communication
+com.quicinc.voice.activation,Qualcomm Voice Assist,4,44733503,Communication
+com.link.messages.sms,Messenger for SMS,4.3,43864260,Communication
+net.daum.android.daum,다음 - Daum,3.9,41464374,Communication
+com.imo.android.imoimhd,imo HD-Free Video Calls and Chats,4.1,41176119,Communication
+com.mobile.truecall.tracker.locator.teccreations,Mobile Call Number Locator,4.2,40467906,Communication
+com.vzw.ecid,Verizon Call Filter,4.6,39391296,Communication
+com.rebelvox.voxer,Voxer Walkie Talkie Messenger,4.1,39047143,Communication
+com.att.callprotect,AT&T Call Protect,4.1,38015850,Communication
+org.telegram.plus,Plus Messenger,4.4,37672006,Communication
+com.revesoft.itelmobiledialer.dialer,iTel Mobile Dialer Express,4.1,37599834,Communication
+com.apusapps.browser,APUS Browser: private browser; HD video downloader,4.2,37524133,Communication
+sk.forbis.messenger,Messenger,4,36788671,Communication
+ru.megafon.mlk,МегаФон,4.5,35647522,Communication
+it.medieval.blueftp,Bluetooth File Transfer,4.1,34749165,Communication
+com.vladlee.easyblacklist,Calls Blacklist - Call Blocker,4.5,34362508,Communication
+com.picmax.wemoji,Wemoji - WhatsApp Sticker Maker,4.6,34350214,Communication
+ru.tele2.mytele2,Мой Tele2,4.3,33448293,Communication
+ru.beeline.services,My Beeline,4.7,32234465,Communication
+org.torproject.android,Orbot: Tor for Android,4.1,31989929,Communication
+com.google.android.wearable.app,Wear OS by Google Smartwatch,3.7,30883699,Communication
+com.mizmowireless.vvm,Cricket Visual Voicemail,3.7,30558353,Communication
+com.hsv.freeadblockerbrowser,Free Adblocker Browser - Adblock & Private Browser,4.6,29501259,Communication
+kr.core.technology.wifi.hotspot,Portable Wi-Fi hotspot,3.6,29340583,Communication
+com.microsoft.emmx,Microsoft Edge: Web Browser,4.5,28798300,Communication
+com.samsung.accessory,Samsung Accessory Service,3.8,28620427,Communication
+polis.app.callrecorder,Call Recorder,3.8,28349307,Communication
+Uxpp.UC,NateOn UC,3.6,28295907,Communication
+com.htc.sense.mms,HTC Messages,4,28171309,Communication
+com.allinone.callerid,Showcaller: Caller ID; Call Recorder & Blocker,4.4,27900685,Communication
+com.google.android.apps.googlevoice,Google Voice,4.2,27791985,Communication
+stickerwhatsapp.com.stickers,Sticker Maker for WhatsApp,4.3,27017441,Communication
+wastickerapps.stickersforwhatsapp,New Stickers For WhatsApp - WAStickerapps Free,4.6,26832395,Communication
+com.mentisco.freewificonnect,Free WiFi Connect,4,26351569,Communication
+co.happybits.marcopolo,Marco Polo - Stay In Touch,3.8,26095430,Communication
+browser4g.fast.internetwebexplorer,Browser 4G,4.4,25297431,Communication
+com.linecorp.linelite,LINE Lite: Free Calls & Messages,3.8,24877850,Communication
+com.contapps.android,Contacts+,3.9,24056306,Communication
+com.groupme.android,GroupMe,4.5,23964806,Communication
+livemobilelocationtracker.teccreations,Live Mobile Location and GPS Coordinates,4.2,23943802,Communication
+com.zong.customercare,My Zong,4.1,23826652,Communication
+com.glidetalk.glideapp,Glide - Video Chat Messenger,4.3,23264861,Communication
+mobi.drupe.app,Contacts; Phone Dialer & Caller ID: drupe,4.2,23250365,Communication
+org.jitsi.meet,Jitsi Meet,3.5,22611381,Communication
+ru.yandex.mail,Yandex.Mail,4.5,22269857,Communication
+com.droid.caller.id.phone.number.location,Caller ID & Number Locator,4.3,22142928,Communication
+com.oneplus.mms,OnePlus Messages,3.8,21700432,Communication
+ar.com.personal,Mi Personal,4.5,21525886,Communication
+org.adblockplus.browser,Adblock Browser: Block ads; browse faster,4.2,21467517,Communication
+com.tencent.mobileqq,QQ,2.4,21443006,Communication
+com.mobiles.numberbookdirectory,NumberBook- Caller ID & Block,4.1,21254105,Communication
+com.my.mail,myMail: Email App for Gmail; Hotmail & AOL E-Mail,4.4,20906621,Communication
+com.talkatone.android,Talkatone: Free Texts; Calls & Phone Number,4.1,20886995,Communication
+com.eci.citizen,Voter Helpline,4,20613323,Communication
+com.att.mobile.android.vvm,AT&T Visual Voicemail,3.1,20425447,Communication
+com.opera.browser.beta,Opera browser beta,4.4,20005517,Communication
+com.tmobile.services.nameid,T-Mobile Scam Shield,4.2,19659650,Communication
+com.speakandtranslate.voicetranslator.alllanguages,Speak and Translate Voice Translator & Interpreter,4.3,19163218,Communication
+com.ram.itsl,Mobile Number Locator,4.3,18612605,Communication
+com.juphoon.justalk,JusTalk - Free Video Calls and Fun Video Chat,4.2,18347298,Communication
+org.mozilla.firefox_beta,Firefox for Android Beta,4.3,17863562,Communication
+com.viettel.mocha.app,Mocha: FREE 3G/4G for Entertainment,4.1,17766082,Communication
+com.appsverse.photon,Photon Flash Player & Browser,3.3,17655009,Communication
+com.facebook.talk,Messenger Kids – The Messaging App for Kids,4.2,17640805,Communication
+com.ayoba.ayoba,Ayoba,4.2,17526874,Communication
+com.orange.orangeetmoi,Orange et moi France,3.5,17013165,Communication
+stickermaker.android.stickermaker,Sticker Studio - WhatsApp Sticker Maker,4.4,16944868,Communication
+com.mirrorai.app,Mirror: emoji meme maker; faceapp avatar stickers,4.3,16915381,Communication
+com.majedev.superbeam,SuperBeam | WiFi Direct Share,4.2,16826685,Communication
+com.mobile.number.locator.phone.gps.map,Mobile Number Location - Phone Number Locator App,4.5,16785556,Communication
+com.promessage.message,Messages,4.5,16711482,Communication
+me.talkyou.app.im,TalkU Free Calls +Free Texting +International Call,4.5,16696331,Communication
+caller.id.phone.number.block,Caller ID  & Call Blocker Free,4.2,16587423,Communication
+com.jb.gosms.pctheme.newmessengerversion2017,New Messenger Version 2021,4,16462341,Communication
+org.torproject.torbrowser,Tor Browser: Official; Private, & Secure,4.4,16408387,Communication
+de.blinkt.openvpn,OpenVPN for Android,4.1,16317604,Communication
+v.d.d.answercall,Phone + Contacts and Calls,4.2,16314926,Communication
+de.gmx.mobile.android.mail,GMX - Mail & Cloud,4.4,16175633,Communication
+lv.indycall.client,IndyCall - Free calls to India,4,16139169,Communication
+com.avast.android.vpn,VPN SecureLine by Avast - Security & Privacy Proxy,4.3,16045991,Communication
+com.mrnumber.blocker,Mr. Number - Caller ID & Spam Protection,3.7,15945304,Communication
+com.jio.web,JioPages: Faster; Safer & Simply Yours Web Browser,4.2,15928158,Communication
+za.co.vodacom.android.app,My Vodacom SA,4.1,15855520,Communication
+com.textra,Textra SMS,4.4,15722226,Communication
+com.p1.chompsms,Chomp SMS,4.4,15690684,Communication
+org.prowl.torquefree,Torque Lite (OBD2 & Car),3.8,15315810,Communication
+com.enlightment.voicecallrecorder,Call Recorder,4.1,15297586,Communication
+de.web.mobile.android.mail,WEB.DE Mail & Cloud,4.4,15090557,Communication
+com.simpler.dialer,Dialer; Phone, Call Block & Contacts by Simpler,4.4,14980272,Communication
+com.tuenti.messenger,Tuenti,4.4,14850879,Communication
+com.enflick.android.tn2ndLine,2ndLine - Second Phone Number,4,14650000,Communication
+call.free.international.phone.call,Free Call : Call Free  & Free Text,4.1,14609111,Communication
+com.speaktranslate.englishalllanguaguestranslator.ivoicetranslation,Speak and Translate All Languages Voice Translator,4.3,14602926,Communication
+com.gemtechnologies.gem4me,Gem4me - messenger and group chats,4.2,14512267,Communication
+com.services.movistar.ar,Mi Movistar Argentina,4.5,14467660,Communication
+com.aleskovacic.messenger,Messenger,4.2,14438203,Communication
+bharat.browser,New Uc Browser - Fast Indian Browser; Videos, News,4.1,14368725,Communication
+truecaller.caller.callerid.name.phone.dialer,True ID Caller Name: Caller ID; Call Block, SMS,4.4,14221297,Communication
+com.webascender.callerid,Hiya - Call Blocker; Fraud Detection & Caller ID,4.3,14155669,Communication
+pm.tap.vpn,TapVPN Free VPN,4.3,14136091,Communication
+pro.whatscan.whatsweb.app,Whats Web,4.2,14133382,Communication
+jp.co.yahoo.android.ybrowser,Yahoo!ブラウザー：ヤフーのブラウザ 検索/最適化アプリ,4.2,13619689,Communication
+com.stickotext.main,Stickers For WhatsApp ( WAStickerApps ),4.3,13615784,Communication
+com.touchtalent.bobbleapp,Bobble Indic Keyboard - Stickers; Ғonts & Themes,4.5,13555109,Communication
+com.matchtech.cafe,Cafe - Live video chat,4.4,13420804,Communication
+com.ringapp,Ring - Always Home,3.8,12981724,Communication
+com.couchgram.privacycall,Couchgram; Incoming Call Lock & App Lock,4,12880216,Communication
+com.micromaxinfo.browser,Mmx Browser,3.9,12809090,Communication
+com.beint.pinngle,Pinngle Safe Messenger: Free Calls & Video Chat,4.1,12668713,Communication
+lifeisbetteron.com,Libon - International calls 🌍📞,4,12652974,Communication
+com.wephoneapp,WePhone - Free Phone Calls & Cheap Calls,4,12591688,Communication
+com.zinn.currentmobiletrackerlocation,Live Mobile Number Tracker,2.8,12472972,Communication
+com.chrome.dev,Chrome Dev,4.3,12344651,Communication
+park.outlook.sign.in.client,Email App for Any Mail,4.2,12291488,Communication
+ru.ok.messages,TamTam: Messenger for text chats & Video Calling,4.2,12026916,Communication
+com.kddi.android.cmail,＋メッセージ（プラスメッセージ）,3.5,11841293,Communication
+com.opera.touch,Opera Touch: fast; new & modern web browser,4.3,11711575,Communication
+ar.com.claro.android,Mi Claro Argentina,2.8,11544914,Communication
+es.vodafone.mobile.mivodafone,Mi Vodafone,3.8,11380103,Communication
+com.speaktranslate.tts.speechtotext.voicetyping.translator,Speak and Translate - Voice Typing with Translator,4.2,11077236,Communication
+jp.co.yahoo.android.ymail,Yahoo! Mail - Free Email -,4,10996204,Communication
+com.smscolorful.formessenger.messages,New Messenger 2021,4.5,10928262,Communication
+my.photo.picture.keyboard.keyboard.theme,My Photo Keyboard Background- emoji Keyboard Fonts,4.2,10814162,Communication
+com.proWAStickerApps.stickersemojis.WAStickerApps.emojis,New Emojis Stickers 3D Animated WAStickerApps,4.6,10784208,Communication
+de.resolution.yf_android,Your Freedom VPN Client,3.9,10693927,Communication
+me.nextplus.smsfreetext.phonecalls,Nextplus Free SMS Text + Calls,3.8,10618029,Communication
+com.vox.mosippro,MoSIP Mobile Dialer,3.9,10504151,Communication
+com.tracfone.straighttalk.myaccount,Straight Talk My Account,4,10469884,Communication
+com.truecallerr.live.mobile.gps.location.finder.callerid.callblocker.caller.tracker,True Mobile Caller ID Locator & Call Blocker,3.9,10469558,Communication
+com.jaredco.calleridannounce,Caller Name Announcer  : Hands-Free Pro,4.4,10413961,Communication
+org.vidogram.messenger,Vidogram,4.3,10394597,Communication
+com.ecosia.android,Ecosia - Trees & Privacy,4.7,10377080,Communication
+jp.softbank.mb.mail,SoftBankメール,2.9,10321173,Communication
+com.pdanet,PdaNet+,4.1,10301658,Communication
+com.att.miatt,Mi AT&T,3.4,10192536,Communication
+com.movistar.android.mimovistar.es,Mi Movistar,4.2,10185387,Communication
+com.OnSoft.android.BluetoothChat,SmartWatch sync app for android&Bluetooth notifier,4,10107490,Communication
+com.androminigsm.fscifree,Full Screen Caller ID,4.3,10094619,Communication
+com.foxfi,FoxFi (WiFi Tether w/o Root),3.6,10078404,Communication
+com.isharing.isharing,iSharing - GPS Location Tracker for Family,4.4,10027550,Communication
+io.happybrowsing,Free Private safe Browser,3.6,10000939,Communication
+com.htc.vte,HTC Video Chat Enhance,4.4,9914918,Communication
+com.hb.dialer.free,True Phone Dialer & Contacts & Call Recorder,4.4,9864085,Communication
+spanish.stickers.wastickerapps,Funny Memes Stickers for WAStickerApps,4.2,9840138,Communication
+com.texty.sms,SMS from PC / Tablet & Sync Text from Computer,4.3,9537003,Communication
+com.arena.banglalinkmela.app,MyBL (My Banglalink),4.1,9516976,Communication
+com.recommended.videocall,Video Call,3.7,9502728,Communication
+and.p2l,Phone 2 Location - Caller ID Mobile Number Tracker,4,9397653,Communication
+com.guibais.whatsauto,WhatsAuto - Reply App,4.4,9343723,Communication
+com.orange.vvm,Messagerie vocale visuelle,3.7,9255383,Communication
+mm.cws.telenor.app,MyTelenor,4.5,9219511,Communication
+com.WAStickerApps.love,WAStickerApps Love❤️Love Sticker and amor stickers,4.4,9122562,Communication
+finarea.MobileVoip,MobileVOIP Cheap international Calls,4,9056719,Communication
+com.androidworks.videocalling,AW - free video calls and chat,3.9,8801874,Communication
+org.mozilla.focus,Firefox Focus: The privacy browser,4.1,8794004,Communication
+com.catbag.lovemessages,Frases e Mensagens de Amor,4.7,8770003,Communication
+com.kyivstar.mykyivstar,My Kyivstar,4.1,8751455,Communication
+webexplorer.amazing.speed,Web Browser & Explorer,4.3,8739300,Communication
+xyz.livetalk,Live Talk - Free Video Chat,3.6,8704700,Communication
+com.google.android.apps.wearable.phone,Wear OS Phone,4,8667985,Communication
+com.orange.mail.fr,Mail Orange - boîte mail et service de messagerie,3.9,8649067,Communication
+com.turkcell.yaani,Yaani : Turkey's Web Browser,4.4,8644404,Communication
+com.esealed.dalily,Dalily - Caller ID,3.7,8569233,Communication
+free.call.international.phone.calling,Phone Free Call - Global WiFi Calling App,3.8,8549169,Communication
+com.ciamedia.caller.id,CIA - Caller ID & Call Blocker,4,8494612,Communication
+com.fsck.k9,K-9 Mail,3.9,8404978,Communication
+com.memeandsticker.personal,Personal Stickers - Let photo to personal sticker.,4.4,8401412,Communication
+com.concentriclivers.mms.com.android.mms,SMS From Android 4.4,4.1,8137016,Communication
+com.calea.echo,Mood Messenger - SMS & MMS,4,8095968,Communication
+free.call.international.phone.wifi.calling,Call Free - Call to phone Numbers worldwide,3.9,8084679,Communication
+com.vewd.core.integration.dia,Internet Browser for Sony TV,0,8064444,Communication
+org.adblockplus.adblockplussbrowser,Adblock Plus for Samsung Internet - Browse safe.,3.5,8062409,Communication
+me.freecall.callindia,Call India Free - IndiaCall,4,8037582,Communication
+com.whatdir.stickers,Stickers Cloud & Sticker Maker,4.5,8000396,Communication
+com.rebtel.android,Rebtel: Cheap International Calls,4.5,7998575,Communication
+com.nhn.android.mail,NAVER Mail,3.9,7995957,Communication
+com.caller.id.mobile.phone.number.location.locator.live.track.tracker.callblocker,Mobile Location Tracker & Call Blocker,3.9,7985087,Communication
+ca.bell.selfserve.mybellmobile,MyBell,4.3,7974931,Communication
+net.idt.um.android.bossrevapp,BOSS Revolution® - Cheap International Calling,4.4,7937096,Communication
+callerid.truecaller.trackingnumber.phonenumbertracker.block,True Id Caller Name & Location,4.1,7871942,Communication
+it.pagopa.io.app,IO; l'app dei servizi pubblici,2.7,7802519,Communication
+com.stickers.tamilandastickers,Tamilanda: Tamil stickers; WA Status WAStickerApps,4.2,7800567,Communication
+com.motorola.ptt.prip.br,EquipApp,3.6,7780166,Communication
+com.connectivityapps.hotmail,Connect for Hotmail & Outlook: Mail and Calendar,4.2,7739761,Communication
+com.comcast.hsf,Xfinity WiFi Hotspots,3.7,7737707,Communication
+com.xbrowser.play,XBrowser - Super fast and Powerful,4.1,7698522,Communication
+com.waveapplication,Wave Let's Meet App - Find Your Friends,4.4,7685264,Communication
+com.imo.android.imous,imo free HD video calls and chat,3.9,7662538,Communication
+com.gary.NoTePases,Data Usage - Call Timer,4.3,7650706,Communication
+com.telepacket.TpSmart,TP Smart,4,7638757,Communication
+sms.mms.messages.text.free,Messenger SMS & MMS,4.4,7592440,Communication
+kz.beeline.odp,Мой Beeline (Казахстан),4.1,7570598,Communication
+com.loveshayarisn,Love Shayari Hindi 2021 : All Love Shayari,4,7547840,Communication
+com.omesti.myumobile,MyUMobile,3.4,7479829,Communication
+com.citadini.dev.memescomfrasesbr,Memes com frases BR - WAStickerApps,3.8,7447052,Communication
+com.tempmail,Temp Mail - Free Instant Temporary Email Address,4.5,7431526,Communication
+com.uc_browser,New Uc browser 2021; Fast Downloader & mini,4.1,7411791,Communication
+new.WAStickerapps.cartoonsanimated.sticker,ANIMATED WAstickerApps Funny Caricatures,4.4,7274702,Communication
+com.textmeinc.textme3,TextMe Up Free Calling & Texts,4.2,7260480,Communication
+com.att.android.tablet.attmessages,AT&T Messages for Tablet,3.4,7256371,Communication
+net.daum.android.mail,Daum Mail - 다음 메일,4.6,7247683,Communication
+com.hushed.release,Hushed - Second Phone Number - Calling and Texting,3.7,7207861,Communication
+com.turkcell.sesplus,Upcall - Unknown Caller Identifier,4.1,7190713,Communication
+org.mozilla.rocket,Firefox Lite,4.4,7173638,Communication
+com.syncme.syncmeapp,Sync.ME - Caller ID; Spam Call Blocker & Contacts,4.2,7134406,Communication
+com.nexon.nxplay,넥슨플레이 – 넥슨 게이머의 필수 앱,1.7,7130749,Communication
+org.easyweb.browser,Browser for Android,4.3,7094686,Communication
+mobi.skred.app,Skred Messenger,4.1,7017969,Communication
+com.easycodes.memesbr,Animated Stickers Memes Stickers - WAStickerApps,4.2,6953921,Communication
+com.dartit.RTcabinet,Мой Ростелеком,3.6,6798559,Communication
+com.kiwibrowser.browser,Kiwi Browser - Fast & Quiet,4.1,6784092,Communication
+live.hala,Hala Free Video Chat & Voice Call,3.9,6762931,Communication
+com.flexaspect.android.everycallcontrol,Call Control - SMS/Call Blocker. Block Spam Calls!,4.3,6623244,Communication
+pl.gadugadu,GG Messenger - Lightweight & Simple,2.9,6622915,Communication
+com.finazzi.distquake,🚨 Earthquake Network - Realtime alerts,4.5,6559046,Communication
+quick.browser.secure,Browser,4,6533745,Communication
+com.ktix007.talk,Talk FREE - Text to Voice - Read aloud,4.4,6523311,Communication
+com.telenordigital.contacts,My Contacts - Phonebook Backup & Transfer App,4.2,6521947,Communication
+com.openvacs.android.oto,OTO Free International Call,4.2,6518958,Communication
+com.skype.insiders,Skype Beta,undefined,6506427,Communication
+com.google.android.apps.access.wifi.consumer,Google Wifi,4,6449816,Communication
+ru.vsms,Write SMS by voice,4.3,6408353,Communication
+walkie.talkie.among.us.friends,AmongChat - Voice Chat for Among Us Friends,4.7,6393046,Communication
+de.telekom.android.customercenter,MeinMagenta: Handy & Festnetz,4.3,6364025,Communication
+com.clay.redtritium,Fam for Clash Royale - chest tracker & stats,4.1,6306623,Communication
+com.jio.rilconferences,JioMeet,3.8,6275802,Communication
+com.kaweapp.webexplorer,Web Explorer: Fast and secure web browser,4.4,6217507,Communication
+com.sd2labs.infinity,d2h Infinity,3.6,6203919,Communication
+memesconfrases.stickers.wastickerapps,Memes Frases Sticker para WhatsApp WAStickerApps,4.3,6203244,Communication
+com.rsa.securidapp,RSA SecurID Software Token,4.2,6180263,Communication
+com.jb.gosms.theme.sweet,GO SMS Pro Pink Sweet theme,4.1,6169744,Communication
+com.plantpurple.wastickerapps.emojidom.free,Emojidom stickers for WhatsApp free -WAStickerApps,4.4,6164653,Communication
+com.ovbdigital.ppubgstickers,Stickers for WhatsApp (PUBG Fan App) 2020 ✅,3.9,6160705,Communication
+com.voxofon,Free Calls; Messages & International Calling,4.3,6155553,Communication
+pl.tmobile.miboa,Mój T-Mobile,4.7,6002300,Communication
+com.telos.app.im,Telos Free Phone Number & Unlimited Calls and Text,3.9,5981616,Communication
+com.beint.zangi,Zangi Messenger,4.2,5916472,Communication
+com.proWAStickerApps.memesmexicanos.stickersmexico,🇲🇽 Mexican memes Stickers - New WAStickerApps,4.7,5909204,Communication
+org.kman.AquaMail,Email Aqua Mail - Exchange; SMIME, Smart inbox,4.3,5894675,Communication
+com.contapps.android.messaging,Messages + SMS,3.9,5799183,Communication
+com.whatsphone.messenger.im,Free Calls - International Phone Calling App,4,5782451,Communication
+com.tracfone.tracfone.myaccount,TracFone My Account,3.9,5701485,Communication
+com.rjdeveloper.livetalkfreevideochat,Live Talk Free Video Call,3.8,5656325,Communication
+nu.tommie.inbrowser,InBrowser - Incognito Browsing,4.2,5647341,Communication
+com.disa,Disa - Message hub for SMS; Telegram, FB Messenger,3.4,5620177,Communication
+com.blizzard.messenger,Battle.net,4.5,5610304,Communication
+com.mobiu.browser,Lark Browser,4.2,5586067,Communication
+com.caller.id.location.gps.maps.phone.number.tracker.mobile.locator,Mobile Caller ID Location Tracker,4.2,5552855,Communication
+new.WAStickerapps.bigfunnyemojis.sticker,WAstickerApps New Animated Emojis 3D Stickers,4,5546740,Communication
+call.name.announcer,Caller Name & SMS Talker,4.1,5531847,Communication
+me.truecontact.free,True Contact - Smart Caller ID,4.2,5527265,Communication
+me.number.app.im,2nd Line: Second Phone Number for Texts & Calls,4.1,5488366,Communication
+com.numbuster.android,Who calls Caller name id; Safe calls SMS Blacklist,4.3,5465760,Communication
+com.banana.studio.sms,Messaging SMS,4.3,5412612,Communication
+com.tohsoft.mail.email.emailclient,Email - Mail Mailbox,4.5,5399453,Communication
+com.whatweb.clone,WhatWeb Cloner,4.1,5392217,Communication
+net.omobio.dialogsc,MyDialog,4.1,5388924,Communication
+www.extremedroid.com.a4gltetoolkit,4G Only Network Mode,4.1,5349919,Communication
+com.woow.talk,WowApp - Earn. Share. Do Good,3.6,5345182,Communication
+com.melonsapp.privacymessenger,Privacy Messenger - Private SMS messages; Call app,4.4,5323616,Communication
+customstickermaker.whatsappstickers.personalstickersforwhatsapp,Sticker Maker for WhatsApp; WhatsApp Stickers,4.5,5315321,Communication
+com.abtalk.freecall,AbTalk Call - Free Phone Call & Worldwide Calling,4.1,5297685,Communication
+com.vinsmart.contacts,Vsmart Contact,4.4,5251979,Communication
+com.vinsmart.messaging,VMessage,4.1,5247967,Communication
+com.antiporn.pornoblock.safebrowser,Porn & Ads blocker browser,3.7,5247172,Communication
+sparking.mobile.location.lions.llc,Live Mobile Location : Number Location Finder,3.9,5232928,Communication
+com.snrblabs.grooveip,GrooVe IP VoIP Calls & Text,2.9,5205998,Communication
+it.italiaonline.mail,Libero Mail,4.4,5203793,Communication
+com.freedompop.ott,Text Free & Call Free,3.7,5130539,Communication
+com.flowerstickers.wastickerapps,New WAStickerApps Flowers 🌹Roses Stickers 2020,4.4,5122491,Communication
+com.cloudmosa.puffinTV,Puffin TV Browser,2.2,5120980,Communication
+com.vt.love.photo.frame,Love Photo Frame,3.6,5111138,Communication
+com.wifi.hotspot,WiFi Tethering /WiFi HotSpot,3.3,5098836,Communication
+com.glowapps.memestickerswhatsapp,Meme Stickers for WhatsApp,3.5,5089846,Communication
+com.whitepages.search,Whitepages - Find People,4.3,5075350,Communication
+com.personal.sticker.maker.wastickerapps,Sticker Maker for WhatsApp,4.7,5062427,Communication
+in.number.locator,Number Locator Book,4.4,5062340,Communication
+com.xplus.messenger,X Plus,4.4,5056484,Communication
+com.bestfreewifi.wifihotspot1,Free WiFi Connect Internet Connection Find Hotspot,3.9,5037944,Communication
+com.wastickers.funnybean,WAStickerapps Funny Comedy Stickers,4.3,5006179,Communication
+me.freecall.callglobal,Call Global - Free International Phone Calling App,4.1,5000145,Communication
+com.robokiller.app,RoboKiller - Spam and Robocall Blocker,4.1,4987065,Communication
+com.ktcccp.videofacetime,Free Video Calls and Chat,4,4921906,Communication
+com.mytel.myid,MyID – Your Digital Hub,4.3,4895507,Communication
+info.indiapost,Postinfo,3.9,4880619,Communication
+com.wastickerapps.stickerstore,Stickify: Stickers for WhatsApp,4.4,4875218,Communication
+u.see.browser.for.uc.browser,Browser Go - Private browser; Videos, News Feed,4.5,4872225,Communication
+jp.wifishare.townwifi,TownWiFi by GMO | WiFi Everywhere,3.9,4857408,Communication
+u.browser.for.lite.uc.browser,U Browser : Free Indian Browser; Turbo Browser,4.3,4842671,Communication
+com.firebreak.whatsclonemessenger,WhatsClone,4.4,4839749,Communication
+info.myapp.allemailaccess,All Email Access With Call ID,4.3,4782948,Communication
+com.dtapps.status.saver,Auto Status saver Download : Repost Statuses All,4.1,4766079,Communication
+com.WAStickerApps.lovestickersticker,💕WAStickerApps Amor Stickers de Amor 2020,4.5,4758483,Communication
+com.browser.tssomas,Super Fast Browser,4.4,4686151,Communication
+com.sfr.android.vvm,SFR Répondeur +,3.1,4679400,Communication
+com.esim.numero,Numero eSIM: Second Phone Number & Virtual SIM,4.1,4670403,Communication
+maratische.android.phonesmscodes,Call & Sms From,4.1,4640431,Communication
+com.orange.phone.mea,Orange Phone,4.3,4635386,Communication
+com.revesoft.mobiledialer.dialglobe_communication.mabrook_plazma,Mabrook Plazma,3.8,4623825,Communication
+com.fotoglobal.howtoknowsimownername,How to Know SIM Owner Details,2.6,4606667,Communication
+de.avm.android.wlanapp,FRITZ!App WLAN,4.1,4600525,Communication
+com.rms.live.mobilelocation.calculatedistance.trackmylocation.gpscoordinates.findplaces.getlocation,Live Mobile Location & Find Distance,4.2,4588199,Communication
+ca.virginmobile.myaccount.virginmobile,Virgin Mobile My Account,4.3,4584126,Communication
+com.proWAStickerApps.catsmemes.memesdegatos,New Funny Cat Memes Stickers WAStickerApps,4.7,4579731,Communication
+stickers.memetflix,Stickers y sonidos (WAStickerApps) - Memetflix,3.5,4577155,Communication
+kha.prog.mikrotik,NetShare - no-root-tethering,4.2,4575693,Communication
+com.sec.android.app.sbrowser.beta,Samsung Internet Browser Beta,4.4,4551195,Communication
+cz.seznam.sbrowser,Seznam.cz,4.4,4540152,Communication
+org.connectbot,ConnectBot,4.3,4538109,Communication
+flyjam.InstantTraductor,Instant Translator (Translate),4.4,4521497,Communication
+com.thinkyeah.message,Messaging Classic,4.1,4486931,Communication
+com.popa.video.status.download,Live Chat Video Call with strangers - Popa,4.4,4483086,Communication
+com.naver.whale,Naver Whale Browser,3.4,4473986,Communication
+de.telekom.mail,Telekom Mail – Gratis E-Mail-Adresse & Postfach,4,4470986,Communication
+com.dolphin.browser.engine,Dolphin Jetpack - Fast & Flash,3.8,4455988,Communication
+com.textfun.text.free.call,TextFun : Free Texting & Calling,3.9,4441829,Communication
+uk.co.hellobyte.dialer,HelloByte Dialer,4.1,4441441,Communication
+com.bf.browser,Free Anti Block Browser - Unblock Website,4.2,4401386,Communication
+com.youmail.android.vvm,YouMail Visual Voicemail; Spam & Robocall Blocker,4.4,4394714,Communication
+com.safeum.android,Secure messenger SafeUM,3.8,4379865,Communication
+org.torproject.torbrowser_alpha,Tor Browser (Alpha),4.2,4345958,Communication
+com.jb.gosms.pctheme.smsthemes2017,SMS Themes 2021,3.7,4343687,Communication
+ir.ilmili.telegraph,Graph Messenger,4.3,4343363,Communication
+com.sfr.android.sfrmail,SFR Mail - Boîte mail & Messagerie,2.6,4314802,Communication
+com.mixlr.android,Mixlr - Broadcast Live Audio,4.1,4305742,Communication
+cl.wom.transformacion.appwommobile,WOM (Chile),3.8,4282539,Communication
+com.github.shadowsocks,Shadowsocks,4.2,4279515,Communication
+com.app.text.sex.tips,Caller ID Name & Number Locator - Call Blocker ID,4.1,4275189,Communication
+new.WAStickerApps.babyfunnyfaces.stickers,ANIMATED WAstickerApps Babies Funny Faces,4.4,4270788,Communication
+com.randomvideochat.livevideochat,Live Video Call - Girls Random Video Chat,3.9,4266109,Communication
+com.wastickerapps.EmoticonStickers.Emoji,New WAStickerApps Emoji 😜Emoticon Stickers 2020,4.5,4254781,Communication
+com.helixdev.onesocial,Lite Messenger for Free messages and Video Calls,4.2,4253190,Communication
+com.validio.kontaktkarte.dialer,Clever Dialer - caller ID - block calls,4.5,4237750,Communication
+com.wimosalsafi.wifi.password.anywhere.map.connection.hotspot.wifianalyzer,Free Wifi Connection Anywhere Network Map Connect,4.1,4235044,Communication
+com.mail.emails,All Email Providers,4.1,4228571,Communication
+privacy.explorer.fast.safe.browser,Web Browser - Fast; Privacy & Light Web Explorer,4.4,4225474,Communication
+com.techirsh.islamicsticker,Islamic Stickers Animated 2021 (WAStickerApps),4.5,4208944,Communication
+com.dirtydevelopers.whatsapp.tamilstickers,Tamil Stickers for WhatsApp (WAStickerApp),4.5,4199548,Communication
+com.lowpow.tamiltrollstickers,TamStick - Animated Tamil Stickers; WAStickerApps,4,4168671,Communication
+chatel.aipp,Indian Live Bhabhi Chat - Hot sexy Video Call,3.7,4159136,Communication
+com.zayan.ui2,Zeo Dialer,3.8,4151669,Communication
+caller.phone.id.fakecall,Fake Call,4.1,4146541,Communication
+reactivephone.msearch,Smart Search & Web Browser – light & fast engine,4.7,4144282,Communication
+com.meihillman.callrecorder,Super Call Recorder,3.8,4139371,Communication
+com.killermobile.totalrecall,Call Recorder,3.3,4132686,Communication
+com.zoiper.android.app,Zoiper IAX SIP VOIP Softphone,4.4,4126477,Communication
+nu.bi.moya,Moya App #datafree,4.3,4107568,Communication
+explore.web.browser,Web Browser for Android,4.2,4107164,Communication
+com.bell.ptt,Bell Push-to-talk,3.9,4070260,Communication
+wastickerapps.funnyemoji.stickers,3D Emojis Stickers For WhatsApp - WAStickerApps,4.5,4069399,Communication
+com.trtf.blue,TypeApp mail - email app,4.5,4050663,Communication
+com.fastsigninemail.securemail.bestemail,Email - Fast & Smart email for any Mail,4.4,4020179,Communication
+com.androhelm.antivirus.free2,AntiVirus for Android Security 2021-Virus Cleaner,4.3,4019818,Communication
+com.tipsmessenger.whatsmassenger2019,Free Messenger Tips Whats 2021,3.7,4017241,Communication
+net.iGap,iGap,2.8,3990675,Communication
+net.tech.world.numberbook,Tawsela Shop,3.7,3984390,Communication
+by.mts.client,Мой МТС (Беларусь),4.3,3953747,Communication
+bansi.livemobile.tracker,Live Mobile Number Tracker - Phone Number Tracker,3.7,3952567,Communication
+com.kapron.ap.callannounce,Speak Who is Calling - read notifications aloud,4.3,3947291,Communication
+com.crazystudio.mms6,Messaging+ SMS; MMS Free,4.1,3943103,Communication
+com.bengali.voicetyping.keyboard.speechtotext,Bengali Voice Typing Keyboard – Bangla keyboard,4.1,3937753,Communication
+ch.protonmail.android,ProtonMail - Encrypted Email,4.5,3906254,Communication
+tw.mobileapp.qrcode.barcode.ultra,QR code reader & QR : Barcode scanner,4.3,3902056,Communication
+io.miltec.vodi,Vodi™,3.5,3868961,Communication
+com.ideroid.StickersWAS,Stickers for Whatsapp - WAStickerApps,3.7,3857778,Communication
+com.WAStickerApps.memesmexicanos.stickers,🇲🇽 Stickers Animados Graciosos Memes Mexico 2021,4.5,3842944,Communication
+com.mstream.easytether_beta,Easy Tether Lite (No root),3.5,3837785,Communication
+com.skitto,skitto,4.2,3832098,Communication
+com.stickers.bindaas,Bindaas: Hindi stickers; WA Status WAStickerApps,4,3823902,Communication
+ch.threema.app,Threema. Secure and private Messenger,4.6,3822055,Communication
+bolo.codeplay.com.bolo,Vani - Your Personal Voice Assistant Call Answer,4.3,3816584,Communication
+com.vaultmicro.kidsnote,Kids Note for day care centers,4.1,3814515,Communication
+net.whatscall.freecall,FreeCall,4,3794778,Communication
+jp.xrea.poca.antennapict,AntennaPict β,4.2,3784691,Communication
+com.blackberry.hub,BlackBerry Hub+ Inbox,3.7,3778777,Communication
+com.revesoft.mobiledialerplus,iTel Dialer Plus,4.1,3752001,Communication
+uc.ucmini.browser.ucbrowser,X Pro Browser : Super fast; Powerful and Secure,4.3,3744240,Communication
+com.truecaller.callerid.callername,True ID Caller Name Address Location Tracker,4.3,3724730,Communication
+com.tkgm.parselsorgu,TKGM Parsel Sorgu,3.8,3714446,Communication
+rs.telenor.mymenu,Moj Telenor,4.5,3706594,Communication
+com.wstick.hk,WSTicK - Animated Sticker Maker - WAStickerApps,3.8,3690235,Communication
+com.smsBlocker,Spam blocker for android; Block text,4,3688061,Communication
+com.free.wireless.hack.network.connection.hotspot.password.wifi,Free Wifi Connection Anywhere & Portable Hotspot,4.2,3686158,Communication
+net.lmlookup.lml,Libya Mobile Lookup,4.3,3677867,Communication
+com.Whatsappsticker.KumpulanStickerLucuKeren,Kumpulan Sticker 2020 Keren Lucu for WAStickerApps,3.9,3670898,Communication
+com.rediff.mail.and,Rediffmail,3.7,3646629,Communication
+com.us.free.phone.number,2nd phone number - free private call and texting,3.8,3631563,Communication
+com.thalia.pink.glitter.keyboard,Pink Glitter Keyboard,4.3,3608708,Communication
+maxy.whatsweb.scan,Whats Web Dual QR Code Scanner,3.9,3598977,Communication
+com.blackberry.contacts,BlackBerry Hub+ Contacts,3.6,3597922,Communication
+com.stickerswhats.wastickerapps,Islamic Stickers 2021 - WAStickerApps islam,4.6,3569035,Communication
+com.smartwatch.bluetooth.sync.notifications,Smartwatch Bluetooth Notifier:sync watch & wear os,4.2,3563496,Communication
+com.stt.mobilehotspot,Mobile HotSpot,3.5,3543469,Communication
+com.adhoclabs.burner,Burner - Private Phone Line for Texts and Calls,4.3,3510223,Communication
+com.uscc.ecid,Call Guardian,4,3491464,Communication
+com.granita.icloudmail,Sync for iCloud Mail,4,3483848,Communication
+com.sg.whatsdowanload.unseen,Unseen No Last Seen | No Seen | Hidden Chat Unseen,4.6,3439976,Communication
+com.mysms.android.sms,mysms SMS Text Messaging Sync,4,3401751,Communication
+br.com.claro.flex,Claro flex,3,3379120,Communication
+com.chat_rooms.app876885,الوتس الذهبي المطور | Chat,4.1,3363112,Communication
+com.namastebharat,Namaste Bharat,4.1,3361601,Communication
+com.osmino.wifispot,osmino: Share WiFi Free,4.2,3348529,Communication
+net.gotsun.android.wifi_configuration,Wi-Fi Auto-connect,4,3323803,Communication
+com.gazman.beep,Contacts; Dialer and Phone by Facetocall,4.1,3309574,Communication
+com.sappalodapps.callblocker,Call Block,4.1,3305344,Communication
+com.sonelli.juicessh,JuiceSSH - SSH Client,4.4,3301611,Communication
+android.androidVNC,VNC Viewer for Android,3.8,3301381,Communication
+com.voillo.androiddialer,VoilloDialer,4,3278225,Communication
+com.ucimini.internetbrowser,Browser Mini,4.1,3263566,Communication
+com.fivestarsapp.bluekoalastickers,Cute Blue Koala Stitch Stickers for WhatsApp,4.5,3249191,Communication
+org.whiteglow.antinuisance,AntiNuisance - Call Blocker and SMS Blocker,4.3,3234952,Communication
+com.nymgo.android,Nymgo: Cheap VoIP International Mobile; Call India,4,3224911,Communication
+com.stickersgraciosos.stickersgraciososconfrases,Memes con Frases Stickers en español para WhatsApp,4.2,3219776,Communication
+com.studiokuma.callfilter,Call Defender,4.6,3212206,Communication
+com.lumaticsoft.watchdroidphone,Watch Droid Phone,3.9,3208171,Communication
+org.litewhite.callblocker,Call Blocker,4.3,3181948,Communication
+com.gofeiyu.totalk,ToTalk – Secure and Free Calls & Easy Load,3.9,3172077,Communication
+eyeson.visocon.at.eyesonteam,eyeson Video Meetings,3.9,3165151,Communication
+com.saxvideocall.livetalk,Sax Video Call - Live Talk,3.7,3156768,Communication
+com.secureweb,Secure Web VPN,4.1,3152573,Communication
+com.cks.dialer,Platinum Dialer,3.8,3150610,Communication
+com.mail.mobile.android.mail,mail.com mail,4.6,3150281,Communication
+com.livevideo.randomcall,Live Video Talk : Free Random Video Chat,4.2,3140567,Communication
+kr.go.safepeople,Safety e-Report,2.9,3129917,Communication
+tkstudio.autoresponderforwa,AutoResponder for WhatsApp - Auto Reply Bot,4.5,3125339,Communication
+pi.browser,Pi Browser,4.6,3120328,Communication
+com.bd.livevideochat.randomcall,Live Video Chat - Video Chat With Random People,4.1,3091573,Communication
+sa.jawwy.app2,Jawwy,3.7,3085146,Communication
+www.speak.com,SPEAKLAR: English Speaking Practice App,3.5,3072545,Communication
+com.azka.browser.anti.blokir,Azka Anti Block Browser - Unblock without VPN,4.1,3070667,Communication
+cz.rozkovec.android,Bluetooth Remote PC,3.1,3059327,Communication
